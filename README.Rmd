@@ -316,3 +316,41 @@ ggplot(anzsoc_codes, aes(y = skill_level, fill = is_essential)) +
 fwrite(anzsoc_codes, file = "data/processed-data/cleaned_anzsoc_2013.csv")
 ```
 
+
+<!-- make plot like these https://github.com/m-jahn/SysbioTreemaps -->
+
+```{r}
+occp <- 
+  fread("data/raw-data/census-2016-occp.csv") %>%
+  janitor::clean_names() %>%
+  setDT() %>%
+  .[, -c(1)] %>%
+  setnames("occp_3_digit_level", "minor_group") %>%
+  dcast(minor_group ~ gccsa) %>% 
+  janitor::clean_names()
+
+anzsoc_codes <-
+  merge(anzsoc_codes, occp, by = "minor_group")
+
+
+```
+
+
+```{r cache = TRUE, echo=FALSE}
+library(SysbioTreemaps)
+
+tm <- SysbioTreemaps::voronoiTreemap(
+  data = anzsoc_codes[is_essential == TRUE, ],
+  levels = c("major_group", "minor_group"),
+  cell_size = "total",
+  shape = "rounded_rect"
+)
+```
+
+
+```{r voronoi}
+SysbioTreemaps::drawTreemap(tm, label_size = c(2,4), 
+            label_level = c(1,2),
+            title = "Essential workers")
+```
+
