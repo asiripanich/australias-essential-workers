@@ -10,16 +10,18 @@ knitr::opts_chunk$set(
   comment = "#>", 
   echo = FALSE, 
   message = FALSE, 
-  warning = FALSE
+  warning = FALSE,
+  out.width = "100%"
 )
+knitr::opts_chunk$set(dpi = 300, fig.width = 7)
 ```
 
-# australias-essential-workers
+# Australia's Essential Workers
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of this repository is to identify essential workers by their ANZSIC and ANZSCO codes. Pull requests are welcome.
+The goal of this repository is to identify essential workers by their ANZSIC and ANZSCO codes. Pull requests are welcome. Note that, this is by no means perfect.
 
 # Data sources
 
@@ -30,18 +32,96 @@ The original data sources of the spreadsheets in 'data' folder are as stated bel
 
 # References
 
-- https://www.theaustralian.com.au/world/coronavirus-the-essential-workers-wholl-keep-australia-ticking-along/news-story/cb7992b6ae722afd0838f17e61338e01
-- https://en.wikipedia.org/wiki/Essential_services
-- https://www.betterteam.com/what-is-an-essential-worker-in-australia
+Sources of information I used to identify essential workers.
 
-# ANZSIC
+- https://www.theaustralian.com.au/world/coronavirus-the-essential-workers-wholl-keep-australia-ticking-along/news-story/cb7992b6ae722afd0838f17e61338e01
+- https://www.betterteam.com/what-is-an-essential-worker-in-australia
+- https://en.wikipedia.org/wiki/Essential_services
+
+
+# Process tables
+
+<!-- ```{r, echo = FALSE} -->
+<!-- # gt(head(anzsic_divisions, 10)) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSIC 2006 divisions" -->
+<!-- #   ) -->
+
+<!-- kable(anzsic_divisions,  -->
+<!--       caption = "ANZSIC 2006 divisions") -->
+
+<!-- # gt(head(anzsic_codes, 10)) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSIC 2006 codes", -->
+<!-- #     subtitle = "first 10 rows only" -->
+<!-- #   )  -->
+
+<!-- kable(head(anzsic_codes, 10),  -->
+<!--     caption = "ANZSIC 2006 codes, first 10 rows only") -->
+<!--   # scroll_box(width = "500px", height = "200px") -->
+<!-- ``` -->
+
+
+<!-- ```{r, echo = FALSE} -->
+<!-- kable(anzsoc_major,  -->
+<!--     caption = "ANZSOC 2013 - Major group") -->
+
+<!-- # gt(anzsoc_major) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSOC 2013 - Major group" -->
+<!-- #   ) -->
+
+<!-- kable(head(anzsoc_submajor, 10),  -->
+<!--     caption = "ANZSOC 2013 - Sub-major group, first 10 rows only") -->
+
+<!-- # gt(head(anzsoc_submajor, 10)) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSOC 2013 - Submajor group", -->
+<!-- #     subtitle = "first 10 rows only" -->
+<!-- #   ) -->
+
+<!-- kable(head(anzsoc_minor, 10),  -->
+<!--     caption = "ANZSOC 2013 - Minor group, first 10 rows only") -->
+
+<!-- # gt(head(anzsoc_minor, 10)) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSOC 2013 - Minor group", -->
+<!-- #     subtitle = "first 10 rows only" -->
+<!-- #   ) -->
+
+<!-- kable(head(anzsoc_unit, 10),  -->
+<!--     caption = "ANZSOC 2013 - Unit group, first 10 rows only") -->
+
+<!-- # gt(head(anzsoc_unit, 10)) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSOC 2013 - Unit group", -->
+<!-- #     subtitle = "first 10 rows only" -->
+<!-- #   ) -->
+
+
+<!-- kable(head(anzsoc_unit, 10),  -->
+<!--     caption = "ANZSOC 2013 - Occupation, first 10 rows only") -->
+
+<!-- # gt(head(anzsoc_occupation, 10)) %>% -->
+<!-- #   tab_header( -->
+<!-- #     title = "ANZSOC 2013 - Occupation", -->
+<!-- #     subtitle = "first 10 rows only" -->
+<!-- #   ) -->
+
+<!-- ``` -->
+
+
+## ANZSIC
+
+Merge ANZSIC tables together. `data/processed-data/cleaned_anzsic_2006.csv`
 
 ```{r, echo = FALSE}
 library(data.table)
 library(readxl)
 library(magrittr)
-# library(gt)
+library(ggplot2)
 library(kableExtra)
+# library(gt)
 
 anzsic_codes <- 
   readxl::read_xlsx(path = "data/raw-data/ANZSIC.xlsx", sheet = "codes") %>%
@@ -55,32 +135,54 @@ anzsic_divisions <-
   setDT() %>%
   .[, anzsic_division_title := trimws(anzsic_division_title)]
 
-# gt(head(anzsic_divisions, 10)) %>%
-#   tab_header(
-#     title = "ANZSIC 2006 divisions"
-#   )
+anzsic_codes <- 
+  anzsic_codes %>% 
+  .[, anzsic_division := substr(anzsic_code, 1,1)] %>%
+  merge(., anzsic_divisions, by = "anzsic_division")
 
-kable(anzsic_divisions, 
-      caption = "ANZSIC 2006 divisions")
-  
-# gt(head(anzsic_codes, 10)) %>%
-#   tab_header(
-#     title = "ANZSIC 2006 codes",
-#     subtitle = "first 10 rows only"
-#   ) 
-  
-kable(head(anzsic_codes, 10), 
-    caption = "ANZSIC 2006 codes, first 10 rows only")
-  # scroll_box(width = "500px", height = "200px")
+kable(head(anzsic_codes, 10), caption = "ANZSIC 2006 table")
 ```
 
-# ANZSOC
+## Identify essential industries
 
-```{r, echo = FALSE}
+```{r}
+essential_industries <- 
+  c("Agriculture, Forestry and Fishing", 
+    "Electricity, Gas, Water and Waste Services",
+    "Health Care and Social Assistance",
+    "Retail Trade",
+    "Accommodation and Food Services",
+    "Transport, Postal and Warehousing",
+    "Public Administration and Safety")
+
+anzsic_codes %>%
+  .[, is_essential := FALSE] %>%
+  .[anzsic_division_title %in% essential_industries, is_essential := TRUE]
+```
+
+```{r anzsic-plot}
+ggplot(anzsic_codes, aes(y = anzsic_division_title, fill = is_essential)) +
+  geom_bar() +
+  theme_minimal()
+```
+
+
+```{r}
+# write to processed-data
+data.table::fwrite(anzsic_codes, "data/processed-data/cleaned_anzsic_2006.csv")
+```
+
+
+## ANZSOC
+
+Merge ANZSOC tables together. See in `data/processed-data/cleaned_anzsoc_2013.csv`
+
+```{r}
 anzsoc <-
   readxl::read_xlsx(path = "data/raw-data/ANZSCO.xlsx", sheet = "Table 5", skip = 5, col_names = FALSE) %>%
   janitor::clean_names() %>%
-  setDT(.)
+  setDT(.) %>%
+  .[, lapply(.SD, trimws)]
 
 anzsoc_major <-
   anzsoc %>%
@@ -88,28 +190,11 @@ anzsoc_major <-
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("major_code", "major_group"))
 
-kable(anzsoc_major, 
-    caption = "ANZSOC 2013 - Major group")
-
-# gt(anzsoc_major) %>%
-#   tab_header(
-#     title = "ANZSOC 2013 - Major group"
-#   )
-
 anzsoc_submajor <-
   anzsoc %>%
   .[!is.na(x2) & !is.na(x3)] %>%
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("submajor_code", "submajor_group"))
-
-kable(head(anzsoc_submajor, 10), 
-    caption = "ANZSOC 2013 - Sub-major group, first 10 rows only")
-
-# gt(head(anzsoc_submajor, 10)) %>%
-#   tab_header(
-#     title = "ANZSOC 2013 - Submajor group",
-#     subtitle = "first 10 rows only"
-#   )
 
 anzsoc_minor <-
   anzsoc %>%
@@ -117,29 +202,12 @@ anzsoc_minor <-
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("minor_code", "minor_group"))
 
-kable(head(anzsoc_minor, 10), 
-    caption = "ANZSOC 2013 - Minor group, first 10 rows only")
-
-# gt(head(anzsoc_minor, 10)) %>%
-#   tab_header(
-#     title = "ANZSOC 2013 - Minor group",
-#     subtitle = "first 10 rows only"
-#   )
-
 anzsoc_unit <-
   anzsoc %>%
   .[!is.na(x4) & !is.na(x5)] %>%
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("unit_code", "unit_group"))
 
-kable(head(anzsoc_unit, 10), 
-    caption = "ANZSOC 2013 - Unit group, first 10 rows only")
-
-# gt(head(anzsoc_unit, 10)) %>%
-#   tab_header(
-#     title = "ANZSOC 2013 - Unit group",
-#     subtitle = "first 10 rows only"
-#   )
 
 anzsoc_occupation <-
   anzsoc %>%
@@ -147,39 +215,6 @@ anzsoc_occupation <-
   janitor::remove_empty(., which = "cols") %>% 
   setnames(c("occupation_code", "occupation_group", "skill_level"))
 
-kable(head(anzsoc_unit, 10), 
-    caption = "ANZSOC 2013 - Occupation, first 10 rows only")
-
-# gt(head(anzsoc_occupation, 10)) %>%
-#   tab_header(
-#     title = "ANZSOC 2013 - Occupation",
-#     subtitle = "first 10 rows only"
-#   )
-
-```
-
-# Process tables
-
-## ANZSIC
-
-Merge ANZSIC tables together. `data/processed-data/cleaned_anzsic_2006.csv`
-
-```{r}
-anzsic_codes <- 
-  anzsic_codes %>% 
-  .[, anzsic_division := substr(anzsic_code, 1,1)] %>%
-  merge(., anzsic_divisions, by = "anzsic_division")
-
-data.table::fwrite(anzsic_codes, "data/processed-data/cleaned_anzsic_2006.csv")
-
-kable(head(anzsic_codes, 10), caption = "ANZSIC 2006 table")
-```
-
-## ANZSOC
-
-Merge ANZSOC tables together. See in `data/processed-data/cleaned_anzsoc_2013.csv`
-
-```{r}
 anzsoc_codes <-
   copy(anzsoc_occupation) %>%
   .[, `:=`(
@@ -194,8 +229,79 @@ anzsoc_codes <-
   merge(anzsoc_unit, by = "unit_code") %>%
   setcolorder(c("major_code", "major_group", "submajor_code", "submajor_group", "minor_code", "minor_group", "unit_code", "unit_group"))
 
-fwrite(anzsoc_codes, file = "data/processed-data/cleaned_anzsoc_2013.csv")
-
 kable(head(anzsoc_codes, 10), caption = "ANZSOC 2013 table")
+```
+
+## Identify essential workers
+
+```{r}
+# essential_occupations <- 
+#   c("Delivery Driver",
+#     "Postal Delivery Officer",
+#     "Social Worker",
+#     "Chemist")
+
+essential_minor <- 
+  c("Medical Practitioners",
+    "Midwifery and Nursing Professionals",
+    "Defence Force Members, Fire Fighters and Police",
+    "Legal Professionals",
+    "Prison and Security Officers",
+    "Farmers and Farm Managers",
+    "Food Trades Workers",
+    "Media Professionals",
+    "Child Carers",
+    "Electricians",
+    "Plumbers",
+    "Retail Managers",
+    "ICT Managers",
+    "Delivery Drivers",
+    "Truck Drivers",
+    "Automobile, Bus and Rail Drivers",
+    "Cleaners and Laundry Workers",
+    "Food Process Workers",
+    "Packers and Product Assemblers",
+    "Farmers and Farm Managers",
+    "Prison and Security Officers",
+    "Financial and Insurance Clerks",
+    "Education, Health and Welfare Services Managers",
+    "ICT and Telecommunications Technicians",
+    "Agricultural, Medical and Science Technicians",
+    "Electronics and Telecommunications Trades Workers",
+    "Storepersons",
+    "Miscellaneous Factory Process Workers",
+    "Farm, Forestry and Garden Workers",
+    "Freight Handlers and Shelf Fillers",
+    "Miscellaneous Labourers",
+    "Construction and Mining Labourers",
+    "Mobile Plant Operators",
+    "Checkout Operators and Office Cashiers",
+    "Personal Carers and Assistants",
+    "Health and Welfare Support Workers",
+    "Education, Health and Welfare Services Managers",
+    "Agricultural, Medical and Science Technicians",
+    "School Teachers")
+
+# essential_submajor <-
+#   c("Hospitality, Retail and Service Managers",
+#     "Health Professionals",
+#     "Factory Process Workers",
+#     "Food Preparation Assistants",
+#     "Food Trades Workers")
+
+anzsoc_codes %>%
+  .[, is_essential := FALSE] %>% 
+  .[minor_group %in% essential_minor, is_essential := TRUE]
+```
+
+```{r anzsoc-plot}
+ggplot(anzsoc_codes, aes(y = submajor_group, fill = is_essential)) +
+  geom_bar() +
+  theme_minimal()
+```
+
+```{r}
+# wrote to processed-data
+fwrite(anzsoc_codes, file = "data/processed-data/cleaned_anzsoc_2013.csv")
 ```
 
