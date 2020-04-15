@@ -302,6 +302,13 @@ ggplot(anzsoc_codes, aes(y = submajor_group, fill = is_essential)) +
   theme_minimal() +
   labs(x = "Number of occupations")
 ```
+
+```{r}
+ggplot(anzsoc_codes, aes(y = skill_level, fill = is_essential)) +
+  geom_bar() +
+  theme_minimal() +
+  labs(x = "Number of occupations", 
+       caption = "Highly skilled jobs are ranked 1, unskilled jobs are ranked 5")
 ```
 
 ```{r}
