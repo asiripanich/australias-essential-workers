@@ -1,507 +1,507 @@
-anzsic_division,anzsic_code,anzsic_class_title,anzsic_division_title
-A,A0111,Nursery Production (Under Cover),"Agriculture, Forestry and Fishing"
-A,A0112,Nursery Production (Outdoors),"Agriculture, Forestry and Fishing"
-A,A0113,Turf Growing,"Agriculture, Forestry and Fishing"
-A,A0114,Floriculture Production (Under Cover),"Agriculture, Forestry and Fishing"
-A,A0115,Floriculture Production (Outdoors),"Agriculture, Forestry and Fishing"
-A,A0121,Mushroom Growing,"Agriculture, Forestry and Fishing"
-A,A0122,Vegetable Growing (Under Cover),"Agriculture, Forestry and Fishing"
-A,A0123,Vegetable Growing (Outdoors),"Agriculture, Forestry and Fishing"
-A,A0131,Grape Growing,"Agriculture, Forestry and Fishing"
-A,A0132,Kiwifruit Growing,"Agriculture, Forestry and Fishing"
-A,A0133,Berry Fruit Growing,"Agriculture, Forestry and Fishing"
-A,A0134,Apple and Pear Growing,"Agriculture, Forestry and Fishing"
-A,A0135,Stone Fruit Growing,"Agriculture, Forestry and Fishing"
-A,A0136,Citrus Fruit Growing,"Agriculture, Forestry and Fishing"
-A,A0137,Olive Growing,"Agriculture, Forestry and Fishing"
-A,A0139,Other Fruit and Tree Nut Growing,"Agriculture, Forestry and Fishing"
-A,A0141,Sheep Farming (Specialised),"Agriculture, Forestry and Fishing"
-A,A0142,Beef Cattle Farming (Specialised),"Agriculture, Forestry and Fishing"
-A,A0143,Beef Cattle Feedlots (Specialised),"Agriculture, Forestry and Fishing"
-A,A0144,Sheep-Beef Cattle Farming,"Agriculture, Forestry and Fishing"
-A,A0145,Grain-Sheep or Grain-Beef Cattle Farming,"Agriculture, Forestry and Fishing"
-A,A0146,Rice Growing,"Agriculture, Forestry and Fishing"
-A,A0149,Other Grain Growing,"Agriculture, Forestry and Fishing"
-A,A0151,Sugar Cane Growing,"Agriculture, Forestry and Fishing"
-A,A0152,Cotton Growing,"Agriculture, Forestry and Fishing"
-A,A0159,Other Crop Growing n.e.c.,"Agriculture, Forestry and Fishing"
-A,A0160,Dairy Cattle Farming,"Agriculture, Forestry and Fishing"
-A,A0171,Poultry Farming (Meat),"Agriculture, Forestry and Fishing"
-A,A0172,Poultry Farming (Eggs),"Agriculture, Forestry and Fishing"
-A,A0180,Deer Farming,"Agriculture, Forestry and Fishing"
-A,A0191,Horse Farming,"Agriculture, Forestry and Fishing"
-A,A0192,Pig Farming,"Agriculture, Forestry and Fishing"
-A,A0193,Beekeeping,"Agriculture, Forestry and Fishing"
-A,A0199,Other Livestock Farming n.e.c.,"Agriculture, Forestry and Fishing"
-A,A0201,Offshore Longline and Rack Aquaculture,"Agriculture, Forestry and Fishing"
-A,A0202,Offshore Caged Aquaculture,"Agriculture, Forestry and Fishing"
-A,A0203,Onshore Aquaculture,"Agriculture, Forestry and Fishing"
-A,A0301,Forestry,"Agriculture, Forestry and Fishing"
-A,A0302,Logging,"Agriculture, Forestry and Fishing"
-A,A0411,Rock Lobster and Crab Potting,"Agriculture, Forestry and Fishing"
-A,A0412,Prawn Fishing,"Agriculture, Forestry and Fishing"
-A,A0413,Line Fishing,"Agriculture, Forestry and Fishing"
-A,A0414,"Fish Trawling, Seining and Netting","Agriculture, Forestry and Fishing"
-A,A0419,Other Fishing,"Agriculture, Forestry and Fishing"
-A,A0420,Hunting and Trapping,"Agriculture, Forestry and Fishing"
-A,A0510,Forestry Support Services,"Agriculture, Forestry and Fishing"
-A,A0521,Cotton Ginning,"Agriculture, Forestry and Fishing"
-A,A0522,Shearing Services,"Agriculture, Forestry and Fishing"
-A,A0529,Other Agriculture and Fishing Support Services,"Agriculture, Forestry and Fishing"
-B,B0600,Coal Mining,Mining
-B,B0700,Oil and Gas Extraction,Mining
-B,B0801,Iron Ore Mining,Mining
-B,B0802,Bauxite Mining,Mining
-B,B0803,Copper Ore Mining,Mining
-B,B0804,Gold Ore Mining,Mining
-B,B0805,Mineral Sand Mining,Mining
-B,B0806,Nickel Ore Mining,Mining
-B,B0807,Silver-Lead-Zinc Ore Mining,Mining
-B,B0809,Other Metal Ore Mining,Mining
-B,B0911,Gravel and Sand Quarrying,Mining
-B,B0919,Other Construction Material Mining,Mining
-B,B0990,Other Non-Metallic Mineral Mining and Quarrying,Mining
-B,B1011,Petroleum Exploration,Mining
-B,B1012,Mineral Exploration,Mining
-B,B1090,Other Mining Support Services,Mining
-C,C1111,Meat Processing,Manufacturing
-C,C1112,Poultry Processing,Manufacturing
-C,C1113,Cured Meat and Smallgoods Manufacturing,Manufacturing
-C,C1120,Seafood Processing,Manufacturing
-C,C1131,Milk and Cream Processing,Manufacturing
-C,C1132,Ice Cream Manufacturing,Manufacturing
-C,C1133,Cheese and Other Dairy Product Manufacturing,Manufacturing
-C,C1140,Fruit and Vegetable Processing,Manufacturing
-C,C1150,Oil and Fat Manufacturing,Manufacturing
-C,C1161,Grain Mill Product Manufacturing,Manufacturing
-C,C1162,"Cereal, Pasta and Baking Mix Manufacturing",Manufacturing
-C,C1171,Bread Manufacturing (Factory based),Manufacturing
-C,C1172,Cake and Pastry Manufacturing (Factory based),Manufacturing
-C,C1173,Biscuit Manufacturing (Factory based),Manufacturing
-C,C1174,Bakery Product Manufacturing (Non-factory based),Manufacturing
-C,C1181,Sugar Manufacturing,Manufacturing
-C,C1182,Confectionery Manufacturing,Manufacturing
-C,C1191,"Potato, Corn and Other Crisp Manufacturing",Manufacturing
-C,C1192,Prepared Animal and Bird Feed Manufacturing,Manufacturing
-C,C1199,Other Food Product Manufacturing n.e.c.,Manufacturing
-C,C1211,"Soft Drink, Cordial and Syrup Manufacturing",Manufacturing
-C,C1212,Beer Manufacturing,Manufacturing
-C,C1213,Spirit Manufacturing,Manufacturing
-C,C1214,Wine and Other Alcoholic Beverage Manufacturing,Manufacturing
-C,C1220,Cigarette and Tobacco Product Manufacturing,Manufacturing
-C,C1311,Wool Scouring,Manufacturing
-C,C1312,Natural Textile Manufacturing,Manufacturing
-C,C1313,Synthetic Textile Manufacturing,Manufacturing
-C,C1320,"Leather Tanning, Fur Dressing and Leather Product Manufacturing",Manufacturing
-C,C1331,Textile Floor Covering Manufacturing,Manufacturing
-C,C1332,"Rope, Cordage and Twine Manufacturing",Manufacturing
-C,C1333,Cut and Sewn Textile Product Manufacturing,Manufacturing
-C,C1334,Textile Finishing and Other Textile Product Manufacturing,Manufacturing
-C,C1340,Knitted Product Manufacturing,Manufacturing
-C,C1351,Clothing Manufacturing,Manufacturing
-C,C1352,Footwear Manufacturing,Manufacturing
-C,C1411,Log Sawmilling,Manufacturing
-C,C1412,Wood Chipping,Manufacturing
-C,C1413,Timber Resawing and Dressing,Manufacturing
-C,C1491,Prefabricated Wooden Building Manufacturing,Manufacturing
-C,C1492,Wooden Structural Fitting and Component Manufacturing,Manufacturing
-C,C1493,Veneer and Plywood Manufacturing,Manufacturing
-C,C1494,Reconstituted Wood Product Manufacturing,Manufacturing
-C,C1499,Other Wood Product Manufacturing n.e.c.,Manufacturing
-C,C1510,"Pulp, Paper and Paperboard Manufacturing",Manufacturing
-C,C1521,Corrugated Paperboard and Paperboard Container Manufacturing,Manufacturing
-C,C1522,Paper Bag Manufacturing,Manufacturing
-C,C1523,Paper Stationery Manufacturing,Manufacturing
-C,C1524,Sanitary Paper Product Manufacturing,Manufacturing
-C,C1529,Other Converted Paper Product Manufacturing,Manufacturing
-C,C1611,Printing,Manufacturing
-C,C1612,Printing Support Services,Manufacturing
-C,C1620,Reproduction of Recorded Media,Manufacturing
-C,C1701,Petroleum Refining and Petroleum Fuel Manufacturing,Manufacturing
-C,C1709,Other Petroleum and Coal Product Manufacturing,Manufacturing
-C,C1811,Industrial Gas Manufacturing,Manufacturing
-C,C1812,Basic Organic Chemical Manufacturing,Manufacturing
-C,C1813,Basic Inorganic Chemical Manufacturing,Manufacturing
-C,C1821,Synthetic Resin and Synthetic Rubber Manufacturing,Manufacturing
-C,C1829,Other Basic Polymer Manufacturing,Manufacturing
-C,C1831,Fertiliser Manufacturing,Manufacturing
-C,C1832,Pesticide Manufacturing,Manufacturing
-C,C1841,Human Pharmaceutical and Medicinal Product Manufacturing,Manufacturing
-C,C1842,Veterinary Pharmaceutical and Medicinal Product Manufacturing,Manufacturing
-C,C1851,Cleaning Compound Manufacturing,Manufacturing
-C,C1852,Cosmetic and Toiletry Preparation Manufacturing,Manufacturing
-C,C1891,Photographic Chemical Product Manufacturing,Manufacturing
-C,C1892,Explosive Manufacturing,Manufacturing
-C,C1899,Other Basic Chemical Product Manufacturing n.e.c.,Manufacturing
-C,C1911,Polymer Film and Sheet Packaging Material Manufacturing,Manufacturing
-C,C1912,Rigid and Semi-Rigid Polymer Product Manufacturing,Manufacturing
-C,C1913,Polymer Foam Product Manufacturing,Manufacturing
-C,C1914,Tyre Manufacturing,Manufacturing
-C,C1915,Adhesive Manufacturing,Manufacturing
-C,C1916,Paint and Coatings Manufacturing,Manufacturing
-C,C1919,Other Polymer Product Manufacturing,Manufacturing
-C,C1920,Natural Rubber Product Manufacturing,Manufacturing
-C,C2010,Glass and Glass Product Manufacturing,Manufacturing
-C,C2021,Clay Brick Manufacturing,Manufacturing
-C,C2029,Other Ceramic Product Manufacturing,Manufacturing
-C,C2031,Cement and Lime Manufacturing,Manufacturing
-C,C2032,Plaster Product Manufacturing,Manufacturing
-C,C2033,Ready-Mixed Concrete Manufacturing,Manufacturing
-C,C2034,Concrete Product Manufacturing,Manufacturing
-C,C2090,Other Non-Metallic Mineral Product Manufacturing,Manufacturing
-C,C2110,Iron Smelting and Steel Manufacturing,Manufacturing
-C,C2121,Iron and Steel Casting,Manufacturing
-C,C2122,Steel Pipe and Tube Manufacturing,Manufacturing
-C,C2131,Alumina Production,Manufacturing
-C,C2132,Aluminium Smelting,Manufacturing
-C,C2133,"Copper, Silver, Lead and Zinc Smelting and Refining",Manufacturing
-C,C2139,Other Basic Non-Ferrous Metal Manufacturing,Manufacturing
-C,C2141,Non-Ferrous Metal Casting,Manufacturing
-C,C2142,"Aluminium Rolling, Drawing, Extruding",Manufacturing
-C,C2149,Other Basic Non-Ferrous Metal Product Manufacturing,Manufacturing
-C,C2210,Iron and Steel Forging,Manufacturing
-C,C2221,Structural Steel Fabricating,Manufacturing
-C,C2222,Prefabricated Metal Building Manufacturing,Manufacturing
-C,C2223,Architectural Aluminium Product Manufacturing,Manufacturing
-C,C2224,Metal Roof and Guttering Manufacturing (except Aluminium),Manufacturing
-C,C2229,Other Structural Metal Product Manufacturing,Manufacturing
-C,C2231,"Boiler, Tank and Other Heavy Gauge Metal Container Manufacturing",Manufacturing
-C,C2239,Other Metal Container Manufacturing,Manufacturing
-C,C2240,Sheet Metal Product Manufacturing (except Metal Structural and Container,Manufacturing
-C,C2291,Spring and Wire Product Manufacturing,Manufacturing
-C,C2292,"Nut, Bolt, Screw and Rivet Manufacturing",Manufacturing
-C,C2293,Metal Coating and Finishing,Manufacturing
-C,C2299,Other Fabricated Metal Product Manufacturing n.e.c.,Manufacturing
-C,C2311,Motor Vehicle Manufacturing,Manufacturing
-C,C2312,Motor Vehicle Body and Trailer Manufacturing,Manufacturing
-C,C2313,Automotive Electrical Component Manufacturing,Manufacturing
-C,C2319,Other Motor Vehicle Parts Manufacturing,Manufacturing
-C,C2391,Shipbuilding and Repair Services,Manufacturing
-C,C2392,Boatbuilding and Repair Services,Manufacturing
-C,C2393,Railway Rolling Stock Manufacturing and Repair Services,Manufacturing
-C,C2394,Aircraft Manufacturing and Repair Services,Manufacturing
-C,C2399,Other Transport Equipment Manufacturing n.e.c.,Manufacturing
-C,C2411,"Photographic, Optical and Ophthalmic Equipment Manufacturing",Manufacturing
-C,C2412,Medical and Surgical Equipment Manufacturing,Manufacturing
-C,C2419,Other Professional and Scientific Equipment Manufacturing,Manufacturing
-C,C2421,Computer and Electronic Office Equipment Manufacturing,Manufacturing
-C,C2422,Communication Equipment Manufacturing,Manufacturing
-C,C2429,Other Electronic Equipment Manufacturing,Manufacturing
-C,C2431,Electric Cable and Wire Manufacturing,Manufacturing
-C,C2432,Electric Lighting Equipment Manufacturing,Manufacturing
-C,C2439,Other Electrical Equipment Manufacturing,Manufacturing
-C,C2441,Whiteware Appliance Manufacturing,Manufacturing
-C,C2449,Other Domestic Appliance Manufacturing,Manufacturing
-C,C2451,Pump and Compressor Manufacturing,Manufacturing
-C,C2452,"Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing",Manufacturing
-C,C2461,Agricultural Machinery and Equipment Manufacturing,Manufacturing
-C,C2462,Mining and Construction Machinery Manufacturing,Manufacturing
-C,C2463,Machine Tool and Parts Manufacturing,Manufacturing
-C,C2469,Other Specialised Machinery and Equipment Manufacturing,Manufacturing
-C,C2491,Lifting and Material Handling Equipment Manufacturing,Manufacturing
-C,C2499,Other Machinery and Equipment Manufacturing n.e.c.,Manufacturing
-C,C2511,Wooden Furniture and Upholstered Seat Manufacturing,Manufacturing
-C,C2512,Metal Furniture Manufacturing,Manufacturing
-C,C2513,Mattress Manufacturing,Manufacturing
-C,C2519,Other Furniture Manufacturing,Manufacturing
-C,C2591,Jewellery and Silverware Manufacturing,Manufacturing
-C,C2592,"Toy, Sporting and Recreational Product Manufacturing",Manufacturing
-C,C2599,Other Manufacturing n.e.c.,Manufacturing
-D,D2611,Fossil Fuel Electricity Generation,"Electricity, Gas, Water and Waste Services"
-D,D2612,Hydro-Electricity Generation,"Electricity, Gas, Water and Waste Services"
-D,D2619,Other Electricity Generation,"Electricity, Gas, Water and Waste Services"
-D,D2620,Electricity Transmission,"Electricity, Gas, Water and Waste Services"
-D,D2630,Electricity Distribution,"Electricity, Gas, Water and Waste Services"
-D,D2640,On Selling Electricity and Electricity Market Operation,"Electricity, Gas, Water and Waste Services"
-D,D2700,Gas Supply,"Electricity, Gas, Water and Waste Services"
-D,D2811,Water Supply,"Electricity, Gas, Water and Waste Services"
-D,D2812,Sewerage and Drainage Services,"Electricity, Gas, Water and Waste Services"
-D,D2911,Solid Waste Collection Services,"Electricity, Gas, Water and Waste Services"
-D,D2919,Other Waste Collection Services,"Electricity, Gas, Water and Waste Services"
-D,D2921,Waste Treatment and Disposal Services,"Electricity, Gas, Water and Waste Services"
-D,D2922,Waste Remediation and Materials Recovery Services,"Electricity, Gas, Water and Waste Services"
-E,E3011,House Construction,Construction
-E,E3019,Other Residential Building Construction,Construction
-E,E3020,Non-Residential Building Construction,Construction
-E,E3101,Road and Bridge Construction,Construction
-E,E3109,Other Heavy and Civil Engineering Construction,Construction
-E,E3211,Land Development and Subdivision,Construction
-E,E3212,Site Preparation Services,Construction
-E,E3221,Concreting Services,Construction
-E,E3222,Bricklaying Services,Construction
-E,E3223,Roofing Services,Construction
-E,E3224,Structural Steel Erection Services,Construction
-E,E3231,Plumbing Services,Construction
-E,E3232,Electrical Services,Construction
-E,E3233,Air Conditioning and Heating Services,Construction
-E,E3234,Fire and Security Alarm Installation Services,Construction
-E,E3239,Other Building Installation Services,Construction
-E,E3241,Plastering and Ceiling Services,Construction
-E,E3242,Carpentry Services,Construction
-E,E3243,Tiling and Carpeting Services,Construction
-E,E3244,Painting and Decorating Services,Construction
-E,E3245,Glazing Services,Construction
-E,E3291,Landscape Construction Services,Construction
-E,E3292,Hire of Construction Machinery with Operator,Construction
-E,E3299,Other Construction Services n.e.c.,Construction
-F,F3311,Wool Wholesaling,Wholesale Trade
-F,F3312,Cereal Grain Wholesaling,Wholesale Trade
-F,F3319,Other Agricultural Product Wholesaling,Wholesale Trade
-F,F3321,Petroleum Product Wholesaling,Wholesale Trade
-F,F3322,Metal and Mineral Wholesaling,Wholesale Trade
-F,F3323,Industrial and Agricultural Chemical Product Wholesaling,Wholesale Trade
-F,F3331,Timber Wholesaling,Wholesale Trade
-F,F3332,Plumbing Goods Wholesaling,Wholesale Trade
-F,F3339,Other Hardware Goods Wholesaling,Wholesale Trade
-F,F3411,Agricultural and Construction Machinery Wholesaling,Wholesale Trade
-F,F3419,Other Specialised Industrial Machinery and Equipment Wholesaling,Wholesale Trade
-F,F3491,Professional and Scientific Goods Wholesaling,Wholesale Trade
-F,F3492,Computer and Computer Peripheral Wholesaling,Wholesale Trade
-F,F3493,Telecommunication Goods Wholesaling,Wholesale Trade
-F,F3494,Other Electrical and Electronic Goods Wholesaling,Wholesale Trade
-F,F3499,Other Machinery and Equipment Wholesaling n.e.c.,Wholesale Trade
-F,F3501,Car Wholesaling,Wholesale Trade
-F,F3502,Commercial Vehicle Wholesaling,Wholesale Trade
-F,F3503,Trailer and Other Motor Vehicle Wholesaling,Wholesale Trade
-F,F3504,Motor Vehicle New Parts Wholesaling,Wholesale Trade
-F,F3505,Motor Vehicle Dismantling and Used Parts Wholesaling,Wholesale Trade
-F,F3601,General Line Grocery Wholesaling,Wholesale Trade
-F,F3602,"Meat, Poultry and Smallgoods Wholesaling",Wholesale Trade
-F,F3603,Dairy Produce Wholesaling,Wholesale Trade
-F,F3604,Fish and Seafood Wholesaling,Wholesale Trade
-F,F3605,Fruit and Vegetable Wholesaling,Wholesale Trade
-F,F3606,Liquor and Tobacco Product Wholesaling,Wholesale Trade
-F,F3609,Other Grocery Wholesaling,Wholesale Trade
-F,F3711,Textile Product Wholesaling,Wholesale Trade
-F,F3712,Clothing and Footwear Wholesaling,Wholesale Trade
-F,F3720,Pharmaceutical and Toiletry Goods Wholesaling,Wholesale Trade
-F,F3731,Furniture and Floor Covering Wholesaling,Wholesale Trade
-F,F3732,Jewellery and Watch Wholesaling,Wholesale Trade
-F,F3733,Kitchen and Diningware Wholesaling,Wholesale Trade
-F,F3734,Toy and Sporting Goods Wholesaling,Wholesale Trade
-F,F3735,Book and Magazine Wholesaling,Wholesale Trade
-F,F3736,Paper Product Wholesaling,Wholesale Trade
-F,F3739,Other Goods Wholesaling n.e.c.,Wholesale Trade
-F,F3800,Commission-Based Wholesaling,Wholesale Trade
-G,G3911,Car Retailing,Retail Trade
-G,G3912,Motor Cycle Retailing,Retail Trade
-G,G3913,Trailer and Other Motor Vehicle Retailing,Retail Trade
-G,G3921,Motor Vehicle Parts Retailing,Retail Trade
-G,G3922,Tyre Retailing,Retail Trade
-G,G4000,Fuel Retailing,Retail Trade
-G,G4110,Supermarket and Grocery Stores,Retail Trade
-G,G4121,"Fresh Meat, Fish and Poultry Retailing",Retail Trade
-G,G4122,Fruit and Vegetable Retailing,Retail Trade
-G,G4123,Liquor Retailing,Retail Trade
-G,G4129,Other Specialised Food Retailing,Retail Trade
-G,G4211,Furniture Retailing,Retail Trade
-G,G4212,Floor Coverings Retailing,Retail Trade
-G,G4213,Houseware Retailing,Retail Trade
-G,G4214,Manchester and Other Textile Goods Retailing,Retail Trade
-G,G4221,"Electrical, Electronic and Gas Appliance Retailing",Retail Trade
-G,G4222,Computer and Computer Peripheral Retailing,Retail Trade
-G,G4229,Other Electrical and Electronic Goods Retailing,Retail Trade
-G,G4231,Hardware and Building Supplies Retailing,Retail Trade
-G,G4232,Garden Supplies Retailing,Retail Trade
-G,G4241,Sport and Camping Equipment Retailing,Retail Trade
-G,G4242,Entertainment Media Retailing,Retail Trade
-G,G4243,Toy and Game Retailing,Retail Trade
-G,G4244,Newspaper and Book Retailing,Retail Trade
-G,G4245,Marine Equipment Retailing,Retail Trade
-G,G4251,Clothing Retailing,Retail Trade
-G,G4252,Footwear Retailing,Retail Trade
-G,G4253,Watch and Jewellery Retailing,Retail Trade
-G,G4259,Other Personal Accessory Retailing,Retail Trade
-G,G4260,Department Stores,Retail Trade
-G,G4271,"Pharmaceutical, Cosmetic and Toiletry Goods Retailing",Retail Trade
-G,G4272,Stationery Goods Retailing,Retail Trade
-G,G4273,Antique and Used Goods Retailing,Retail Trade
-G,G4274,Flower Retailing,Retail Trade
-G,G4279,Other Store-Based Retailing n.e.c.,Retail Trade
-G,G4310,Non-Store Retailing,Retail Trade
-G,G4320,Retail Commission-Based Buying and/or Selling,Retail Trade
-H,H4400,Accommodation,Accommodation and Food Services
-H,H4511,Cafes and Restaurants,Accommodation and Food Services
-H,H4512,Takeaway Food Services,Accommodation and Food Services
-H,H4513,Catering Services,Accommodation and Food Services
-H,H4520,"Pubs, Taverns and Bars",Accommodation and Food Services
-H,H4530,Clubs (Hospitality),Accommodation and Food Services
-I,I4610,Road Freight Transport,"Transport, Postal and Warehousing"
-I,I4621,Interurban and Rural Bus Transport,"Transport, Postal and Warehousing"
-I,I4622,Urban Bus Transport (Including Tramway),"Transport, Postal and Warehousing"
-I,I4623,Taxi and Other Road Transport,"Transport, Postal and Warehousing"
-I,I4710,Rail Freight Transport,"Transport, Postal and Warehousing"
-I,I4720,Rail Passenger Transport,"Transport, Postal and Warehousing"
-I,I4810,Water Freight Transport,"Transport, Postal and Warehousing"
-I,I4820,Water Passenger Transport,"Transport, Postal and Warehousing"
-I,I4900,Air and Space Transport,"Transport, Postal and Warehousing"
-I,I5010,Scenic and Sightseeing Transport,"Transport, Postal and Warehousing"
-I,I5021,Pipeline Transport,"Transport, Postal and Warehousing"
-I,I5029,Other Transport n.e.c.,"Transport, Postal and Warehousing"
-I,I5101,Postal Services,"Transport, Postal and Warehousing"
-I,I5102,Courier Pick-up and Delivery Services,"Transport, Postal and Warehousing"
-I,I5211,Stevedoring Services,"Transport, Postal and Warehousing"
-I,I5212,Port and Water Transport Terminal Operations,"Transport, Postal and Warehousing"
-I,I5219,Other Water Transport Support Services,"Transport, Postal and Warehousing"
-I,I5220,Airport Operations and Other Air Transport Support Services,"Transport, Postal and Warehousing"
-I,I5291,Customs Agency Services,"Transport, Postal and Warehousing"
-I,I5292,Freight Forwarding Services,"Transport, Postal and Warehousing"
-I,I5299,Other Transport Support Services n.e.c.,"Transport, Postal and Warehousing"
-I,I5301,Grain Storage Services,"Transport, Postal and Warehousing"
-I,I5309,Other Warehousing and Storage Services,"Transport, Postal and Warehousing"
-J,J5411,Newspaper Publishing,Information Media and Telecommunications
-J,J5412,Magazine and Other Periodical Publishing,Information Media and Telecommunications
-J,J5413,Book Publishing,Information Media and Telecommunications
-J,J5414,Directory and Mailing List Publishing,Information Media and Telecommunications
-J,J5419,"Other Publishing (except Software, Music and Internet)",Information Media and Telecommunications
-J,J5420,Software Publishing,Information Media and Telecommunications
-J,J5511,Motion Picture and Video Production,Information Media and Telecommunications
-J,J5512,Motion Picture and Video Distribution,Information Media and Telecommunications
-J,J5513,Motion Picture Exhibition,Information Media and Telecommunications
-J,J5514,Post-production Services and Other Motion Picture and Video Activities,Information Media and Telecommunications
-J,J5521,Music Publishing,Information Media and Telecommunications
-J,J5522,Music and Other Sound Recording Activities,Information Media and Telecommunications
-J,J5610,Radio Broadcasting,Information Media and Telecommunications
-J,J5621,Free-to-Air Television Broadcasting,Information Media and Telecommunications
-J,J5622,Cable and Other Subscription Broadcasting,Information Media and Telecommunications
-J,J5700,Internet Publishing and Broadcasting,Information Media and Telecommunications
-J,J5801,Wired Telecommunications Network Operation,Information Media and Telecommunications
-J,J5802,Other Telecommunications Network Operation,Information Media and Telecommunications
-J,J5809,Other Telecommunications Services,Information Media and Telecommunications
-J,J5910,Internet Service Providers and Web Search Portals,Information Media and Telecommunications
-J,J5921,Data Processing and Web Hosting Services,Information Media and Telecommunications
-J,J5922,Electronic Information Storage Services,Information Media and Telecommunications
-J,J6010,Libraries and Archives,Information Media and Telecommunications
-J,J6020,Other Information Services,Information Media and Telecommunications
-K,K6210,Central Banking,Financial and Insurance Services
-K,K6221,Banking,Financial and Insurance Services
-K,K6222,Building Society Operation,Financial and Insurance Services
-K,K6223,Credit Union Operation,Financial and Insurance Services
-K,K6229,Other Depository Financial Intermediation,Financial and Insurance Services
-K,K6230,Non-Depository Financing,Financial and Insurance Services
-K,K6240,Financial Asset Investing,Financial and Insurance Services
-K,K6310,Life Insurance,Financial and Insurance Services
-K,K6321,Health Insurance,Financial and Insurance Services
-K,K6322,General Insurance,Financial and Insurance Services
-K,K6330,Superannuation Funds,Financial and Insurance Services
-K,K6411,Financial Asset Broking Services,Financial and Insurance Services
-K,K6419,Other Auxiliary Finance and Investment Services,Financial and Insurance Services
-K,K6420,Auxiliary Insurance Services,Financial and Insurance Services
-L,L6611,Passenger Car Rental and Hiring,"Rental, Hiring and Real Estate Services"
-L,L6619,Other Motor Vehicle and Transport Equipment Rental and Hiring,"Rental, Hiring and Real Estate Services"
-L,L6620,Farm Animal and Bloodstock Leasing,"Rental, Hiring and Real Estate Services"
-L,L6631,Heavy Machinery and Scaffolding Rental and Hiring,"Rental, Hiring and Real Estate Services"
-L,L6632,Video and Other Electronic Media Rental and Hiring,"Rental, Hiring and Real Estate Services"
-L,L6639,Other Goods and Equipment Rental and Hiring n.e.c.,"Rental, Hiring and Real Estate Services"
-L,L6640,Non-Financial Intangible Assets (Except Copyrights) Leasing,"Rental, Hiring and Real Estate Services"
-L,L6711,Residential Property Operators,"Rental, Hiring and Real Estate Services"
-L,L6712,Non-Residential Property Operators,"Rental, Hiring and Real Estate Services"
-L,L6720,Real Estate Services,"Rental, Hiring and Real Estate Services"
-M,M6910,Scientific Research Services,"Professional, Scientific and Technical Services"
-M,M6921,Architectural Services,"Professional, Scientific and Technical Services"
-M,M6922,Surveying and Mapping Services,"Professional, Scientific and Technical Services"
-M,M6923,Engineering Design and Engineering Consulting Services,"Professional, Scientific and Technical Services"
-M,M6924,Other Specialised Design Services,"Professional, Scientific and Technical Services"
-M,M6925,Scientific Testing and Analysis Services,"Professional, Scientific and Technical Services"
-M,M6931,Legal Services,"Professional, Scientific and Technical Services"
-M,M6932,Accounting Services,"Professional, Scientific and Technical Services"
-M,M6940,Advertising Services,"Professional, Scientific and Technical Services"
-M,M6950,Market Research and Statistical Services,"Professional, Scientific and Technical Services"
-M,M6961,Corporate Head Office Management Services,"Professional, Scientific and Technical Services"
-M,M6962,Management Advice and Related Consulting Services,"Professional, Scientific and Technical Services"
-M,M6970,Veterinary Services,"Professional, Scientific and Technical Services"
-M,M6991,Professional Photographic Services,"Professional, Scientific and Technical Services"
-M,M6999,"Other Professional, Scientific and Technical Services n.e.c.","Professional, Scientific and Technical Services"
-M,M7000,Computer System Design and Related Services,"Professional, Scientific and Technical Services"
-N,N7211,Employment Placement and Recruitment Services,Administrative and Support Services
-N,N7212,Labour Supply Services,Administrative and Support Services
-N,N7220,Travel Agency and Tour Arrangement Services,Administrative and Support Services
-N,N7291,Office Administrative Services,Administrative and Support Services
-N,N7292,Document Preparation Services,Administrative and Support Services
-N,N7293,Credit Reporting and Debt Collection Services,Administrative and Support Services
-N,N7294,Call Centre Operation,Administrative and Support Services
-N,N7299,Other Administrative Services n.e.c.,Administrative and Support Services
-N,N7311,Building and Other Industrial Cleaning Services,Administrative and Support Services
-N,N7312,Building Pest Control Services,Administrative and Support Services
-N,N7313,Gardening Services,Administrative and Support Services
-N,N7320,Packaging Services,Administrative and Support Services
-O,O7510,Central Government Administration,Public Administration and Safety
-O,O7520,State Government Administration,Public Administration and Safety
-O,O7530,Local Government Administration,Public Administration and Safety
-O,O7540,Justice,Public Administration and Safety
-O,O7551,Domestic Government Representation,Public Administration and Safety
-O,O7552,Foreign Government Representation,Public Administration and Safety
-O,O7600,Defence,Public Administration and Safety
-O,O7711,Police Services,Public Administration and Safety
-O,O7712,Investigation and Security Services,Public Administration and Safety
-O,O7713,Fire Protection and Other Emergency Services,Public Administration and Safety
-O,O7714,Correctional and Detention Services,Public Administration and Safety
-O,O7719,Other Public Order and Safety Services,Public Administration and Safety
-O,O7720,Regulatory Services,Public Administration and Safety
-P,P8010,Preschool Education,Education and Training
-P,P8021,Primary Education,Education and Training
-P,P8022,Secondary Education,Education and Training
-P,P8023,Combined Primary and Secondary Education,Education and Training
-P,P8024,Special School Education,Education and Training
-P,P8101,Technical and Vocational Education and Training,Education and Training
-P,P8102,Higher Education,Education and Training
-P,P8211,Sports and Physical Recreation Instruction,Education and Training
-P,P8212,Arts Education,Education and Training
-P,P8219,"Adult, Community and Other Education n.e.c.",Education and Training
-P,P8220,Educational Support Services,Education and Training
-Q,Q8401,Hospitals (Except Psychiatric Hospitals),Health Care and Social Assistance
-Q,Q8402,Psychiatric Hospitals,Health Care and Social Assistance
-Q,Q8511,General Practice Medical Services,Health Care and Social Assistance
-Q,Q8512,Specialist Medical Services,Health Care and Social Assistance
-Q,Q8520,Pathology and Diagnostic Imaging Services,Health Care and Social Assistance
-Q,Q8531,Dental Services,Health Care and Social Assistance
-Q,Q8532,Optometry and Optical Dispensing,Health Care and Social Assistance
-Q,Q8533,Physiotherapy Services,Health Care and Social Assistance
-Q,Q8534,Chiropractic and Osteopathic Services,Health Care and Social Assistance
-Q,Q8539,Other Allied Health Services,Health Care and Social Assistance
-Q,Q8591,Ambulance Services,Health Care and Social Assistance
-Q,Q8599,Other Health Care Services n.e.c.,Health Care and Social Assistance
-Q,Q8601,Aged Care Residential Services,Health Care and Social Assistance
-Q,Q8609,Other Residential Care Services,Health Care and Social Assistance
-Q,Q8710,Child Care Services,Health Care and Social Assistance
-Q,Q8790,Other Social Assistance Services,Health Care and Social Assistance
-R,R8910,Museum Operation,Arts and Recreation Services
-R,R8921,Zoological and Botanical Gardens Operation,Arts and Recreation Services
-R,R8922,Nature Reserves and Conservation Parks Operation,Arts and Recreation Services
-R,R9001,Performing Arts Operation,Arts and Recreation Services
-R,R9002,"Creative Artists, Musicians, Writers and Performers",Arts and Recreation Services
-R,R9003,Performing Arts Venue Operation,Arts and Recreation Services
-R,R9111,Health and Fitness Centres and Gymnasia Operation,Arts and Recreation Services
-R,R9112,Sports and Physical Recreation Clubs and Sports Professionals,Arts and Recreation Services
-R,R9113,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",Arts and Recreation Services
-R,R9114,Sports and Physical Recreation Administrative Service,Arts and Recreation Services
-R,R9121,Horse and Dog Racing Administration and Track Operation,Arts and Recreation Services
-R,R9129,Other Horse and Dog Racing Activities,Arts and Recreation Services
-R,R9131,Amusement Parks and Centres Operation,Arts and Recreation Services
-R,R9139,Amusement and Other Recreational Activities n.e.c.,Arts and Recreation Services
-R,R9201,Casino Operation,Arts and Recreation Services
-R,R9202,Lottery Operation,Arts and Recreation Services
-R,R9209,Other Gambling Activities,Arts and Recreation Services
-S,S9411,Automotive Electrical Services,Other Services
-S,S9412,"Automotive Body, Paint and Interior Repair",Other Services
-S,S9419,Other Automotive Repair and Maintenance,Other Services
-S,S9421,Domestic Appliance Repair and Maintenance,Other Services
-S,S9422,Electronic (except Domestic Appliance) and Precision Equipment Repair,Other Services
-S,S9429,Other Machinery and Equipment Repair and Maintenance,Other Services
-S,S9491,Clothing and Footwear Repair,Other Services
-S,S9499,Other Repair and Maintenance n.e.c.,Other Services
-S,S9511,Hairdressing and Beauty Services,Other Services
-S,S9512,Diet and Weight Reduction Centre Operation,Other Services
-S,S9520,"Funeral, Crematorium and Cemetery Services",Other Services
-S,S9531,Laundry and Dry-Cleaning Services,Other Services
-S,S9532,Photographic Film Processing,Other Services
-S,S9533,Parking Services,Other Services
-S,S9534,Brothel Keeping and Prostitution Services,Other Services
-S,S9539,Other Personal Services n.e.c.,Other Services
-S,S9540,Religious Services,Other Services
-S,S9551,Business and Professional Association Services,Other Services
-S,S9552,Labour Association Services,Other Services
-S,S9559,Other Interest Group Services n.e.c.,Other Services
-S,S9601,Private Households Employing Staff,Other Services
-S,S9602,Undifferentiated Goods-Producing Activities of Private Households for Own Use,Other Services
-S,S9603,Undifferentiated Service-Producing Activities of Private Households for Own Use,Other Services
+anzsic_division,anzsic_code,anzsic_class_title,anzsic_division_title,is_essential
+A,A0111,Nursery Production (Under Cover),"Agriculture, Forestry and Fishing",TRUE
+A,A0112,Nursery Production (Outdoors),"Agriculture, Forestry and Fishing",TRUE
+A,A0113,Turf Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0114,Floriculture Production (Under Cover),"Agriculture, Forestry and Fishing",TRUE
+A,A0115,Floriculture Production (Outdoors),"Agriculture, Forestry and Fishing",TRUE
+A,A0121,Mushroom Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0122,Vegetable Growing (Under Cover),"Agriculture, Forestry and Fishing",TRUE
+A,A0123,Vegetable Growing (Outdoors),"Agriculture, Forestry and Fishing",TRUE
+A,A0131,Grape Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0132,Kiwifruit Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0133,Berry Fruit Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0134,Apple and Pear Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0135,Stone Fruit Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0136,Citrus Fruit Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0137,Olive Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0139,Other Fruit and Tree Nut Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0141,Sheep Farming (Specialised),"Agriculture, Forestry and Fishing",TRUE
+A,A0142,Beef Cattle Farming (Specialised),"Agriculture, Forestry and Fishing",TRUE
+A,A0143,Beef Cattle Feedlots (Specialised),"Agriculture, Forestry and Fishing",TRUE
+A,A0144,Sheep-Beef Cattle Farming,"Agriculture, Forestry and Fishing",TRUE
+A,A0145,Grain-Sheep or Grain-Beef Cattle Farming,"Agriculture, Forestry and Fishing",TRUE
+A,A0146,Rice Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0149,Other Grain Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0151,Sugar Cane Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0152,Cotton Growing,"Agriculture, Forestry and Fishing",TRUE
+A,A0159,Other Crop Growing n.e.c.,"Agriculture, Forestry and Fishing",TRUE
+A,A0160,Dairy Cattle Farming,"Agriculture, Forestry and Fishing",TRUE
+A,A0171,Poultry Farming (Meat),"Agriculture, Forestry and Fishing",TRUE
+A,A0172,Poultry Farming (Eggs),"Agriculture, Forestry and Fishing",TRUE
+A,A0180,Deer Farming,"Agriculture, Forestry and Fishing",TRUE
+A,A0191,Horse Farming,"Agriculture, Forestry and Fishing",TRUE
+A,A0192,Pig Farming,"Agriculture, Forestry and Fishing",TRUE
+A,A0193,Beekeeping,"Agriculture, Forestry and Fishing",TRUE
+A,A0199,Other Livestock Farming n.e.c.,"Agriculture, Forestry and Fishing",TRUE
+A,A0201,Offshore Longline and Rack Aquaculture,"Agriculture, Forestry and Fishing",TRUE
+A,A0202,Offshore Caged Aquaculture,"Agriculture, Forestry and Fishing",TRUE
+A,A0203,Onshore Aquaculture,"Agriculture, Forestry and Fishing",TRUE
+A,A0301,Forestry,"Agriculture, Forestry and Fishing",TRUE
+A,A0302,Logging,"Agriculture, Forestry and Fishing",TRUE
+A,A0411,Rock Lobster and Crab Potting,"Agriculture, Forestry and Fishing",TRUE
+A,A0412,Prawn Fishing,"Agriculture, Forestry and Fishing",TRUE
+A,A0413,Line Fishing,"Agriculture, Forestry and Fishing",TRUE
+A,A0414,"Fish Trawling, Seining and Netting","Agriculture, Forestry and Fishing",TRUE
+A,A0419,Other Fishing,"Agriculture, Forestry and Fishing",TRUE
+A,A0420,Hunting and Trapping,"Agriculture, Forestry and Fishing",TRUE
+A,A0510,Forestry Support Services,"Agriculture, Forestry and Fishing",TRUE
+A,A0521,Cotton Ginning,"Agriculture, Forestry and Fishing",TRUE
+A,A0522,Shearing Services,"Agriculture, Forestry and Fishing",TRUE
+A,A0529,Other Agriculture and Fishing Support Services,"Agriculture, Forestry and Fishing",TRUE
+B,B0600,Coal Mining,Mining,FALSE
+B,B0700,Oil and Gas Extraction,Mining,FALSE
+B,B0801,Iron Ore Mining,Mining,FALSE
+B,B0802,Bauxite Mining,Mining,FALSE
+B,B0803,Copper Ore Mining,Mining,FALSE
+B,B0804,Gold Ore Mining,Mining,FALSE
+B,B0805,Mineral Sand Mining,Mining,FALSE
+B,B0806,Nickel Ore Mining,Mining,FALSE
+B,B0807,Silver-Lead-Zinc Ore Mining,Mining,FALSE
+B,B0809,Other Metal Ore Mining,Mining,FALSE
+B,B0911,Gravel and Sand Quarrying,Mining,FALSE
+B,B0919,Other Construction Material Mining,Mining,FALSE
+B,B0990,Other Non-Metallic Mineral Mining and Quarrying,Mining,FALSE
+B,B1011,Petroleum Exploration,Mining,FALSE
+B,B1012,Mineral Exploration,Mining,FALSE
+B,B1090,Other Mining Support Services,Mining,FALSE
+C,C1111,Meat Processing,Manufacturing,FALSE
+C,C1112,Poultry Processing,Manufacturing,FALSE
+C,C1113,Cured Meat and Smallgoods Manufacturing,Manufacturing,FALSE
+C,C1120,Seafood Processing,Manufacturing,FALSE
+C,C1131,Milk and Cream Processing,Manufacturing,FALSE
+C,C1132,Ice Cream Manufacturing,Manufacturing,FALSE
+C,C1133,Cheese and Other Dairy Product Manufacturing,Manufacturing,FALSE
+C,C1140,Fruit and Vegetable Processing,Manufacturing,FALSE
+C,C1150,Oil and Fat Manufacturing,Manufacturing,FALSE
+C,C1161,Grain Mill Product Manufacturing,Manufacturing,FALSE
+C,C1162,"Cereal, Pasta and Baking Mix Manufacturing",Manufacturing,FALSE
+C,C1171,Bread Manufacturing (Factory based),Manufacturing,FALSE
+C,C1172,Cake and Pastry Manufacturing (Factory based),Manufacturing,FALSE
+C,C1173,Biscuit Manufacturing (Factory based),Manufacturing,FALSE
+C,C1174,Bakery Product Manufacturing (Non-factory based),Manufacturing,FALSE
+C,C1181,Sugar Manufacturing,Manufacturing,FALSE
+C,C1182,Confectionery Manufacturing,Manufacturing,FALSE
+C,C1191,"Potato, Corn and Other Crisp Manufacturing",Manufacturing,FALSE
+C,C1192,Prepared Animal and Bird Feed Manufacturing,Manufacturing,FALSE
+C,C1199,Other Food Product Manufacturing n.e.c.,Manufacturing,FALSE
+C,C1211,"Soft Drink, Cordial and Syrup Manufacturing",Manufacturing,FALSE
+C,C1212,Beer Manufacturing,Manufacturing,FALSE
+C,C1213,Spirit Manufacturing,Manufacturing,FALSE
+C,C1214,Wine and Other Alcoholic Beverage Manufacturing,Manufacturing,FALSE
+C,C1220,Cigarette and Tobacco Product Manufacturing,Manufacturing,FALSE
+C,C1311,Wool Scouring,Manufacturing,FALSE
+C,C1312,Natural Textile Manufacturing,Manufacturing,FALSE
+C,C1313,Synthetic Textile Manufacturing,Manufacturing,FALSE
+C,C1320,"Leather Tanning, Fur Dressing and Leather Product Manufacturing",Manufacturing,FALSE
+C,C1331,Textile Floor Covering Manufacturing,Manufacturing,FALSE
+C,C1332,"Rope, Cordage and Twine Manufacturing",Manufacturing,FALSE
+C,C1333,Cut and Sewn Textile Product Manufacturing,Manufacturing,FALSE
+C,C1334,Textile Finishing and Other Textile Product Manufacturing,Manufacturing,FALSE
+C,C1340,Knitted Product Manufacturing,Manufacturing,FALSE
+C,C1351,Clothing Manufacturing,Manufacturing,FALSE
+C,C1352,Footwear Manufacturing,Manufacturing,FALSE
+C,C1411,Log Sawmilling,Manufacturing,FALSE
+C,C1412,Wood Chipping,Manufacturing,FALSE
+C,C1413,Timber Resawing and Dressing,Manufacturing,FALSE
+C,C1491,Prefabricated Wooden Building Manufacturing,Manufacturing,FALSE
+C,C1492,Wooden Structural Fitting and Component Manufacturing,Manufacturing,FALSE
+C,C1493,Veneer and Plywood Manufacturing,Manufacturing,FALSE
+C,C1494,Reconstituted Wood Product Manufacturing,Manufacturing,FALSE
+C,C1499,Other Wood Product Manufacturing n.e.c.,Manufacturing,FALSE
+C,C1510,"Pulp, Paper and Paperboard Manufacturing",Manufacturing,FALSE
+C,C1521,Corrugated Paperboard and Paperboard Container Manufacturing,Manufacturing,FALSE
+C,C1522,Paper Bag Manufacturing,Manufacturing,FALSE
+C,C1523,Paper Stationery Manufacturing,Manufacturing,FALSE
+C,C1524,Sanitary Paper Product Manufacturing,Manufacturing,FALSE
+C,C1529,Other Converted Paper Product Manufacturing,Manufacturing,FALSE
+C,C1611,Printing,Manufacturing,FALSE
+C,C1612,Printing Support Services,Manufacturing,FALSE
+C,C1620,Reproduction of Recorded Media,Manufacturing,FALSE
+C,C1701,Petroleum Refining and Petroleum Fuel Manufacturing,Manufacturing,FALSE
+C,C1709,Other Petroleum and Coal Product Manufacturing,Manufacturing,FALSE
+C,C1811,Industrial Gas Manufacturing,Manufacturing,FALSE
+C,C1812,Basic Organic Chemical Manufacturing,Manufacturing,FALSE
+C,C1813,Basic Inorganic Chemical Manufacturing,Manufacturing,FALSE
+C,C1821,Synthetic Resin and Synthetic Rubber Manufacturing,Manufacturing,FALSE
+C,C1829,Other Basic Polymer Manufacturing,Manufacturing,FALSE
+C,C1831,Fertiliser Manufacturing,Manufacturing,FALSE
+C,C1832,Pesticide Manufacturing,Manufacturing,FALSE
+C,C1841,Human Pharmaceutical and Medicinal Product Manufacturing,Manufacturing,FALSE
+C,C1842,Veterinary Pharmaceutical and Medicinal Product Manufacturing,Manufacturing,FALSE
+C,C1851,Cleaning Compound Manufacturing,Manufacturing,FALSE
+C,C1852,Cosmetic and Toiletry Preparation Manufacturing,Manufacturing,FALSE
+C,C1891,Photographic Chemical Product Manufacturing,Manufacturing,FALSE
+C,C1892,Explosive Manufacturing,Manufacturing,FALSE
+C,C1899,Other Basic Chemical Product Manufacturing n.e.c.,Manufacturing,FALSE
+C,C1911,Polymer Film and Sheet Packaging Material Manufacturing,Manufacturing,FALSE
+C,C1912,Rigid and Semi-Rigid Polymer Product Manufacturing,Manufacturing,FALSE
+C,C1913,Polymer Foam Product Manufacturing,Manufacturing,FALSE
+C,C1914,Tyre Manufacturing,Manufacturing,FALSE
+C,C1915,Adhesive Manufacturing,Manufacturing,FALSE
+C,C1916,Paint and Coatings Manufacturing,Manufacturing,FALSE
+C,C1919,Other Polymer Product Manufacturing,Manufacturing,FALSE
+C,C1920,Natural Rubber Product Manufacturing,Manufacturing,FALSE
+C,C2010,Glass and Glass Product Manufacturing,Manufacturing,FALSE
+C,C2021,Clay Brick Manufacturing,Manufacturing,FALSE
+C,C2029,Other Ceramic Product Manufacturing,Manufacturing,FALSE
+C,C2031,Cement and Lime Manufacturing,Manufacturing,FALSE
+C,C2032,Plaster Product Manufacturing,Manufacturing,FALSE
+C,C2033,Ready-Mixed Concrete Manufacturing,Manufacturing,FALSE
+C,C2034,Concrete Product Manufacturing,Manufacturing,FALSE
+C,C2090,Other Non-Metallic Mineral Product Manufacturing,Manufacturing,FALSE
+C,C2110,Iron Smelting and Steel Manufacturing,Manufacturing,FALSE
+C,C2121,Iron and Steel Casting,Manufacturing,FALSE
+C,C2122,Steel Pipe and Tube Manufacturing,Manufacturing,FALSE
+C,C2131,Alumina Production,Manufacturing,FALSE
+C,C2132,Aluminium Smelting,Manufacturing,FALSE
+C,C2133,"Copper, Silver, Lead and Zinc Smelting and Refining",Manufacturing,FALSE
+C,C2139,Other Basic Non-Ferrous Metal Manufacturing,Manufacturing,FALSE
+C,C2141,Non-Ferrous Metal Casting,Manufacturing,FALSE
+C,C2142,"Aluminium Rolling, Drawing, Extruding",Manufacturing,FALSE
+C,C2149,Other Basic Non-Ferrous Metal Product Manufacturing,Manufacturing,FALSE
+C,C2210,Iron and Steel Forging,Manufacturing,FALSE
+C,C2221,Structural Steel Fabricating,Manufacturing,FALSE
+C,C2222,Prefabricated Metal Building Manufacturing,Manufacturing,FALSE
+C,C2223,Architectural Aluminium Product Manufacturing,Manufacturing,FALSE
+C,C2224,Metal Roof and Guttering Manufacturing (except Aluminium),Manufacturing,FALSE
+C,C2229,Other Structural Metal Product Manufacturing,Manufacturing,FALSE
+C,C2231,"Boiler, Tank and Other Heavy Gauge Metal Container Manufacturing",Manufacturing,FALSE
+C,C2239,Other Metal Container Manufacturing,Manufacturing,FALSE
+C,C2240,Sheet Metal Product Manufacturing (except Metal Structural and Container,Manufacturing,FALSE
+C,C2291,Spring and Wire Product Manufacturing,Manufacturing,FALSE
+C,C2292,"Nut, Bolt, Screw and Rivet Manufacturing",Manufacturing,FALSE
+C,C2293,Metal Coating and Finishing,Manufacturing,FALSE
+C,C2299,Other Fabricated Metal Product Manufacturing n.e.c.,Manufacturing,FALSE
+C,C2311,Motor Vehicle Manufacturing,Manufacturing,FALSE
+C,C2312,Motor Vehicle Body and Trailer Manufacturing,Manufacturing,FALSE
+C,C2313,Automotive Electrical Component Manufacturing,Manufacturing,FALSE
+C,C2319,Other Motor Vehicle Parts Manufacturing,Manufacturing,FALSE
+C,C2391,Shipbuilding and Repair Services,Manufacturing,FALSE
+C,C2392,Boatbuilding and Repair Services,Manufacturing,FALSE
+C,C2393,Railway Rolling Stock Manufacturing and Repair Services,Manufacturing,FALSE
+C,C2394,Aircraft Manufacturing and Repair Services,Manufacturing,FALSE
+C,C2399,Other Transport Equipment Manufacturing n.e.c.,Manufacturing,FALSE
+C,C2411,"Photographic, Optical and Ophthalmic Equipment Manufacturing",Manufacturing,FALSE
+C,C2412,Medical and Surgical Equipment Manufacturing,Manufacturing,FALSE
+C,C2419,Other Professional and Scientific Equipment Manufacturing,Manufacturing,FALSE
+C,C2421,Computer and Electronic Office Equipment Manufacturing,Manufacturing,FALSE
+C,C2422,Communication Equipment Manufacturing,Manufacturing,FALSE
+C,C2429,Other Electronic Equipment Manufacturing,Manufacturing,FALSE
+C,C2431,Electric Cable and Wire Manufacturing,Manufacturing,FALSE
+C,C2432,Electric Lighting Equipment Manufacturing,Manufacturing,FALSE
+C,C2439,Other Electrical Equipment Manufacturing,Manufacturing,FALSE
+C,C2441,Whiteware Appliance Manufacturing,Manufacturing,FALSE
+C,C2449,Other Domestic Appliance Manufacturing,Manufacturing,FALSE
+C,C2451,Pump and Compressor Manufacturing,Manufacturing,FALSE
+C,C2452,"Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing",Manufacturing,FALSE
+C,C2461,Agricultural Machinery and Equipment Manufacturing,Manufacturing,FALSE
+C,C2462,Mining and Construction Machinery Manufacturing,Manufacturing,FALSE
+C,C2463,Machine Tool and Parts Manufacturing,Manufacturing,FALSE
+C,C2469,Other Specialised Machinery and Equipment Manufacturing,Manufacturing,FALSE
+C,C2491,Lifting and Material Handling Equipment Manufacturing,Manufacturing,FALSE
+C,C2499,Other Machinery and Equipment Manufacturing n.e.c.,Manufacturing,FALSE
+C,C2511,Wooden Furniture and Upholstered Seat Manufacturing,Manufacturing,FALSE
+C,C2512,Metal Furniture Manufacturing,Manufacturing,FALSE
+C,C2513,Mattress Manufacturing,Manufacturing,FALSE
+C,C2519,Other Furniture Manufacturing,Manufacturing,FALSE
+C,C2591,Jewellery and Silverware Manufacturing,Manufacturing,FALSE
+C,C2592,"Toy, Sporting and Recreational Product Manufacturing",Manufacturing,FALSE
+C,C2599,Other Manufacturing n.e.c.,Manufacturing,FALSE
+D,D2611,Fossil Fuel Electricity Generation,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2612,Hydro-Electricity Generation,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2619,Other Electricity Generation,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2620,Electricity Transmission,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2630,Electricity Distribution,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2640,On Selling Electricity and Electricity Market Operation,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2700,Gas Supply,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2811,Water Supply,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2812,Sewerage and Drainage Services,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2911,Solid Waste Collection Services,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2919,Other Waste Collection Services,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2921,Waste Treatment and Disposal Services,"Electricity, Gas, Water and Waste Services",TRUE
+D,D2922,Waste Remediation and Materials Recovery Services,"Electricity, Gas, Water and Waste Services",TRUE
+E,E3011,House Construction,Construction,FALSE
+E,E3019,Other Residential Building Construction,Construction,FALSE
+E,E3020,Non-Residential Building Construction,Construction,FALSE
+E,E3101,Road and Bridge Construction,Construction,FALSE
+E,E3109,Other Heavy and Civil Engineering Construction,Construction,FALSE
+E,E3211,Land Development and Subdivision,Construction,FALSE
+E,E3212,Site Preparation Services,Construction,FALSE
+E,E3221,Concreting Services,Construction,FALSE
+E,E3222,Bricklaying Services,Construction,FALSE
+E,E3223,Roofing Services,Construction,FALSE
+E,E3224,Structural Steel Erection Services,Construction,FALSE
+E,E3231,Plumbing Services,Construction,FALSE
+E,E3232,Electrical Services,Construction,FALSE
+E,E3233,Air Conditioning and Heating Services,Construction,FALSE
+E,E3234,Fire and Security Alarm Installation Services,Construction,FALSE
+E,E3239,Other Building Installation Services,Construction,FALSE
+E,E3241,Plastering and Ceiling Services,Construction,FALSE
+E,E3242,Carpentry Services,Construction,FALSE
+E,E3243,Tiling and Carpeting Services,Construction,FALSE
+E,E3244,Painting and Decorating Services,Construction,FALSE
+E,E3245,Glazing Services,Construction,FALSE
+E,E3291,Landscape Construction Services,Construction,FALSE
+E,E3292,Hire of Construction Machinery with Operator,Construction,FALSE
+E,E3299,Other Construction Services n.e.c.,Construction,FALSE
+F,F3311,Wool Wholesaling,Wholesale Trade,FALSE
+F,F3312,Cereal Grain Wholesaling,Wholesale Trade,FALSE
+F,F3319,Other Agricultural Product Wholesaling,Wholesale Trade,FALSE
+F,F3321,Petroleum Product Wholesaling,Wholesale Trade,FALSE
+F,F3322,Metal and Mineral Wholesaling,Wholesale Trade,FALSE
+F,F3323,Industrial and Agricultural Chemical Product Wholesaling,Wholesale Trade,FALSE
+F,F3331,Timber Wholesaling,Wholesale Trade,FALSE
+F,F3332,Plumbing Goods Wholesaling,Wholesale Trade,FALSE
+F,F3339,Other Hardware Goods Wholesaling,Wholesale Trade,FALSE
+F,F3411,Agricultural and Construction Machinery Wholesaling,Wholesale Trade,FALSE
+F,F3419,Other Specialised Industrial Machinery and Equipment Wholesaling,Wholesale Trade,FALSE
+F,F3491,Professional and Scientific Goods Wholesaling,Wholesale Trade,FALSE
+F,F3492,Computer and Computer Peripheral Wholesaling,Wholesale Trade,FALSE
+F,F3493,Telecommunication Goods Wholesaling,Wholesale Trade,FALSE
+F,F3494,Other Electrical and Electronic Goods Wholesaling,Wholesale Trade,FALSE
+F,F3499,Other Machinery and Equipment Wholesaling n.e.c.,Wholesale Trade,FALSE
+F,F3501,Car Wholesaling,Wholesale Trade,FALSE
+F,F3502,Commercial Vehicle Wholesaling,Wholesale Trade,FALSE
+F,F3503,Trailer and Other Motor Vehicle Wholesaling,Wholesale Trade,FALSE
+F,F3504,Motor Vehicle New Parts Wholesaling,Wholesale Trade,FALSE
+F,F3505,Motor Vehicle Dismantling and Used Parts Wholesaling,Wholesale Trade,FALSE
+F,F3601,General Line Grocery Wholesaling,Wholesale Trade,FALSE
+F,F3602,"Meat, Poultry and Smallgoods Wholesaling",Wholesale Trade,FALSE
+F,F3603,Dairy Produce Wholesaling,Wholesale Trade,FALSE
+F,F3604,Fish and Seafood Wholesaling,Wholesale Trade,FALSE
+F,F3605,Fruit and Vegetable Wholesaling,Wholesale Trade,FALSE
+F,F3606,Liquor and Tobacco Product Wholesaling,Wholesale Trade,FALSE
+F,F3609,Other Grocery Wholesaling,Wholesale Trade,FALSE
+F,F3711,Textile Product Wholesaling,Wholesale Trade,FALSE
+F,F3712,Clothing and Footwear Wholesaling,Wholesale Trade,FALSE
+F,F3720,Pharmaceutical and Toiletry Goods Wholesaling,Wholesale Trade,FALSE
+F,F3731,Furniture and Floor Covering Wholesaling,Wholesale Trade,FALSE
+F,F3732,Jewellery and Watch Wholesaling,Wholesale Trade,FALSE
+F,F3733,Kitchen and Diningware Wholesaling,Wholesale Trade,FALSE
+F,F3734,Toy and Sporting Goods Wholesaling,Wholesale Trade,FALSE
+F,F3735,Book and Magazine Wholesaling,Wholesale Trade,FALSE
+F,F3736,Paper Product Wholesaling,Wholesale Trade,FALSE
+F,F3739,Other Goods Wholesaling n.e.c.,Wholesale Trade,FALSE
+F,F3800,Commission-Based Wholesaling,Wholesale Trade,FALSE
+G,G3911,Car Retailing,Retail Trade,TRUE
+G,G3912,Motor Cycle Retailing,Retail Trade,TRUE
+G,G3913,Trailer and Other Motor Vehicle Retailing,Retail Trade,TRUE
+G,G3921,Motor Vehicle Parts Retailing,Retail Trade,TRUE
+G,G3922,Tyre Retailing,Retail Trade,TRUE
+G,G4000,Fuel Retailing,Retail Trade,TRUE
+G,G4110,Supermarket and Grocery Stores,Retail Trade,TRUE
+G,G4121,"Fresh Meat, Fish and Poultry Retailing",Retail Trade,TRUE
+G,G4122,Fruit and Vegetable Retailing,Retail Trade,TRUE
+G,G4123,Liquor Retailing,Retail Trade,TRUE
+G,G4129,Other Specialised Food Retailing,Retail Trade,TRUE
+G,G4211,Furniture Retailing,Retail Trade,TRUE
+G,G4212,Floor Coverings Retailing,Retail Trade,TRUE
+G,G4213,Houseware Retailing,Retail Trade,TRUE
+G,G4214,Manchester and Other Textile Goods Retailing,Retail Trade,TRUE
+G,G4221,"Electrical, Electronic and Gas Appliance Retailing",Retail Trade,TRUE
+G,G4222,Computer and Computer Peripheral Retailing,Retail Trade,TRUE
+G,G4229,Other Electrical and Electronic Goods Retailing,Retail Trade,TRUE
+G,G4231,Hardware and Building Supplies Retailing,Retail Trade,TRUE
+G,G4232,Garden Supplies Retailing,Retail Trade,TRUE
+G,G4241,Sport and Camping Equipment Retailing,Retail Trade,TRUE
+G,G4242,Entertainment Media Retailing,Retail Trade,TRUE
+G,G4243,Toy and Game Retailing,Retail Trade,TRUE
+G,G4244,Newspaper and Book Retailing,Retail Trade,TRUE
+G,G4245,Marine Equipment Retailing,Retail Trade,TRUE
+G,G4251,Clothing Retailing,Retail Trade,TRUE
+G,G4252,Footwear Retailing,Retail Trade,TRUE
+G,G4253,Watch and Jewellery Retailing,Retail Trade,TRUE
+G,G4259,Other Personal Accessory Retailing,Retail Trade,TRUE
+G,G4260,Department Stores,Retail Trade,TRUE
+G,G4271,"Pharmaceutical, Cosmetic and Toiletry Goods Retailing",Retail Trade,TRUE
+G,G4272,Stationery Goods Retailing,Retail Trade,TRUE
+G,G4273,Antique and Used Goods Retailing,Retail Trade,TRUE
+G,G4274,Flower Retailing,Retail Trade,TRUE
+G,G4279,Other Store-Based Retailing n.e.c.,Retail Trade,TRUE
+G,G4310,Non-Store Retailing,Retail Trade,TRUE
+G,G4320,Retail Commission-Based Buying and/or Selling,Retail Trade,TRUE
+H,H4400,Accommodation,Accommodation and Food Services,TRUE
+H,H4511,Cafes and Restaurants,Accommodation and Food Services,TRUE
+H,H4512,Takeaway Food Services,Accommodation and Food Services,TRUE
+H,H4513,Catering Services,Accommodation and Food Services,TRUE
+H,H4520,"Pubs, Taverns and Bars",Accommodation and Food Services,TRUE
+H,H4530,Clubs (Hospitality),Accommodation and Food Services,TRUE
+I,I4610,Road Freight Transport,"Transport, Postal and Warehousing",TRUE
+I,I4621,Interurban and Rural Bus Transport,"Transport, Postal and Warehousing",TRUE
+I,I4622,Urban Bus Transport (Including Tramway),"Transport, Postal and Warehousing",TRUE
+I,I4623,Taxi and Other Road Transport,"Transport, Postal and Warehousing",TRUE
+I,I4710,Rail Freight Transport,"Transport, Postal and Warehousing",TRUE
+I,I4720,Rail Passenger Transport,"Transport, Postal and Warehousing",TRUE
+I,I4810,Water Freight Transport,"Transport, Postal and Warehousing",TRUE
+I,I4820,Water Passenger Transport,"Transport, Postal and Warehousing",TRUE
+I,I4900,Air and Space Transport,"Transport, Postal and Warehousing",TRUE
+I,I5010,Scenic and Sightseeing Transport,"Transport, Postal and Warehousing",TRUE
+I,I5021,Pipeline Transport,"Transport, Postal and Warehousing",TRUE
+I,I5029,Other Transport n.e.c.,"Transport, Postal and Warehousing",TRUE
+I,I5101,Postal Services,"Transport, Postal and Warehousing",TRUE
+I,I5102,Courier Pick-up and Delivery Services,"Transport, Postal and Warehousing",TRUE
+I,I5211,Stevedoring Services,"Transport, Postal and Warehousing",TRUE
+I,I5212,Port and Water Transport Terminal Operations,"Transport, Postal and Warehousing",TRUE
+I,I5219,Other Water Transport Support Services,"Transport, Postal and Warehousing",TRUE
+I,I5220,Airport Operations and Other Air Transport Support Services,"Transport, Postal and Warehousing",TRUE
+I,I5291,Customs Agency Services,"Transport, Postal and Warehousing",TRUE
+I,I5292,Freight Forwarding Services,"Transport, Postal and Warehousing",TRUE
+I,I5299,Other Transport Support Services n.e.c.,"Transport, Postal and Warehousing",TRUE
+I,I5301,Grain Storage Services,"Transport, Postal and Warehousing",TRUE
+I,I5309,Other Warehousing and Storage Services,"Transport, Postal and Warehousing",TRUE
+J,J5411,Newspaper Publishing,Information Media and Telecommunications,FALSE
+J,J5412,Magazine and Other Periodical Publishing,Information Media and Telecommunications,FALSE
+J,J5413,Book Publishing,Information Media and Telecommunications,FALSE
+J,J5414,Directory and Mailing List Publishing,Information Media and Telecommunications,FALSE
+J,J5419,"Other Publishing (except Software, Music and Internet)",Information Media and Telecommunications,FALSE
+J,J5420,Software Publishing,Information Media and Telecommunications,FALSE
+J,J5511,Motion Picture and Video Production,Information Media and Telecommunications,FALSE
+J,J5512,Motion Picture and Video Distribution,Information Media and Telecommunications,FALSE
+J,J5513,Motion Picture Exhibition,Information Media and Telecommunications,FALSE
+J,J5514,Post-production Services and Other Motion Picture and Video Activities,Information Media and Telecommunications,FALSE
+J,J5521,Music Publishing,Information Media and Telecommunications,FALSE
+J,J5522,Music and Other Sound Recording Activities,Information Media and Telecommunications,FALSE
+J,J5610,Radio Broadcasting,Information Media and Telecommunications,FALSE
+J,J5621,Free-to-Air Television Broadcasting,Information Media and Telecommunications,FALSE
+J,J5622,Cable and Other Subscription Broadcasting,Information Media and Telecommunications,FALSE
+J,J5700,Internet Publishing and Broadcasting,Information Media and Telecommunications,FALSE
+J,J5801,Wired Telecommunications Network Operation,Information Media and Telecommunications,FALSE
+J,J5802,Other Telecommunications Network Operation,Information Media and Telecommunications,FALSE
+J,J5809,Other Telecommunications Services,Information Media and Telecommunications,FALSE
+J,J5910,Internet Service Providers and Web Search Portals,Information Media and Telecommunications,FALSE
+J,J5921,Data Processing and Web Hosting Services,Information Media and Telecommunications,FALSE
+J,J5922,Electronic Information Storage Services,Information Media and Telecommunications,FALSE
+J,J6010,Libraries and Archives,Information Media and Telecommunications,FALSE
+J,J6020,Other Information Services,Information Media and Telecommunications,FALSE
+K,K6210,Central Banking,Financial and Insurance Services,FALSE
+K,K6221,Banking,Financial and Insurance Services,FALSE
+K,K6222,Building Society Operation,Financial and Insurance Services,FALSE
+K,K6223,Credit Union Operation,Financial and Insurance Services,FALSE
+K,K6229,Other Depository Financial Intermediation,Financial and Insurance Services,FALSE
+K,K6230,Non-Depository Financing,Financial and Insurance Services,FALSE
+K,K6240,Financial Asset Investing,Financial and Insurance Services,FALSE
+K,K6310,Life Insurance,Financial and Insurance Services,FALSE
+K,K6321,Health Insurance,Financial and Insurance Services,FALSE
+K,K6322,General Insurance,Financial and Insurance Services,FALSE
+K,K6330,Superannuation Funds,Financial and Insurance Services,FALSE
+K,K6411,Financial Asset Broking Services,Financial and Insurance Services,FALSE
+K,K6419,Other Auxiliary Finance and Investment Services,Financial and Insurance Services,FALSE
+K,K6420,Auxiliary Insurance Services,Financial and Insurance Services,FALSE
+L,L6611,Passenger Car Rental and Hiring,"Rental, Hiring and Real Estate Services",FALSE
+L,L6619,Other Motor Vehicle and Transport Equipment Rental and Hiring,"Rental, Hiring and Real Estate Services",FALSE
+L,L6620,Farm Animal and Bloodstock Leasing,"Rental, Hiring and Real Estate Services",FALSE
+L,L6631,Heavy Machinery and Scaffolding Rental and Hiring,"Rental, Hiring and Real Estate Services",FALSE
+L,L6632,Video and Other Electronic Media Rental and Hiring,"Rental, Hiring and Real Estate Services",FALSE
+L,L6639,Other Goods and Equipment Rental and Hiring n.e.c.,"Rental, Hiring and Real Estate Services",FALSE
+L,L6640,Non-Financial Intangible Assets (Except Copyrights) Leasing,"Rental, Hiring and Real Estate Services",FALSE
+L,L6711,Residential Property Operators,"Rental, Hiring and Real Estate Services",FALSE
+L,L6712,Non-Residential Property Operators,"Rental, Hiring and Real Estate Services",FALSE
+L,L6720,Real Estate Services,"Rental, Hiring and Real Estate Services",FALSE
+M,M6910,Scientific Research Services,"Professional, Scientific and Technical Services",FALSE
+M,M6921,Architectural Services,"Professional, Scientific and Technical Services",FALSE
+M,M6922,Surveying and Mapping Services,"Professional, Scientific and Technical Services",FALSE
+M,M6923,Engineering Design and Engineering Consulting Services,"Professional, Scientific and Technical Services",FALSE
+M,M6924,Other Specialised Design Services,"Professional, Scientific and Technical Services",FALSE
+M,M6925,Scientific Testing and Analysis Services,"Professional, Scientific and Technical Services",FALSE
+M,M6931,Legal Services,"Professional, Scientific and Technical Services",FALSE
+M,M6932,Accounting Services,"Professional, Scientific and Technical Services",FALSE
+M,M6940,Advertising Services,"Professional, Scientific and Technical Services",FALSE
+M,M6950,Market Research and Statistical Services,"Professional, Scientific and Technical Services",FALSE
+M,M6961,Corporate Head Office Management Services,"Professional, Scientific and Technical Services",FALSE
+M,M6962,Management Advice and Related Consulting Services,"Professional, Scientific and Technical Services",FALSE
+M,M6970,Veterinary Services,"Professional, Scientific and Technical Services",FALSE
+M,M6991,Professional Photographic Services,"Professional, Scientific and Technical Services",FALSE
+M,M6999,"Other Professional, Scientific and Technical Services n.e.c.","Professional, Scientific and Technical Services",FALSE
+M,M7000,Computer System Design and Related Services,"Professional, Scientific and Technical Services",FALSE
+N,N7211,Employment Placement and Recruitment Services,Administrative and Support Services,FALSE
+N,N7212,Labour Supply Services,Administrative and Support Services,FALSE
+N,N7220,Travel Agency and Tour Arrangement Services,Administrative and Support Services,FALSE
+N,N7291,Office Administrative Services,Administrative and Support Services,FALSE
+N,N7292,Document Preparation Services,Administrative and Support Services,FALSE
+N,N7293,Credit Reporting and Debt Collection Services,Administrative and Support Services,FALSE
+N,N7294,Call Centre Operation,Administrative and Support Services,FALSE
+N,N7299,Other Administrative Services n.e.c.,Administrative and Support Services,FALSE
+N,N7311,Building and Other Industrial Cleaning Services,Administrative and Support Services,FALSE
+N,N7312,Building Pest Control Services,Administrative and Support Services,FALSE
+N,N7313,Gardening Services,Administrative and Support Services,FALSE
+N,N7320,Packaging Services,Administrative and Support Services,FALSE
+O,O7510,Central Government Administration,Public Administration and Safety,TRUE
+O,O7520,State Government Administration,Public Administration and Safety,TRUE
+O,O7530,Local Government Administration,Public Administration and Safety,TRUE
+O,O7540,Justice,Public Administration and Safety,TRUE
+O,O7551,Domestic Government Representation,Public Administration and Safety,TRUE
+O,O7552,Foreign Government Representation,Public Administration and Safety,TRUE
+O,O7600,Defence,Public Administration and Safety,TRUE
+O,O7711,Police Services,Public Administration and Safety,TRUE
+O,O7712,Investigation and Security Services,Public Administration and Safety,TRUE
+O,O7713,Fire Protection and Other Emergency Services,Public Administration and Safety,TRUE
+O,O7714,Correctional and Detention Services,Public Administration and Safety,TRUE
+O,O7719,Other Public Order and Safety Services,Public Administration and Safety,TRUE
+O,O7720,Regulatory Services,Public Administration and Safety,TRUE
+P,P8010,Preschool Education,Education and Training,FALSE
+P,P8021,Primary Education,Education and Training,FALSE
+P,P8022,Secondary Education,Education and Training,FALSE
+P,P8023,Combined Primary and Secondary Education,Education and Training,FALSE
+P,P8024,Special School Education,Education and Training,FALSE
+P,P8101,Technical and Vocational Education and Training,Education and Training,FALSE
+P,P8102,Higher Education,Education and Training,FALSE
+P,P8211,Sports and Physical Recreation Instruction,Education and Training,FALSE
+P,P8212,Arts Education,Education and Training,FALSE
+P,P8219,"Adult, Community and Other Education n.e.c.",Education and Training,FALSE
+P,P8220,Educational Support Services,Education and Training,FALSE
+Q,Q8401,Hospitals (Except Psychiatric Hospitals),Health Care and Social Assistance,TRUE
+Q,Q8402,Psychiatric Hospitals,Health Care and Social Assistance,TRUE
+Q,Q8511,General Practice Medical Services,Health Care and Social Assistance,TRUE
+Q,Q8512,Specialist Medical Services,Health Care and Social Assistance,TRUE
+Q,Q8520,Pathology and Diagnostic Imaging Services,Health Care and Social Assistance,TRUE
+Q,Q8531,Dental Services,Health Care and Social Assistance,TRUE
+Q,Q8532,Optometry and Optical Dispensing,Health Care and Social Assistance,TRUE
+Q,Q8533,Physiotherapy Services,Health Care and Social Assistance,TRUE
+Q,Q8534,Chiropractic and Osteopathic Services,Health Care and Social Assistance,TRUE
+Q,Q8539,Other Allied Health Services,Health Care and Social Assistance,TRUE
+Q,Q8591,Ambulance Services,Health Care and Social Assistance,TRUE
+Q,Q8599,Other Health Care Services n.e.c.,Health Care and Social Assistance,TRUE
+Q,Q8601,Aged Care Residential Services,Health Care and Social Assistance,TRUE
+Q,Q8609,Other Residential Care Services,Health Care and Social Assistance,TRUE
+Q,Q8710,Child Care Services,Health Care and Social Assistance,TRUE
+Q,Q8790,Other Social Assistance Services,Health Care and Social Assistance,TRUE
+R,R8910,Museum Operation,Arts and Recreation Services,FALSE
+R,R8921,Zoological and Botanical Gardens Operation,Arts and Recreation Services,FALSE
+R,R8922,Nature Reserves and Conservation Parks Operation,Arts and Recreation Services,FALSE
+R,R9001,Performing Arts Operation,Arts and Recreation Services,FALSE
+R,R9002,"Creative Artists, Musicians, Writers and Performers",Arts and Recreation Services,FALSE
+R,R9003,Performing Arts Venue Operation,Arts and Recreation Services,FALSE
+R,R9111,Health and Fitness Centres and Gymnasia Operation,Arts and Recreation Services,FALSE
+R,R9112,Sports and Physical Recreation Clubs and Sports Professionals,Arts and Recreation Services,FALSE
+R,R9113,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",Arts and Recreation Services,FALSE
+R,R9114,Sports and Physical Recreation Administrative Service,Arts and Recreation Services,FALSE
+R,R9121,Horse and Dog Racing Administration and Track Operation,Arts and Recreation Services,FALSE
+R,R9129,Other Horse and Dog Racing Activities,Arts and Recreation Services,FALSE
+R,R9131,Amusement Parks and Centres Operation,Arts and Recreation Services,FALSE
+R,R9139,Amusement and Other Recreational Activities n.e.c.,Arts and Recreation Services,FALSE
+R,R9201,Casino Operation,Arts and Recreation Services,FALSE
+R,R9202,Lottery Operation,Arts and Recreation Services,FALSE
+R,R9209,Other Gambling Activities,Arts and Recreation Services,FALSE
+S,S9411,Automotive Electrical Services,Other Services,FALSE
+S,S9412,"Automotive Body, Paint and Interior Repair",Other Services,FALSE
+S,S9419,Other Automotive Repair and Maintenance,Other Services,FALSE
+S,S9421,Domestic Appliance Repair and Maintenance,Other Services,FALSE
+S,S9422,Electronic (except Domestic Appliance) and Precision Equipment Repair,Other Services,FALSE
+S,S9429,Other Machinery and Equipment Repair and Maintenance,Other Services,FALSE
+S,S9491,Clothing and Footwear Repair,Other Services,FALSE
+S,S9499,Other Repair and Maintenance n.e.c.,Other Services,FALSE
+S,S9511,Hairdressing and Beauty Services,Other Services,FALSE
+S,S9512,Diet and Weight Reduction Centre Operation,Other Services,FALSE
+S,S9520,"Funeral, Crematorium and Cemetery Services",Other Services,FALSE
+S,S9531,Laundry and Dry-Cleaning Services,Other Services,FALSE
+S,S9532,Photographic Film Processing,Other Services,FALSE
+S,S9533,Parking Services,Other Services,FALSE
+S,S9534,Brothel Keeping and Prostitution Services,Other Services,FALSE
+S,S9539,Other Personal Services n.e.c.,Other Services,FALSE
+S,S9540,Religious Services,Other Services,FALSE
+S,S9551,Business and Professional Association Services,Other Services,FALSE
+S,S9552,Labour Association Services,Other Services,FALSE
+S,S9559,Other Interest Group Services n.e.c.,Other Services,FALSE
+S,S9601,Private Households Employing Staff,Other Services,FALSE
+S,S9602,Undifferentiated Goods-Producing Activities of Private Households for Own Use,Other Services,FALSE
+S,S9603,Undifferentiated Service-Producing Activities of Private Households for Own Use,Other Services,FALSE
