@@ -7,7 +7,8 @@ output: github_document
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment = "#>", 
+  echo = FALSE, message = FALSE, warning = FALSE
 )
 ```
 
@@ -16,7 +17,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of this repository is to identify essential workers by their ANZSIC and ANZSCO codes.
+The goal of this repository is to identify essential workers by their ANZSIC and ANZSCO codes. Pull requests are welcome.
 
 # Data sources
 
@@ -27,12 +28,16 @@ The original data sources of the spreadsheets in 'data' folder are as stated bel
 
 # References
 
+- https://www.theaustralian.com.au/world/coronavirus-the-essential-workers-wholl-keep-australia-ticking-along/news-story/cb7992b6ae722afd0838f17e61338e01
+- https://en.wikipedia.org/wiki/Essential_services
+- https://www.betterteam.com/what-is-an-essential-worker-in-australia
 
-# Summary
+# ANZSIC
 
-```{r}
+```{r, echo = FALSE}
 library(data.table)
 library(readxl)
+library(magrittr)
 library(gt)
 
 anzsic_codes <- 
@@ -54,12 +59,13 @@ gt(head(anzsic_codes, 10)) %>%
   )
 ```
 
-```{r}
+# ANZSOC
+
+```{r, echo = FALSE}
 anzsoc <-
   readxl::read_xlsx(path = "data/raw-data/ANZSCO.xlsx", sheet = "Table 5", skip = 5, col_names = FALSE) %>%
   janitor::clean_names() %>%
   setDT(.)
-  # setnames(c("major_code","major_group", "submajor_group", "minor_group", "unit_group", "occupation", "skill_level"))
 
 anzsoc_major <-
   anzsoc %>%
