@@ -466,9 +466,43 @@ Agriculture, Forestry and Fishing
 
 </table>
 
-## Identify essential industries
+<!-- ## Identify essential industries -->
 
-<img src="README_files/figure-gfm/anzsic-plot-1.png" width="100%" />
+<!-- ```{r} -->
+
+<!-- essential_industries <-  -->
+
+<!--   c("Agriculture, Forestry and Fishing",  -->
+
+<!--     "Electricity, Gas, Water and Waste Services", -->
+
+<!--     "Health Care and Social Assistance", -->
+
+<!--     "Retail Trade", -->
+
+<!--     "Accommodation and Food Services", -->
+
+<!--     "Transport, Postal and Warehousing", -->
+
+<!--     "Public Administration and Safety") -->
+
+<!-- anzsic_codes %>% -->
+
+<!--   .[, is_essential := FALSE] %>% -->
+
+<!--   .[anzsic_division_title %in% essential_industries, is_essential := TRUE] -->
+
+<!-- ``` -->
+
+<!-- ```{r anzsic-plot} -->
+
+<!-- ggplot(anzsic_codes, aes(y = anzsic_division_title, fill = is_essential)) + -->
+
+<!--   geom_bar() + -->
+
+<!--   theme_minimal() -->
+
+<!-- ``` -->
 
 ## ANZSOC
 

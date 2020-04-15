@@ -143,28 +143,28 @@ anzsic_codes <-
 kable(head(anzsic_codes, 10), caption = "ANZSIC 2006 table")
 ```
 
-## Identify essential industries
+<!-- ## Identify essential industries -->
 
-```{r}
-essential_industries <- 
-  c("Agriculture, Forestry and Fishing", 
-    "Electricity, Gas, Water and Waste Services",
-    "Health Care and Social Assistance",
-    "Retail Trade",
-    "Accommodation and Food Services",
-    "Transport, Postal and Warehousing",
-    "Public Administration and Safety")
+<!-- ```{r} -->
+<!-- essential_industries <-  -->
+<!--   c("Agriculture, Forestry and Fishing",  -->
+<!--     "Electricity, Gas, Water and Waste Services", -->
+<!--     "Health Care and Social Assistance", -->
+<!--     "Retail Trade", -->
+<!--     "Accommodation and Food Services", -->
+<!--     "Transport, Postal and Warehousing", -->
+<!--     "Public Administration and Safety") -->
 
-anzsic_codes %>%
-  .[, is_essential := FALSE] %>%
-  .[anzsic_division_title %in% essential_industries, is_essential := TRUE]
-```
+<!-- anzsic_codes %>% -->
+<!--   .[, is_essential := FALSE] %>% -->
+<!--   .[anzsic_division_title %in% essential_industries, is_essential := TRUE] -->
+<!-- ``` -->
 
-```{r anzsic-plot}
-ggplot(anzsic_codes, aes(y = anzsic_division_title, fill = is_essential)) +
-  geom_bar() +
-  theme_minimal()
-```
+<!-- ```{r anzsic-plot} -->
+<!-- ggplot(anzsic_codes, aes(y = anzsic_division_title, fill = is_essential)) + -->
+<!--   geom_bar() + -->
+<!--   theme_minimal() -->
+<!-- ``` -->
 
 
 ```{r}
