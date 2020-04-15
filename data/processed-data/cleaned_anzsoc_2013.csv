@@ -1,0 +1,1033 @@
+major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_code,unit_group,occupation_code,occupation_group,skill_level
+1,MANAGERS,11,"Chief Executives, General Managers and Legislators",111,"Chief Executives, General Managers and Legislators",1111,Chief Executives and Managing Directors,111111,Chief Executive or Managing Director,1
+1,MANAGERS,11,"Chief Executives, General Managers and Legislators",111,"Chief Executives, General Managers and Legislators",1112,General Managers,111211,Corporate General Manager,1
+1,MANAGERS,11,"Chief Executives, General Managers and Legislators",111,"Chief Executives, General Managers and Legislators",1112,General Managers,111212,Defence Force Senior Officer,1
+1,MANAGERS,11,"Chief Executives, General Managers and Legislators",111,"Chief Executives, General Managers and Legislators",1113,Legislators,111311,Local Government Legislator,1
+1,MANAGERS,11,"Chief Executives, General Managers and Legislators",111,"Chief Executives, General Managers and Legislators",1113,Legislators,111312,Member of Parliament,1
+1,MANAGERS,11,"Chief Executives, General Managers and Legislators",111,"Chief Executives, General Managers and Legislators",1113,Legislators,111399,Legislators nec,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1211,Aquaculture Farmers,121111,Aquaculture Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121211,Cotton Grower,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121212,Flower Grower,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121213,Fruit or Nut Grower,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121214,"Grain, Oilseed or Pasture Grower \ Field Crop Grower",1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121215,Grape Grower,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121216,Mixed Crop Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121217,Sugar Cane Grower,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121218,Turf Grower,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121221,Vegetable Grower (Aus) \ Market Gardener (NZ),1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1212,Crop Farmers,121299,Crop Farmers nec,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121311,Apiarist,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121312,Beef Cattle Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121313,Dairy Cattle Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121314,Deer Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121315,Goat Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121316,Horse Breeder,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121317,Mixed Livestock Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121318,Pig Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121321,Poultry Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121322,Sheep Farmer,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1213,Livestock Farmers,121399,Livestock Farmers nec,1
+1,MANAGERS,12,Farmers and Farm Managers,121,Farmers and Farm Managers,1214,Mixed Crop and Livestock Farmers,121411,Mixed Crop and Livestock Farmer,1
+1,MANAGERS,13,Specialist Managers,131,"Advertising, Public Relations and Sales Managers",1311,"Advertising, Public Relations and Sales Managers",131111,code retired (ANZSCO Revision 1),
+1,MANAGERS,13,Specialist Managers,131,"Advertising, Public Relations and Sales Managers",1311,"Advertising, Public Relations and Sales Managers",131112,Sales and Marketing Manager,1
+1,MANAGERS,13,Specialist Managers,131,"Advertising, Public Relations and Sales Managers",1311,"Advertising, Public Relations and Sales Managers",131113,Advertising Manager,1
+1,MANAGERS,13,Specialist Managers,131,"Advertising, Public Relations and Sales Managers",1311,"Advertising, Public Relations and Sales Managers",131114,Public Relations Manager,1
+1,MANAGERS,13,Specialist Managers,132,Business Administration Managers,1321,Corporate Services Managers,132111,Corporate Services Manager,1
+1,MANAGERS,13,Specialist Managers,132,Business Administration Managers,1322,Finance Managers,132211,Finance Manager,1
+1,MANAGERS,13,Specialist Managers,132,Business Administration Managers,1323,Human Resource Managers,132311,Human Resource Manager,1
+1,MANAGERS,13,Specialist Managers,132,Business Administration Managers,1324,Policy and Planning Managers,132411,Policy and Planning Manager,1
+1,MANAGERS,13,Specialist Managers,132,Business Administration Managers,1325,Research and Development Managers,132511,Research and Development Manager,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1331,Construction Managers,133111,Construction Project Manager,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1331,Construction Managers,133112,Project Builder,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1332,Engineering Managers,133211,Engineering Manager,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1333,"Importers, Exporters and Wholesalers",133311,Importer or Exporter,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1333,"Importers, Exporters and Wholesalers",133312,Wholesaler,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1334,Manufacturers,133411,Manufacturer,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1335,Production Managers,133511,Production Manager (Forestry),1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1335,Production Managers,133512,Production Manager (Manufacturing),1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1335,Production Managers,133513,Production Manager (Mining),1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1336,"Supply, Distribution and Procurement Managers",133611,Supply and Distribution Manager,1
+1,MANAGERS,13,Specialist Managers,133,"Construction, Distribution and Production Managers",1336,"Supply, Distribution and Procurement Managers",133612,Procurement Manager,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1341,Child Care Centre Managers,134111,Child Care Centre Manager,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1342,Health and Welfare Services Managers,134211,Medical Administrator \ Medical Superintendent,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1342,Health and Welfare Services Managers,134212,Nursing Clinical Director,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1342,Health and Welfare Services Managers,134213,Primary Health Organisation Manager,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1342,Health and Welfare Services Managers,134214,Welfare Centre Manager,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1342,Health and Welfare Services Managers,134299,Health and Welfare Services Managers nec,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1343,School Principals,134311,School Principal,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1344,Other Education Managers,134411,Faculty Head,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1344,Other Education Managers,134412,Regional Education Manager,1
+1,MANAGERS,13,Specialist Managers,134,"Education, Health and Welfare Services Managers",1344,Other Education Managers,134499,Education Managers nec,1
+1,MANAGERS,13,Specialist Managers,135,ICT Managers,1351,ICT Managers,135111,Chief Information Officer,1
+1,MANAGERS,13,Specialist Managers,135,ICT Managers,1351,ICT Managers,135112,ICT Project Manager,1
+1,MANAGERS,13,Specialist Managers,135,ICT Managers,1351,ICT Managers,135199,ICT Managers nec,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1391,Commissioned Officers (Management),139111,Commissioned Defence Force Officer,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1391,Commissioned Officers (Management),139112,Commissioned Fire Officer,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1391,Commissioned Officers (Management),139113,Commissioned Police Officer,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1392,Senior Non-commissioned Defence Force Members,139211,Senior Non-commissioned Defence Force Member,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1399,Other Specialist Managers,139911,Arts Administrator or Manager,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1399,Other Specialist Managers,139912,Environmental Manager,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1399,Other Specialist Managers,139913,Laboratory Manager,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1399,Other Specialist Managers,139914,Quality Assurance Manager,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1399,Other Specialist Managers,139915,Sports Administrator,1
+1,MANAGERS,13,Specialist Managers,139,Miscellaneous Specialist Managers,1399,Other Specialist Managers,139999,Specialist Managers nec,1
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1411,Cafe and Restaurant Managers,141111,Cafe or Restaurant Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1412,Caravan Park and Camping Ground Managers,141211,Caravan Park and Camping Ground Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1413,Hotel and Motel Managers,141311,Hotel or Motel Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1414,Licensed Club Managers,141411,Licensed Club Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1419,Other Accommodation and Hospitality Managers,141911,Bed and Breakfast Operator,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1419,Other Accommodation and Hospitality Managers,141912,Retirement Village Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",141,Accommodation and Hospitality Managers,1419,Other Accommodation and Hospitality Managers,141999,Accommodation and Hospitality Managers nec,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",142,Retail Managers,1421,Retail Managers,142111,Retail Manager (General),2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",142,Retail Managers,1421,Retail Managers,142112,Antique Dealer,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",142,Retail Managers,1421,Retail Managers,142113,Betting Agency Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",142,Retail Managers,1421,Retail Managers,142114,Hair or Beauty Salon Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",142,Retail Managers,1421,Retail Managers,142115,Post Office Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",142,Retail Managers,1421,Retail Managers,142116,Travel Agency Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1491,"Amusement, Fitness and Sports Centre Managers",149111,Amusement Centre Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1491,"Amusement, Fitness and Sports Centre Managers",149112,Fitness Centre Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1491,"Amusement, Fitness and Sports Centre Managers",149113,Sports Centre Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1492,Call or Contact Centre and Customer Service Managers,149211,Call or Contact Centre Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1492,Call or Contact Centre and Customer Service Managers,149212,Customer Service Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1493,Conference and Event Organisers,149311,Conference and Event Organiser,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1494,Transport Services Managers,149411,Fleet Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1494,Transport Services Managers,149412,Railway Station Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1494,Transport Services Managers,149413,Transport Company Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1499,"Other Hospitality, Retail and Service Managers",149911,Boarding Kennel or Cattery Operator,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1499,"Other Hospitality, Retail and Service Managers",149912,Cinema or Theatre Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1499,"Other Hospitality, Retail and Service Managers",149913,Facilities Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1499,"Other Hospitality, Retail and Service Managers",149914,Financial Institution Branch Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1499,"Other Hospitality, Retail and Service Managers",149915,Equipment Hire Manager,2
+1,MANAGERS,14,"Hospitality, Retail and Service Managers",149,"Miscellaneous Hospitality, Retail and Service Managers",1499,"Other Hospitality, Retail and Service Managers",149999,"Hospitality, Retail and Service Managers nec",2
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2111,"Actors, Dancers and Other Entertainers",211111,Actor,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2111,"Actors, Dancers and Other Entertainers",211112,Dancer or Choreographer,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2111,"Actors, Dancers and Other Entertainers",211113,Entertainer or Variety Artist,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2111,"Actors, Dancers and Other Entertainers",211199,"Actors, Dancers and Other Entertainers nec",1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2112,Music Professionals,211211,Composer,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2112,Music Professionals,211212,Music Director,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2112,Music Professionals,211213,Musician (Instrumental),1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2112,Music Professionals,211214,Singer,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2112,Music Professionals,211299,Music Professionals nec,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2113,Photographers,211311,Photographer,2
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211411,Painter (Visual Arts),1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211412,Potter or Ceramic Artist,"1 Aus,2 NZ"
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211413,Sculptor,1
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211499,Visual Arts and Crafts Professionals nec,"1 Aus,2 NZ"
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212111,Artistic Director,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212112,Media Producer (excluding Video),1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212113,Radio Presenter,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212114,Television Presenter,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2122,"Authors, and Book and Script Editors",212211,Author,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2122,"Authors, and Book and Script Editors",212212,Book or Script Editor,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212311,"Art Director (Film, Television or Stage)",1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212312,"Director (Film, Television, Radio or Stage)",1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212313,Director of Photography,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212314,Film and Video Editor,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212315,Program Director (Television or Radio),1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212316,Stage Manager,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212317,Technical Director,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212318,Video Producer,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2123,"Film, Television, Radio and Stage Directors",212399,"Film, Television, Radio and Stage Directors nec",1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212411,Copywriter,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212412,Newspaper or Periodical Editor,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212413,Print Journalist,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212414,Radio Journalist,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212415,Technical Writer,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212416,Television Journalist,1
+2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2124,Journalists and Other Writers,212499,Journalists and Other Writers nec,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2211,Accountants,221111,Accountant (General),1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2211,Accountants,221112,Management Accountant,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2211,Accountants,221113,Taxation Accountant,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2212,"Auditors, Company Secretaries and Corporate Treasurers",221211,Company Secretary,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2212,"Auditors, Company Secretaries and Corporate Treasurers",221212,Corporate Treasurer,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2212,"Auditors, Company Secretaries and Corporate Treasurers",221213,External Auditor,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",221,"Accountants, Auditors and Company Secretaries",2212,"Auditors, Company Secretaries and Corporate Treasurers",221214,Internal Auditor,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222111,Commodities Trader,2
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222112,Finance Broker,2
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222113,Insurance Broker,2
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222199,Financial Brokers nec,2
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222211,Financial Market Dealer,"1 Aus,2 NZ"
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222212,Futures Trader,"1 Aus,2 NZ"
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222213,Stockbroking Dealer,"1 Aus,2 NZ"
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222299,Financial Dealers nec,"1 Aus,2 NZ"
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2223,Financial Investment Advisers and Managers,222311,Financial Investment Adviser,"1 Aus,2 NZ"
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2223,Financial Investment Advisers and Managers,222312,Financial Investment Manager,"1 Aus,2 NZ"
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2231,Human Resource Professionals,223111,Human Resource Adviser,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2231,Human Resource Professionals,223112,Recruitment Consultant,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2231,Human Resource Professionals,223113,Workplace Relations Adviser,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2232,ICT Trainers,223211,ICT Trainer,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2233,Training and Development Professionals,223311,Training and Development Professional,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2241,"Actuaries, Mathematicians and Statisticians",224111,Actuary,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2241,"Actuaries, Mathematicians and Statisticians",224112,Mathematician,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2241,"Actuaries, Mathematicians and Statisticians",224113,Statistician,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2242,"Archivists, Curators and Records Managers",224211,Archivist,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2242,"Archivists, Curators and Records Managers",224212,Gallery or Museum Curator,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2242,"Archivists, Curators and Records Managers",224213,Health Information Manager,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2242,"Archivists, Curators and Records Managers",224214,Records Manager,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2243,Economists,224311,Economist,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2244,Intelligence and Policy Analysts,224411,Intelligence Officer,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2244,Intelligence and Policy Analysts,224412,Policy Analyst,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2245,Land Economists and Valuers,224511,Land Economist,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2245,Land Economists and Valuers,224512,Valuer,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2246,Librarians,224611,Librarian,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2247,Management and Organisation Analysts,224711,Management Consultant,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2247,Management and Organisation Analysts,224712,Organisation and Methods Analyst,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2249,Other Information and Organisation Professionals,224911,Electorate Officer,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2249,Other Information and Organisation Professionals,224912,Liaison Officer,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2249,Other Information and Organisation Professionals,224913,Migration Agent \ Immigration Consultant,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2249,Other Information and Organisation Professionals,224914,Patents Examiner,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",224,Information and Organisation Professionals,2249,Other Information and Organisation Professionals,224999,Information and Organisation Professionals nec,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2251,Advertising and Marketing Professionals,225111,Advertising Specialist,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2251,Advertising and Marketing Professionals,225112,Market Research Analyst,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2251,Advertising and Marketing Professionals,225113,Marketing Specialist,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2252,ICT Sales Professionals,225211,ICT Account Manager,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2252,ICT Sales Professionals,225212,ICT Business Development Manager,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2252,ICT Sales Professionals,225213,ICT Sales Representative,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2253,Public Relations Professionals,225311,Public Relations Professional,1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2254,Technical Sales Representatives,225411,Sales Representative (Industrial Products),1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2254,Technical Sales Representatives,225412,Sales Representative (Medical and Pharmaceutical Products),1
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2254,Technical Sales Representatives,225499,Technical Sales Representatives nec,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231111,Aeroplane Pilot,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231112,Air Traffic Controller,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231113,Flying Instructor,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231114,Helicopter Pilot,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231199,Air Transport Professionals nec,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231211,Master Fisher,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231212,Ship's Engineer,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231213,Ship's Master,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231214,Ship's Officer,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231215,Marine Surveyor,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231299,Marine Transport Professionals nec,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2321,Architects and Landscape Architects,232111,Architect,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2321,Architects and Landscape Architects,232112,Landscape Architect,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2322,Surveyors and Spatial Scientists,232211,code retired (ANZSCO Revision 1),
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2322,Surveyors and Spatial Scientists,232212,Surveyor,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2322,Surveyors and Spatial Scientists,232213,Cartographer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2322,Surveyors and Spatial Scientists,232214,Other Spatial Scientist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2323,"Fashion, Industrial and Jewellery Designers",232311,Fashion Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2323,"Fashion, Industrial and Jewellery Designers",232312,Industrial Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2323,"Fashion, Industrial and Jewellery Designers",232313,Jewellery Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2324,"Graphic and Web Designers, and Illustrators",232411,Graphic Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2324,"Graphic and Web Designers, and Illustrators",232412,Illustrator,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2324,"Graphic and Web Designers, and Illustrators",232413,Multimedia Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2324,"Graphic and Web Designers, and Illustrators",232414,Web Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2325,Interior Designers,232511,Interior Designer,2
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2326,Urban and Regional Planners,232611,Urban and Regional Planner,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2331,Chemical and Materials Engineers,233111,Chemical Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2331,Chemical and Materials Engineers,233112,Materials Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2332,Civil Engineering Professionals,233211,Civil Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2332,Civil Engineering Professionals,233212,Geotechnical Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2332,Civil Engineering Professionals,233213,Quantity Surveyor,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2332,Civil Engineering Professionals,233214,Structural Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2332,Civil Engineering Professionals,233215,Transport Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2333,Electrical Engineers,233311,Electrical Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2334,Electronics Engineers,233411,Electronics Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2335,"Industrial, Mechanical and Production Engineers",233511,Industrial Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2335,"Industrial, Mechanical and Production Engineers",233512,Mechanical Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2335,"Industrial, Mechanical and Production Engineers",233513,Production or Plant Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2336,Mining Engineers,233611,Mining Engineer (excluding Petroleum),1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2336,Mining Engineers,233612,Petroleum Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233911,Aeronautical Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233912,Agricultural Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233913,Biomedical Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233914,Engineering Technologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233915,Environmental Engineer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233916,Naval Architect \ Marine Designer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",233,Engineering Professionals,2339,Other Engineering Professionals,233999,Engineering Professionals nec,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2341,Agricultural and Forestry Scientists,234111,Agricultural Consultant,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2341,Agricultural and Forestry Scientists,234112,Agricultural Scientist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2341,Agricultural and Forestry Scientists,234113,Forester \ Forest Scientist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2342,"Chemists, and Food and Wine Scientists",234211,Chemist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2342,"Chemists, and Food and Wine Scientists",234212,Food Technologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2342,"Chemists, and Food and Wine Scientists",234213,Wine Maker,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2343,Environmental Scientists,234311,Conservation Officer,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2343,Environmental Scientists,234312,Environmental Consultant,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2343,Environmental Scientists,234313,Environmental Research Scientist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2343,Environmental Scientists,234314,Park Ranger,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2343,Environmental Scientists,234399,Environmental Scientists nec,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2344,"Geologists, Geophysicists and Hydrogeologists",234411,Geologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2344,"Geologists, Geophysicists and Hydrogeologists",234412,Geophysicist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2344,"Geologists, Geophysicists and Hydrogeologists",234413,Hydrogeologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234511,Life Scientist (General),1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234512,code retired,
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234513,Biochemist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234514,Biotechnologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234515,Botanist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234516,Marine Biologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234517,Microbiologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234518,Zoologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2345,Life Scientists,234599,Life Scientists nec,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2346,Medical Laboratory Scientists,234611,Medical Laboratory Scientist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2347,Veterinarians,234711,Veterinarian,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2349,Other Natural and Physical Science Professionals,234911,Conservator,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2349,Other Natural and Physical Science Professionals,234912,Metallurgist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2349,Other Natural and Physical Science Professionals,234913,Meteorologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2349,Other Natural and Physical Science Professionals,234914,Physicist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2349,Other Natural and Physical Science Professionals,234915,Exercise Physiologist,1
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",234,Natural and Physical Science Professionals,2349,Other Natural and Physical Science Professionals,234999,Natural and Physical Science Professionals nec,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2411,Early Childhood (Pre-primary School) Teachers,241111,Early Childhood (Pre-primary School) Teacher,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2411,Early Childhood (Pre-primary School) Teachers,241112,Kaiako Kohanga Reo (Maori Language Nest Teacher),1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2412,Primary School Teachers,241211,Kaiako Kura Kaupapa Maori (Maori-medium Primary School Teacher),1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2412,Primary School Teachers,241212,Pouako Kura Kaupapa Maori (Maori-medium Primary School Senior Teacher),1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2412,Primary School Teachers,241213,Primary School Teacher,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2413,Middle School Teachers \ Intermediate School Teachers,241311,Middle School Teacher \ Intermediate School Teacher,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2414,Secondary School Teachers,241411,Secondary School Teacher,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2415,Special Education Teachers,241511,Special Needs Teacher,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2415,Special Education Teachers,241512,Teacher of the Hearing Impaired,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2415,Special Education Teachers,241513,Teacher of the Sight Impaired,1
+2,PROFESSIONALS,24,Education Professionals,241,School Teachers,2415,Special Education Teachers,241599,Special Education Teachers nec,1
+2,PROFESSIONALS,24,Education Professionals,242,Tertiary Education Teachers,2421,University Lecturers and Tutors,242111,University Lecturer,1
+2,PROFESSIONALS,24,Education Professionals,242,Tertiary Education Teachers,2421,University Lecturers and Tutors,242112,University Tutor,1
+2,PROFESSIONALS,24,Education Professionals,242,Tertiary Education Teachers,2422,Vocational Education Teachers \ Polytechnic Teachers,242211,Vocational Education Teacher \ Polytechnic Teacher,1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2491,Education Advisers and Reviewers,249111,Education Adviser,1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2491,Education Advisers and Reviewers,249112,Education Reviewer,1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2492,Private Tutors and Teachers,249211,Art Teacher (Private Tuition),1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2492,Private Tutors and Teachers,249212,Dance Teacher (Private Tuition),1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2492,Private Tutors and Teachers,249213,Drama Teacher (Private Tuition),1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2492,Private Tutors and Teachers,249214,Music Teacher (Private Tuition),1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2492,Private Tutors and Teachers,249299,Private Tutors and Teachers nec,1
+2,PROFESSIONALS,24,Education Professionals,249,Miscellaneous Education Professionals,2493,Teachers of English to Speakers of Other Languages,249311,Teacher of English to Speakers of Other Languages,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2511,Nutrition Professionals,251111,Dietitian,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2511,Nutrition Professionals,251112,Nutritionist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2512,Medical Imaging Professionals,251211,Medical Diagnostic Radiographer,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2512,Medical Imaging Professionals,251212,Medical Radiation Therapist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2512,Medical Imaging Professionals,251213,Nuclear Medicine Technologist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2512,Medical Imaging Professionals,251214,Sonographer,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2513,Occupational and Environmental Health Professionals,251311,Environmental Health Officer,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2513,Occupational and Environmental Health Professionals,251312,Occupational Health and Safety Adviser,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2514,Optometrists and Orthoptists,251411,Optometrist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2514,Optometrists and Orthoptists,251412,Orthoptist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2515,Pharmacists,251511,Hospital Pharmacist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2515,Pharmacists,251512,Industrial Pharmacist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2515,Pharmacists,251513,Retail Pharmacist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2519,Other Health Diagnostic and Promotion Professionals,251911,Health Promotion Officer,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2519,Other Health Diagnostic and Promotion Professionals,251912,Orthotist or Prosthetist,1
+2,PROFESSIONALS,25,Health Professionals,251,Health Diagnostic and Promotion Professionals,2519,Other Health Diagnostic and Promotion Professionals,251999,Health Diagnostic and Promotion Professionals nec,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2521,Chiropractors and Osteopaths,252111,Chiropractor,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2521,Chiropractors and Osteopaths,252112,Osteopath,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2522,Complementary Health Therapists,252211,Acupuncturist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2522,Complementary Health Therapists,252212,Homoeopath,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2522,Complementary Health Therapists,252213,Naturopath,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2522,Complementary Health Therapists,252214,Traditional Chinese Medicine Practitioner,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2522,Complementary Health Therapists,252215,Traditional Maori Health Practitioner,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2522,Complementary Health Therapists,252299,Complementary Health Therapists nec,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2523,Dental Practitioners,252311,Dental Specialist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2523,Dental Practitioners,252312,Dentist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2524,Occupational Therapists,252411,Occupational Therapist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2525,Physiotherapists,252511,Physiotherapist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2526,Podiatrists,252611,Podiatrist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2527,Audiologists and Speech Pathologists \ Therapists,252711,Audiologist,1
+2,PROFESSIONALS,25,Health Professionals,252,Health Therapy Professionals,2527,Audiologists and Speech Pathologists \ Therapists,252712,Speech Pathologist \ Speech Language Therapist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2531,General  Practitioners and Resident Medical Officers,253111,General  Practitioner,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2531,General  Practitioners and Resident Medical Officers,253112,Resident Medical Officer,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2532,Anaesthetists,253211,Anaesthetist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253311,Specialist Physician (General Medicine),1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253312,Cardiologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253313,Clinical Haematologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253314,Medical Oncologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253315,Endocrinologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253316,Gastroenterologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253317,Intensive Care Specialist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253318,Neurologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253321,Paediatrician,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253322,Renal Medicine Specialist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253323,Rheumatologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253324,Thoracic Medicine Specialist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2533,Specialist Physicians,253399,Specialist Physicians nec,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2534,Psychiatrists,253411,Psychiatrist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253511,Surgeon (General),1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253512,Cardiothoracic Surgeon,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253513,Neurosurgeon,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253514,Orthopaedic Surgeon,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253515,Otorhinolaryngologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253516,Paediatric Surgeon,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253517,Plastic and Reconstructive Surgeon,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253518,Urologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2535,Surgeons,253521,Vascular Surgeon,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253911,Dermatologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253912,Emergency Medicine Specialist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253913,Obstetrician and Gynaecologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253914,Ophthalmologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253915,Pathologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253916,code retired (ANZSCO Revision 1),
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253917,Diagnostic and Interventional Radiologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253918,Radiation Oncologist,1
+2,PROFESSIONALS,25,Health Professionals,253,Medical Practitioners,2539,Other Medical Practitioners,253999,Medical Practitioners nec,1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2541,Midwives,254111,Midwife,1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2542,Nurse Educators and Researchers,254211,Nurse Educator,1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2542,Nurse Educators and Researchers,254212,Nurse Researcher,1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2543,Nurse Managers,254311,Nurse Manager,1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254411,Nurse Practitioner,1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254412,Registered Nurse (Aged Care),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254413,Registered Nurse (Child and Family Health),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254414,Registered Nurse (Community Health),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254415,Registered Nurse (Critical Care and Emergency),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254416,Registered Nurse (Developmental Disability),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254417,Registered Nurse (Disability and Rehabilitation),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254418,Registered Nurse (Medical),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254421,Registered Nurse (Medical Practice),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254422,Registered Nurse (Mental Health),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254423,Registered Nurse (Perioperative),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254424,Registered Nurse (Surgical),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254425,Registered Nurse (Paediatrics),1
+2,PROFESSIONALS,25,Health Professionals,254,Midwifery and Nursing Professionals,2544,Registered Nurses,254499,Registered Nurses nec,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2611,ICT Business and Systems Analysts,261111,ICT Business Analyst,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2611,ICT Business and Systems Analysts,261112,Systems Analyst,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2612,Multimedia Specialists and Web Developers,261211,Multimedia Specialist,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2612,Multimedia Specialists and Web Developers,261212,Web Developer,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2613,Software and Applications Programmers,261311,Analyst Programmer,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2613,Software and Applications Programmers,261312,Developer Programmer,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2613,Software and Applications Programmers,261313,Software Engineer,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2613,Software and Applications Programmers,261314,Software Tester,1
+2,PROFESSIONALS,26,ICT Professionals,261,"Business and Systems Analysts, and Programmers",2613,Software and Applications Programmers,261399,Software and Applications Programmers nec,1
+2,PROFESSIONALS,26,ICT Professionals,262,"Database and Systems Administrators, and ICT Security Specialists",2621,"Database and Systems Administrators, and ICT Security Specialists",262111,Database Administrator,1
+2,PROFESSIONALS,26,ICT Professionals,262,"Database and Systems Administrators, and ICT Security Specialists",2621,"Database and Systems Administrators, and ICT Security Specialists",262112,ICT Security Specialist,1
+2,PROFESSIONALS,26,ICT Professionals,262,"Database and Systems Administrators, and ICT Security Specialists",2621,"Database and Systems Administrators, and ICT Security Specialists",262113,Systems Administrator,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2631,Computer Network Professionals,263111,Computer Network and Systems Engineer,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2631,Computer Network Professionals,263112,Network Administrator,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2631,Computer Network Professionals,263113,Network Analyst,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2632,ICT Support and Test Engineers,263211,ICT Quality Assurance Engineer,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2632,ICT Support and Test Engineers,263212,ICT Support Engineer,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2632,ICT Support and Test Engineers,263213,ICT Systems Test Engineer,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2632,ICT Support and Test Engineers,263299,ICT Support and Test Engineers nec,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2633,Telecommunications Engineering Professionals,263311,Telecommunications Engineer,1
+2,PROFESSIONALS,26,ICT Professionals,263,ICT Network and Support Professionals,2633,Telecommunications Engineering Professionals,263312,Telecommunications Network Engineer,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2711,Barristers,271111,Barrister,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2712,Judicial and Other Legal Professionals,271211,Judge,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2712,Judicial and Other Legal Professionals,271212,Magistrate,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2712,Judicial and Other Legal Professionals,271213,Tribunal Member,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2712,Judicial and Other Legal Professionals,271214,Intellectual Property Lawyer,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2712,Judicial and Other Legal Professionals,271299,Judicial and Other Legal Professionals nec,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",271,Legal Professionals,2713,Solicitors,271311,Solicitor,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2721,Counsellors,272111,Careers Counsellor,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2721,Counsellors,272112,Drug and Alcohol Counsellor,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2721,Counsellors,272113,Family and Marriage Counsellor,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2721,Counsellors,272114,Rehabilitation Counsellor,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2721,Counsellors,272115,Student Counsellor,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2721,Counsellors,272199,Counsellors nec,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2722,Ministers of Religion,272211,Minister of Religion,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2723,Psychologists,272311,Clinical Psychologist,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2723,Psychologists,272312,Educational Psychologist,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2723,Psychologists,272313,Organisational Psychologist,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2723,Psychologists,272314,Psychotherapist,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2723,Psychologists,272399,Psychologists nec,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2724,Social Professionals,272411,Historian,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2724,Social Professionals,272412,Interpreter,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2724,Social Professionals,272413,Translator,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2724,Social Professionals,272414,Archaeologist,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2724,Social Professionals,272499,Social Professionals nec,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2725,Social Workers,272511,Social Worker,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2726,"Welfare, Recreation and Community Arts Workers",272611,Community Arts Worker,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2726,"Welfare, Recreation and Community Arts Workers",272612,Recreation Officer \ Recreation Coordinator,1
+2,PROFESSIONALS,27,"Legal, Social and Welfare Professionals",272,Social and Welfare Professionals,2726,"Welfare, Recreation and Community Arts Workers",272613,Welfare Worker,1
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3111,Agricultural Technicians,311111,Agricultural Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311211,Anaesthetic Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311212,Cardiac Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311213,Medical Laboratory Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311214,Operating Theatre Technician,3
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311215,Pharmacy Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311216,Pathology Collector \ Phlebotomist,3
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3112,Medical Technicians,311299,Medical Technicians nec,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3113,Primary Products Inspectors,311311,Fisheries Officer,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3113,Primary Products Inspectors,311312,Meat Inspector,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3113,Primary Products Inspectors,311313,Quarantine Officer,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3113,Primary Products Inspectors,311399,Primary Products Inspectors nec,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3114,Science Technicians,311411,Chemistry Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3114,Science Technicians,311412,Earth Science Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3114,Science Technicians,311413,Life Science Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3114,Science Technicians,311414,School Laboratory Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3114,Science Technicians,311415,Hydrographer,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",311,"Agricultural, Medical and Science Technicians",3114,Science Technicians,311499,Science Technicians nec,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312111,Architectural Draftsperson,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312112,Building Associate,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312113,Building Inspector,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312114,Construction Estimator,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312115,Plumbing Inspector,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312116,Surveying or Spatial Science Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3121,"Architectural, Building and Surveying Technicians",312199,"Architectural, Building and Surveying Technicians nec",2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3122,Civil Engineering Draftspersons and Technicians,312211,Civil Engineering Draftsperson,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3122,Civil Engineering Draftspersons and Technicians,312212,Civil Engineering Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3123,Electrical Engineering Draftspersons and Technicians,312311,Electrical Engineering Draftsperson,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3123,Electrical Engineering Draftspersons and Technicians,312312,Electrical Engineering Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3124,Electronic Engineering Draftspersons and Technicians,312411,Electronic Engineering Draftsperson,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3124,Electronic Engineering Draftspersons and Technicians,312412,Electronic Engineering Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3125,Mechanical Engineering Draftspersons and Technicians,312511,Mechanical Engineering Draftsperson,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3125,Mechanical Engineering Draftspersons and Technicians,312512,Mechanical Engineering Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3126,Safety Inspectors,312611,Safety Inspector,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3129,Other Building and Engineering Technicians,312911,Maintenance Planner,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3129,Other Building and Engineering Technicians,312912,Metallurgical or Materials Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3129,Other Building and Engineering Technicians,312913,Mine Deputy,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",312,Building and Engineering Technicians,3129,Other Building and Engineering Technicians,312999,Building and Engineering Technicians nec,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3131,ICT Support Technicians,313111,Hardware Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3131,ICT Support Technicians,313112,ICT Customer Support Officer,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3131,ICT Support Technicians,313113,Web Administrator,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3131,ICT Support Technicians,313199,ICT Support Technicians nec,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3132,Telecommunications Technical Specialists,313211,Radiocommunications Technician,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3132,Telecommunications Technical Specialists,313212,Telecommunications Field Engineer,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3132,Telecommunications Technical Specialists,313213,Telecommunications Network Planner,2
+3,TECHNICIANS AND TRADES WORKERS,31,"Engineering, ICT and Science Technicians",313,ICT and Telecommunications Technicians,3132,Telecommunications Technical Specialists,313214,Telecommunications Technical Officer or Technologist,2
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,321,Automotive Electricians and Mechanics,3211,Automotive Electricians,321111,Automotive Electrician,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,321,Automotive Electricians and Mechanics,3212,Motor Mechanics,321211,Motor Mechanic (General),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,321,Automotive Electricians and Mechanics,3212,Motor Mechanics,321212,Diesel Motor Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,321,Automotive Electricians and Mechanics,3212,Motor Mechanics,321213,Motorcycle Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,321,Automotive Electricians and Mechanics,3212,Motor Mechanics,321214,Small Engine Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3221,"Metal Casting, Forging and Finishing Trades Workers",322111,Blacksmith,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3221,"Metal Casting, Forging and Finishing Trades Workers",322112,Electroplater,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3221,"Metal Casting, Forging and Finishing Trades Workers",322113,Farrier,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3221,"Metal Casting, Forging and Finishing Trades Workers",322114,Metal Casting Trades Worker,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3221,"Metal Casting, Forging and Finishing Trades Workers",322115,Metal Polisher,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3222,Sheetmetal Trades Workers,322211,Sheetmetal Trades Worker,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3223,Structural Steel and Welding Trades Workers,322311,Metal Fabricator,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3223,Structural Steel and Welding Trades Workers,322312,Pressure Welder,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,322,Fabrication Engineering Trades Workers,3223,Structural Steel and Welding Trades Workers,322313,Welder (First Class) (Aus) \ Welder (NZ),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3231,Aircraft Maintenance Engineers,323111,Aircraft Maintenance Engineer (Avionics),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3231,Aircraft Maintenance Engineers,323112,Aircraft Maintenance Engineer (Mechanical),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3231,Aircraft Maintenance Engineers,323113,Aircraft Maintenance Engineer (Structures),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3232,Metal Fitters and Machinists,323211,Fitter (General),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3232,Metal Fitters and Machinists,323212,Fitter and Turner,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3232,Metal Fitters and Machinists,323213,Fitter-Welder,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3232,Metal Fitters and Machinists,323214,Metal Machinist (First Class),3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3232,Metal Fitters and Machinists,323215,"Textile, Clothing and Footwear Mechanic",3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3232,Metal Fitters and Machinists,323299,Metal Fitters and Machinists nec,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3233,Precision Metal Trades Workers,323311,Engraver,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3233,Precision Metal Trades Workers,323312,Gunsmith,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3233,Precision Metal Trades Workers,323313,Locksmith,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3233,Precision Metal Trades Workers,323314,Precision Instrument Maker and Repairer,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3233,Precision Metal Trades Workers,323315,Saw Maker and Repairer,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3233,Precision Metal Trades Workers,323316,Watch and Clock Maker and Repairer,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3234,Toolmakers and Engineering Patternmakers,323411,Engineering Patternmaker,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,323,Mechanical Engineering Trades Workers,3234,Toolmakers and Engineering Patternmakers,323412,Toolmaker,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,324,"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters",3241,Panelbeaters,324111,Panelbeater,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,324,"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters",3242,Vehicle Body Builders and Trimmers,324211,Vehicle Body Builder,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,324,"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters",3242,Vehicle Body Builders and Trimmers,324212,Vehicle Trimmer,3
+3,TECHNICIANS AND TRADES WORKERS,32,Automotive and Engineering Trades Workers,324,"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters",3243,Vehicle Painters,324311,Vehicle Painter,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,331,"Bricklayers, and Carpenters and Joiners",3311,Bricklayers and Stonemasons,331111,Bricklayer,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,331,"Bricklayers, and Carpenters and Joiners",3311,Bricklayers and Stonemasons,331112,Stonemason,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,331,"Bricklayers, and Carpenters and Joiners",3312,Carpenters and Joiners,331211,Carpenter and Joiner,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,331,"Bricklayers, and Carpenters and Joiners",3312,Carpenters and Joiners,331212,Carpenter,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,331,"Bricklayers, and Carpenters and Joiners",3312,Carpenters and Joiners,331213,Joiner,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,332,Floor Finishers and Painting Trades Workers,3321,Floor Finishers,332111,Floor Finisher,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,332,Floor Finishers and Painting Trades Workers,3322,Painting Trades Workers,332211,Painting Trades Worker,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,333,"Glaziers, Plasterers and Tilers",3331,Glaziers,333111,Glazier,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,333,"Glaziers, Plasterers and Tilers",3332,Plasterers,333211,Fibrous Plasterer,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,333,"Glaziers, Plasterers and Tilers",3332,Plasterers,333212,Solid Plasterer,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,333,"Glaziers, Plasterers and Tilers",3333,Roof Tilers,333311,Roof Tiler,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,333,"Glaziers, Plasterers and Tilers",3334,Wall and Floor Tilers,333411,Wall and Floor Tiler,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,334,Plumbers,3341,Plumbers,334111,Plumber (General),3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,334,Plumbers,3341,Plumbers,334112,Airconditioning and Mechanical Services Plumber,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,334,Plumbers,3341,Plumbers,334113,Drainer \ Drainlayer,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,334,Plumbers,3341,Plumbers,334114,Gasfitter,3
+3,TECHNICIANS AND TRADES WORKERS,33,Construction Trades Workers,334,Plumbers,3341,Plumbers,334115,Roof Plumber,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,341,Electricians,3411,Electricians,341111,Electrician (General),3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,341,Electricians,3411,Electricians,341112,Electrician (Special Class),3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,341,Electricians,3411,Electricians,341113,Lift Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3421,Airconditioning and Refrigeration Mechanics,342111,Airconditioning and Refrigeration Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3422,Electrical Distribution Trades Workers,342211,Electrical Linesworker \ Electrical Line Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3422,Electrical Distribution Trades Workers,342212,Technical Cable Jointer,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3423,Electronics Trades Workers,342311,Business Machine Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3423,Electronics Trades Workers,342312,Communications Operator,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3423,Electronics Trades Workers,342313,Electronic Equipment Trades Worker,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3423,Electronics Trades Workers,342314,Electronic Instrument Trades Worker (General),3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3423,Electronics Trades Workers,342315,Electronic Instrument Trades Worker (Special Class),3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3424,Telecommunications Trades Workers,342411,Cabler (Data and Telecommunications),3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3424,Telecommunications Trades Workers,342412,Telecommunications Cable Jointer,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3424,Telecommunications Trades Workers,342413,Telecommunications Linesworker \ Telecommunications Line Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,34,Electrotechnology and Telecommunications Trades Workers,342,Electronics and Telecommunications Trades Workers,3424,Telecommunications Trades Workers,342414,Telecommunications Technician,3
+3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3511,Bakers and Pastrycooks,351111,Baker,3
+3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3511,Bakers and Pastrycooks,351112,Pastrycook,3
+3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3512,Butchers and Smallgoods Makers,351211,Butcher or Smallgoods Maker,3
+3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3513,Chefs,351311,Chef,2
+3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3514,Cooks,351411,Cook,"3 Aus,4 NZ"
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361111,Dog Handler or Trainer,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361112,Horse Trainer,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361113,Pet Groomer,4
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361114,Zookeeper,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361115,Kennel Hand,4
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361199,Animal Attendants and Trainers nec,4
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3612,Shearers,361211,Shearer,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3613,Veterinary Nurses,361311,Veterinary Nurse,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,362,Horticultural Trades Workers,3621,Florists,362111,Florist,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,362,Horticultural Trades Workers,3622,Gardeners,362211,Gardener (General),3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,362,Horticultural Trades Workers,3622,Gardeners,362212,Arborist,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,362,Horticultural Trades Workers,3622,Gardeners,362213,Landscape Gardener,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,362,Horticultural Trades Workers,3623,Greenkeepers,362311,Greenkeeper,3
+3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,362,Horticultural Trades Workers,3624,Nurserypersons,362411,Nurseryperson,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,391,Hairdressers,3911,Hairdressers,391111,Hairdresser,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,392,Printing Trades Workers,3921,Print Finishers and Screen Printers,392111,Print Finisher,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,392,Printing Trades Workers,3921,Print Finishers and Screen Printers,392112,Screen Printer,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,392,Printing Trades Workers,3922,Graphic Pre-press Trades Workers,392211,Graphic Pre-press Trades Worker,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,392,Printing Trades Workers,3923,Printers,392311,Printing Machinist,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,392,Printing Trades Workers,3923,Printers,392312,Small Offset Printer,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3931,Canvas and Leather Goods Makers,393111,Canvas Goods Fabricator,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3931,Canvas and Leather Goods Makers,393112,Leather Goods Maker,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3931,Canvas and Leather Goods Makers,393113,Sail Maker,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3931,Canvas and Leather Goods Makers,393114,Shoemaker,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3932,Clothing Trades Workers,393211,Apparel Cutter,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3932,Clothing Trades Workers,393212,Clothing Patternmaker,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3932,Clothing Trades Workers,393213,Dressmaker or Tailor,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3932,Clothing Trades Workers,393299,Clothing Trades Workers nec,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,393,"Textile, Clothing and Footwear Trades Workers",3933,Upholsterers,393311,Upholsterer,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,394,Wood Trades Workers,3941,Cabinetmakers,394111,Cabinetmaker,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,394,Wood Trades Workers,3942,Wood Machinists and Other Wood Trades Workers,394211,Furniture Finisher,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,394,Wood Trades Workers,3942,Wood Machinists and Other Wood Trades Workers,394212,Picture Framer,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,394,Wood Trades Workers,3942,Wood Machinists and Other Wood Trades Workers,394213,Wood Machinist,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,394,Wood Trades Workers,3942,Wood Machinists and Other Wood Trades Workers,394214,Wood Turner,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,394,Wood Trades Workers,3942,Wood Machinists and Other Wood Trades Workers,394299,Wood Machinists and Other Wood Trades Workers nec,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3991,Boat Builders and Shipwrights,399111,Boat Builder and Repairer,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3991,Boat Builders and Shipwrights,399112,Shipwright,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",399211,Chemical Plant Operator,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",399212,Gas or Petroleum Operator,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",399213,Power Generation Plant Operator,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3993,"Gallery, Library and Museum Technicians",399311,Gallery or Museum Technician,2
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3993,"Gallery, Library and Museum Technicians",399312,Library Technician,2
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3994,Jewellers,399411,Jeweller,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399511,Broadcast Transmitter Operator,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399512,"Camera Operator (Film, Television or Video)",3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399513,Light Technician,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399514,Make Up Artist,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399515,Musical Instrument Maker or Repairer,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399516,Sound Technician,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399517,Television Equipment Operator,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3995,Performing Arts Technicians,399599,Performing Arts Technicians nec,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3996,Signwriters,399611,Signwriter,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399911,Diver,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399912,Interior Decorator,2
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399913,Optical Dispenser \ Dispensing Optician,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399914,Optical Mechanic,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399915,Photographer's Assistant,4
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399916,Plastics Technician,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399917,Wool Classer,"3 Aus,2 NZ"
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399918,Fire Protection Equipment Technician,3
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399999,Technicians and Trades Workers nec,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4111,Ambulance Officers and Paramedics,411111,Ambulance Officer,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4111,Ambulance Officers and Paramedics,411112,Intensive Care Ambulance Paramedic (Aus) \ Ambulance Paramedic (NZ),1
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411211,Dental Hygienist,1
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411212,Dental Prosthetist,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411213,Dental Technician,"2 Aus,1 NZ"
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411214,Dental Therapist,1
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4113,Diversional Therapists,411311,Diversional Therapist,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4114,Enrolled and Mothercraft Nurses,411411,Enrolled Nurse,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4114,Enrolled and Mothercraft Nurses,411412,Mothercraft Nurse,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4115,Indigenous Health Workers,411511,Aboriginal and Torres Strait Islander Health Worker,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4115,Indigenous Health Workers,411512,Kaiawhina (Hauora) (Maori Health Assistant),2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4116,Massage Therapists,411611,Massage Therapist,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411711,Community Worker,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411712,Disabilities Services Officer,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411713,Family Support Worker,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411714,Parole or Probation Officer,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411715,Residential Care Officer,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411716,Youth Worker,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421111,Child Care Worker,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421112,Family Day Care Worker,"4 Aus,3 NZ"
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421113,Nanny,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421114,Out of School Hours Care Worker,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422111,Aboriginal and Torres Strait Islander Education Worker,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422112,Integration Aide,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422113,Kaiawhina Kohanga Reo (Maori Language Nest Assistant),4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422114,Kaiawhina Kura Kaupapa Maori (Maori-medium School Assistant),4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422115,Preschool Aide,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422116,Teachers' Aide,"4 Aus,3 NZ"
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4231,Aged and Disabled Carers,423111,Aged or Disabled Carer,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4232,Dental Assistants,423211,Dental Assistant,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4233,Nursing Support and Personal Care Workers,423311,Hospital Orderly,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4233,Nursing Support and Personal Care Workers,423312,Nursing Support Worker,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4233,Nursing Support and Personal Care Workers,423313,Personal Care Assistant,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4233,Nursing Support and Personal Care Workers,423314,Therapy Aide,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4234,Special Care Workers,423411,Child or Youth Residential Care Assistant,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4234,Special Care Workers,423412,Hostel Parent,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4234,Special Care Workers,423413,Refuge Worker,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4311,Bar Attendants and Baristas,431111,Bar Attendant,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4311,Bar Attendants and Baristas,431112,Barista,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4312,Cafe Workers,431211,Cafe Worker,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4313,Gaming Workers,431311,Gaming Worker,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4314,Hotel Service Managers,431411,Hotel Service Manager,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4315,Waiters,431511,Waiter,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4319,Other Hospitality Workers,431911,Bar Useful or Busser,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4319,Other Hospitality Workers,431912,Doorperson or Luggage Porter,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,43,Hospitality Workers,431,Hospitality Workers,4319,Other Hospitality Workers,431999,Hospitality Workers nec,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,441,"Defence Force Members, Fire Fighters and Police",4411,Defence Force Members - Other Ranks,441111,Defence Force Member - Other Ranks,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,441,"Defence Force Members, Fire Fighters and Police",4412,Fire and Emergency Workers,441211,Emergency Service Worker,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,441,"Defence Force Members, Fire Fighters and Police",4412,Fire and Emergency Workers,441212,Fire Fighter,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,441,"Defence Force Members, Fire Fighters and Police",4413,Police,441311,Detective,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,441,"Defence Force Members, Fire Fighters and Police",4413,Police,441312,Police Officer,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4421,Prison Officers,442111,Prison Officer,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442211,"Alarm, Security or Surveillance Monitor",5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442212,Armoured Car Escort,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442213,Crowd Controller,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442214,Private Investigator,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442215,Retail Loss Prevention Officer,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442216,Security Consultant,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442217,Security Officer,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,44,Protective Service Workers,442,Prison and Security Officers,4422,Security Officers and Guards,442299,Security Officers and Guards nec,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4511,Beauty Therapists,451111,Beauty Therapist,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4512,Driving Instructors,451211,Driving Instructor,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4513,Funeral Workers,451311,Funeral Director,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4513,Funeral Workers,451399,Funeral Workers nec,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4514,"Gallery, Museum and Tour Guides",451411,Gallery or Museum Guide,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4514,"Gallery, Museum and Tour Guides",451412,Tour Guide,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4515,Personal Care Consultants,451511,Natural Remedy Consultant,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4515,Personal Care Consultants,451512,Weight Loss Consultant,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4515,Personal Care Consultants,451513,Herbalist (Western),4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4516,Tourism and Travel Advisers,451611,Tourist Information Officer,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4516,Tourism and Travel Advisers,451612,Travel Consultant,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4517,Travel Attendants,451711,Flight Attendant,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4517,Travel Attendants,451799,Travel Attendants nec,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451811,Civil Celebrant,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451812,Hair or Beauty Salon Assistant,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451813,Sex Worker or Escort,5
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451814,Body Artist,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451815,First Aid Trainer,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451816,Religious Assistant,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,451,Personal Service and Travel Workers,4518,Other Personal Service Workers,451899,Personal Service Workers nec,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4521,Fitness Instructors,452111,Fitness Instructor,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452211,Bungy Jump Master,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452212,Fishing Guide,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452213,Hunting Guide,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452214,Mountain or Glacier Guide,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452215,Outdoor Adventure Instructor,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452216,Trekking Guide,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452217,Whitewater Rafting Guide,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4522,Outdoor Adventure Guides,452299,Outdoor Adventure Guides nec,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452311,Diving Instructor (Open Water),3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452312,Gymnastics Coach or Instructor,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452313,Horse Riding Coach or Instructor,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452314,Snowsport Instructor,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452315,Swimming Coach or Instructor,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452316,Tennis Coach,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452317,Other Sports Coach or Instructor,4
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452318,Dog or Horse Racing Official,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452321,Sports Development Officer,2
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452322,Sports Umpire,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4523,"Sports Coaches, Instructors and Officials",452323,Other Sports Official,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4524,Sportspersons,452411,Footballer,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4524,Sportspersons,452412,Golfer,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4524,Sportspersons,452413,Jockey,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4524,Sportspersons,452414,Lifeguard,3
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,45,Sports and Personal Service Workers,452,Sports and Fitness Workers,4524,Sportspersons,452499,Sportspersons nec,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,51,Office Managers and Program Administrators,511,"Contract, Program and Project Administrators",5111,"Contract, Program and Project Administrators",511111,Contract Administrator,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,51,Office Managers and Program Administrators,511,"Contract, Program and Project Administrators",5111,"Contract, Program and Project Administrators",511112,Program or Project Administrator,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,51,Office Managers and Program Administrators,512,Office and Practice Managers,5121,Office Managers,512111,Office Manager,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,51,Office Managers and Program Administrators,512,Office and Practice Managers,5122,Practice Managers,512211,Health Practice Manager,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,51,Office Managers and Program Administrators,512,Office and Practice Managers,5122,Practice Managers,512299,Practice Managers nec,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,52,Personal Assistants and Secretaries,521,Personal Assistants and Secretaries,5211,Personal Assistants,521111,Personal Assistant,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,52,Personal Assistants and Secretaries,521,Personal Assistants and Secretaries,5212,Secretaries,521211,Secretary (General),2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,52,Personal Assistants and Secretaries,521,Personal Assistants and Secretaries,5212,Secretaries,521212,Legal Secretary,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,53,General Clerical Workers,531,General Clerks,5311,General Clerks,531111,General Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,53,General Clerical Workers,532,Keyboard Operators,5321,Keyboard Operators,532111,Data Entry Operator,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,53,General Clerical Workers,532,Keyboard Operators,5321,Keyboard Operators,532112,Machine Shorthand Reporter,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,53,General Clerical Workers,532,Keyboard Operators,5321,Keyboard Operators,532113,Word Processing Operator,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,541,Call or Contact Centre Information Clerks,5411,Call or Contact Centre Workers,541111,Call or Contact Centre Team Leader,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,541,Call or Contact Centre Information Clerks,5411,Call or Contact Centre Workers,541112,Call or Contact Centre Operator,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,541,Call or Contact Centre Information Clerks,5412,Information Officers,541211,Information Officer,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,542,Receptionists,5421,Receptionists,542111,Receptionist (General),4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,542,Receptionists,5421,Receptionists,542112,Admissions Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,542,Receptionists,5421,Receptionists,542113,Hotel or Motel Receptionist,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,54,Inquiry Clerks and Receptionists,542,Receptionists,5421,Receptionists,542114,Medical Receptionist,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,551,Accounting Clerks and Bookkeepers,5511,Accounting Clerks,551111,Accounts Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,551,Accounting Clerks and Bookkeepers,5511,Accounting Clerks,551112,Cost Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,551,Accounting Clerks and Bookkeepers,5512,Bookkeepers,551211,Bookkeeper,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,551,Accounting Clerks and Bookkeepers,5513,Payroll Clerks,551311,Payroll Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,552,Financial and Insurance Clerks,5521,Bank Workers,552111,Bank Worker,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,552,Financial and Insurance Clerks,5522,Credit and Loans Officers (Aus) \ Finance Clerks (NZ),552211,Credit or Loans Officer (Aus) \ Finance Clerk (NZ),3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,552,Financial and Insurance Clerks,5523,"Insurance, Money Market and Statistical Clerks",552311,Bookmaker,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,552,Financial and Insurance Clerks,5523,"Insurance, Money Market and Statistical Clerks",552312,Insurance Consultant,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,552,Financial and Insurance Clerks,5523,"Insurance, Money Market and Statistical Clerks",552313,Money Market Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,55,Numerical Clerks,552,Financial and Insurance Clerks,5523,"Insurance, Money Market and Statistical Clerks",552314,Statistical Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5611,Betting Clerks,561111,Betting Agency Counter Clerk,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5611,Betting Clerks,561112,Bookmaker's Clerk,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5611,Betting Clerks,561113,Telephone Betting Clerk,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5611,Betting Clerks,561199,Betting Clerks nec,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5612,Couriers and Postal Deliverers,561211,Courier,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5612,Couriers and Postal Deliverers,561212,Postal Delivery Officer,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5613,Filing and Registry Clerks,561311,Filing or Registry Clerk,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5614,Mail Sorters,561411,Mail Clerk,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5614,Mail Sorters,561412,Postal Sorting Officer,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5615,Survey Interviewers,561511,Survey Interviewer,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5616,Switchboard Operators,561611,Switchboard Operator,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5619,Other Clerical and Office Support Workers,561911,Classified Advertising Clerk,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5619,Other Clerical and Office Support Workers,561912,Meter Reader,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5619,Other Clerical and Office Support Workers,561913,Parking Inspector,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,56,Clerical and Office Support Workers,561,Clerical and Office Support Workers,5619,Other Clerical and Office Support Workers,561999,Clerical and Office Support Workers nec,5
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591111,code retired (ANZSCO Revision 1),
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591112,Production Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591113,Purchasing Officer,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591114,code retired (ANZSCO Revision 1),
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591115,Stock Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591116,Warehouse Administrator,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5911,Purchasing and Supply Logistics Clerks,591117,Order Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5912,Transport and Despatch Clerks,591211,Despatching and Receiving Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,591,Logistics Clerks,5912,Transport and Despatch Clerks,591212,Import-Export Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5991,Conveyancers and Legal Executives,599111,Conveyancer,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5991,Conveyancers and Legal Executives,599112,Legal Executive,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5992,Court and Legal Clerks,599211,Clerk of Court,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5992,Court and Legal Clerks,599212,Court Bailiff or Sheriff (Aus) \ Court Collections Officer (NZ),3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5992,Court and Legal Clerks,599213,Court Orderly (Aus) \ Court Registry Officer (NZ),3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5992,Court and Legal Clerks,599214,Law Clerk,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5992,Court and Legal Clerks,599215,Trust Officer,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5993,Debt Collectors,599311,Debt Collector,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5994,Human Resource Clerks,599411,Human Resource Clerk,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599511,Customs Officer,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599512,Immigration Officer,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599513,Motor Vehicle Licence Examiner,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599514,Noxious Weeds and Pest Inspector,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599515,Social Security Assessor,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599516,Taxation Inspector,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599517,Train Examiner,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599518,Transport Operations Inspector,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599521,Water Inspector,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5995,Inspectors and Regulatory Officers,599599,Inspectors and Regulatory Officers nec,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",599611,Insurance Investigator,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",599612,Insurance Loss Adjuster,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",599613,Insurance Risk Surveyor,2
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5997,Library Assistants,599711,Library Assistant,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599911,code retired (ANZSCO Revision 1),
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599912,"Production Assistant (Film, Television, Radio or Stage)",4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599913,Proof Reader,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599914,Radio Despatcher,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599915,Clinical Coder,3
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599916,Facilities Administrator,4
+5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599999,Clerical and Administrative Workers nec,4
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6111,"Auctioneers, and Stock and Station Agents",611111,Auctioneer,3
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6111,"Auctioneers, and Stock and Station Agents",611112,Stock and Station Agent,3
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6112,Insurance Agents,611211,Insurance Agent,"3 Aus,2 NZ"
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611311,Sales Representative (Building and Plumbing Supplies),4
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611312,Sales Representative (Business Services),4
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611313,Sales Representative (Motor Vehicle Parts and Accessories),4
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611314,Sales Representative (Personal and Household Goods),4
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611399,Sales Representatives nec,4
+6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612111,Business Broker,3
+6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612112,Property Manager,3
+6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612113,Real Estate Agency Principal \ Real Estate Agency Licensee,2
+6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612114,Real Estate Agent,"3 Aus,2 NZ"
+6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612115,Real Estate Representative,3
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6211,Sales Assistants (General),621111,Sales Assistant (General),5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6212,ICT Sales Assistants,621211,ICT Sales Assistant,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6213,Motor Vehicle and Vehicle Parts Salespersons,621311,Motor Vehicle or Caravan Salesperson,4
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6213,Motor Vehicle and Vehicle Parts Salespersons,621312,Motor Vehicle Parts Interpreter \ Automotive Parts Salesperson,4
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6214,Pharmacy Sales Assistants,621411,Pharmacy Sales Assistant,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6215,Retail Supervisors,621511,Retail Supervisor,4
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6216,Service Station Attendants,621611,Service Station Attendant,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6217,Street Vendors and Related Salespersons,621711,Cash Van Salesperson,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6217,Street Vendors and Related Salespersons,621712,Door-to-door Salesperson,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6217,Street Vendors and Related Salespersons,621713,Street Vendor,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6219,Other Sales Assistants and Salespersons,621911,Materials Recycler,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6219,Other Sales Assistants and Salespersons,621912,Rental Salesperson,5
+6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6219,Other Sales Assistants and Salespersons,621999,Sales Assistants and Salespersons nec,5
+6,SALES WORKERS,63,Sales Support Workers,631,Checkout Operators and Office Cashiers,6311,Checkout Operators and Office Cashiers,631111,Checkout Operator,5
+6,SALES WORKERS,63,Sales Support Workers,631,Checkout Operators and Office Cashiers,6311,Checkout Operators and Office Cashiers,631112,Office Cashier,5
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6391,Models and Sales Demonstrators,639111,Model,5
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6391,Models and Sales Demonstrators,639112,Sales Demonstrator,5
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6392,Retail and Wool Buyers,639211,Retail Buyer,3
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6392,Retail and Wool Buyers,639212,Wool Buyer,3
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6393,Telemarketers,639311,Telemarketer,5
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6394,Ticket Salespersons,639411,Ticket Seller,5
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6394,Ticket Salespersons,639412,Transport Conductor,5
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6395,Visual Merchandisers,639511,Visual Merchandiser,4
+6,SALES WORKERS,63,Sales Support Workers,639,Miscellaneous Sales Support Workers,6399,Other Sales Support Workers,639911,Other Sales Support Worker,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711111,Clay Products Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711112,Concrete Products Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711113,Glass Production Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711114,Stone Processing Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711199,"Clay, Concrete, Glass and Stone Processing Machine Operators nec",4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7112,Industrial Spraypainters,711211,Industrial Spraypainter,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711311,Paper Products Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711312,code retired (ANZSCO Revision 1),
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711313,Sawmilling Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711314,Other Wood Processing Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7114,Photographic Developers and Printers,711411,Photographic Developer and Printer,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711511,Plastic Cablemaking Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711512,Plastic Compounding and Reclamation Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711513,Plastics Fabricator or Welder,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711514,Plastics Production Machine Operator (General),4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711515,Reinforced Plastic and Composite Production Worker,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711516,Rubber Production Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711599,Plastics and Rubber Production Machine Operators nec,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7116,Sewing Machinists,711611,Sewing Machinist,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711711,Footwear Production Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711712,Hide and Skin Processing Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711713,Knitting Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711714,Textile Dyeing and Finishing Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711715,Weaving Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711716,Yarn Carding and Spinning Machine Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711799,Textile and Footwear Production Machine Operators nec,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711911,Chemical Production Machine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711912,Motion Picture Projectionist,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711913,Sand Blaster,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711914,Sterilisation Technician,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711999,Machine Operators nec,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7121,"Crane, Hoist and Lift Operators",712111,"Crane, Hoist or Lift Operator","4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7122,"Drillers, Miners and Shot Firers",712211,Driller,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7122,"Drillers, Miners and Shot Firers",712212,Miner,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7122,"Drillers, Miners and Shot Firers",712213,Shot Firer,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7123,Engineering Production Workers,712311,Engineering Production Worker,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712911,Boiler or Engine Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712912,Bulk Materials Handling Plant Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712913,Cement Production Plant Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712914,Concrete Batching Plant Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712915,Concrete Pump Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712916,Paper and Pulp Mill Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712917,Railway Signal Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712918,Train Controller,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712921,Waste Water or Water Plant Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712922,Weighbridge Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712999,Stationary Plant Operators nec,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7211,"Agricultural, Forestry and Horticultural Plant Operators",721111,Agricultural and Horticultural Mobile Plant Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7211,"Agricultural, Forestry and Horticultural Plant Operators",721112,Logging Plant Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721211,Earthmoving Plant Operator (General),4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721212,Backhoe Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721213,Bulldozer Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721214,Excavator Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721215,Grader Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721216,Loader Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7213,Forklift Drivers,721311,Forklift Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721911,Aircraft Baggage Handler and Airline Ground Crew,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721912,Linemarker,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721913,Paving Plant Operator,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721914,Railway Track Plant Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721915,Road Roller Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721916,Streetsweeper Operator,4
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721999,Mobile Plant Operators nec,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7311,Automobile Drivers,731111,Chauffeur,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7311,Automobile Drivers,731112,Taxi Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7311,Automobile Drivers,731199,Automobile Drivers nec,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7312,Bus and Coach Drivers,731211,Bus Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7312,Bus and Coach Drivers,731212,Charter and Tour Bus Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7312,Bus and Coach Drivers,731213,Passenger Coach Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7313,Train and Tram Drivers,731311,Train Driver,"4 Aus,3 NZ"
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7313,Train and Tram Drivers,731312,Tram Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,732,Delivery Drivers,7321,Delivery Drivers,732111,Delivery Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733111,Truck Driver (General),4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733112,Aircraft Refueller,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733113,Furniture Removalist,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733114,Tanker Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733115,Tow Truck Driver,4
+7,MACHINERY OPERATORS AND DRIVERS,74,Storepersons,741,Storepersons,7411,Storepersons,741111,Storeperson,4
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8111,Car Detailers,811111,Car Detailer,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8112,Commercial Cleaners,811211,Commercial Cleaner,"5 Aus,4 NZ"
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8113,Domestic Cleaners,811311,Domestic Cleaner,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8114,Housekeepers,811411,Commercial Housekeeper,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8114,Housekeepers,811412,Domestic Housekeeper,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8115,Laundry Workers,811511,Laundry Worker (General),5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8115,Laundry Workers,811512,Drycleaner,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8115,Laundry Workers,811513,Ironer or Presser,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8116,Other Cleaners,811611,Carpet Cleaner,4
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8116,Other Cleaners,811612,Window Cleaner,5
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8116,Other Cleaners,811699,Cleaners nec,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8211,Building and Plumbing Labourers,821111,Builder's Labourer,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8211,Building and Plumbing Labourers,821112,"Drainage, Sewerage and Stormwater Labourer",5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8211,Building and Plumbing Labourers,821113,Earthmoving Labourer,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8211,Building and Plumbing Labourers,821114,Plumber's Assistant,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8212,Concreters,821211,Concreter,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8213,Fencers,821311,Fencer,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8214,Insulation and Home Improvement Installers,821411,Building Insulation Installer,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8214,Insulation and Home Improvement Installers,821412,Home Improvement Installer,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8215,Paving and Surfacing Labourers,821511,Paving and Surfacing Labourer,"5 Aus,4 NZ"
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8216,Railway Track Workers,821611,Railway Track Worker,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821711,Construction Rigger,"4 Aus,3 NZ"
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821712,Scaffolder,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821713,Steel Fixer,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821714,Structural Steel Erector,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821911,Crane Chaser,4
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821912,Driller's Assistant,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821913,Lagger,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821914,Mining Support Worker,5
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821915,Surveyor's Assistant,5
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831111,Baking Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831112,Brewery Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831113,Confectionery Maker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831114,Dairy Products Maker,5
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831115,Fruit and Vegetable Factory Worker,5
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831116,Grain Mill Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831117,Sugar Mill Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831118,Winery Cellar Hand,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831199,Food and Drink Factory Workers nec,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8312,"Meat Boners and Slicers, and Slaughterers",831211,Meat Boner and Slicer,4
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8312,"Meat Boners and Slicers, and Slaughterers",831212,Slaughterer,4
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8313,"Meat, Poultry and Seafood Process Workers",831311,Meat Process Worker,5
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8313,"Meat, Poultry and Seafood Process Workers",831312,Poultry Process Worker,5
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8313,"Meat, Poultry and Seafood Process Workers",831313,Seafood Process Worker,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832111,Chocolate Packer,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832112,Container Filler,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832113,Fruit and Vegetable Packer,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832114,Meat Packer,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832115,Seafood Packer,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832199,Packers nec,5
+8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8322,Product Assemblers,832211,Product Assembler,5
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8391,Metal Engineering Process Workers,839111,Metal Engineering Process Worker,5
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8392,Plastics and Rubber Factory Workers,839211,Plastics Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8392,Plastics and Rubber Factory Workers,839212,Rubber Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8393,Product Quality Controllers,839311,Product Examiner,4
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8393,Product Quality Controllers,839312,Product Grader,4
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8393,Product Quality Controllers,839313,Product Tester,4
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839411,Paper and Pulp Mill Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839412,Sawmill or Timber Yard Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839413,Wood and Wood Products Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839911,Cement and Concrete Plant Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839912,Chemical Plant Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839913,Clay Processing Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839914,Fabric and Textile Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839915,Footwear Factory Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839916,Glass Processing Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839917,Hide and Skin Processing Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839918,Recycling Worker,"5 Aus,4 NZ"
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839999,Factory Process Workers nec,"5 Aus,4 NZ"
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8411,Aquaculture Workers,841111,Aquaculture Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841211,Fruit or Nut Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841212,Fruit or Nut Picker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841213,"Grain, Oilseed or Pasture Farm Worker (Aus) \ Field Crop Farm Worker (NZ)",5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841214,Vegetable Farm Worker (Aus) \ Market Garden Worker (NZ),5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841215,Vegetable Picker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841216,Vineyard Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841217,Mushroom Picker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841299,Crop Farm Workers nec,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8413,Forestry and Logging Workers,841311,Forestry Worker,4
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8413,Forestry and Logging Workers,841312,Logging Assistant,4
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8413,Forestry and Logging Workers,841313,Tree Faller,4
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8414,Garden and Nursery Labourers,841411,Garden Labourer,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8414,Garden and Nursery Labourers,841412,Horticultural Nursery Assistant,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841511,Beef Cattle Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841512,Dairy Cattle Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841513,Mixed Livestock Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841514,Poultry Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841515,Sheep Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841516,Stablehand,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841517,Wool Handler,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8415,Livestock Farm Workers,841599,Livestock Farm Workers nec,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8416,Mixed Crop and Livestock Farm Workers,841611,Mixed Crop and Livestock Farm Worker,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8419,"Other Farm, Forestry and Garden Workers",841911,Hunter-Trapper,5
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8419,"Other Farm, Forestry and Garden Workers",841912,code retired (ANZSCO Revision 1),
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8419,"Other Farm, Forestry and Garden Workers",841913,Pest Controller,4
+8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8419,"Other Farm, Forestry and Garden Workers",841999,"Farm, Forestry and Garden Workers nec",5
+8,LABOURERS,85,Food Preparation Assistants,851,Food Preparation Assistants,8511,Fast Food Cooks,851111,Fast Food Cook,5
+8,LABOURERS,85,Food Preparation Assistants,851,Food Preparation Assistants,8512,Food Trades Assistants,851211,Pastrycook's Assistant,5
+8,LABOURERS,85,Food Preparation Assistants,851,Food Preparation Assistants,8512,Food Trades Assistants,851299,Food Trades Assistants nec,5
+8,LABOURERS,85,Food Preparation Assistants,851,Food Preparation Assistants,8513,Kitchenhands,851311,Kitchenhand,5
+8,LABOURERS,89,Other Labourers,891,Freight Handlers and Shelf Fillers,8911,Freight and Furniture Handlers,891111,Freight Handler (Rail or Road),5
+8,LABOURERS,89,Other Labourers,891,Freight Handlers and Shelf Fillers,8911,Freight and Furniture Handlers,891112,Truck Driver's Offsider,5
+8,LABOURERS,89,Other Labourers,891,Freight Handlers and Shelf Fillers,8911,Freight and Furniture Handlers,891113,Waterside Worker,5
+8,LABOURERS,89,Other Labourers,891,Freight Handlers and Shelf Fillers,8912,Shelf Fillers,891211,Shelf Filler,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8991,Caretakers,899111,Caretaker,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8992,Deck and Fishing Hands,899211,Deck Hand,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8992,Deck and Fishing Hands,899212,Fishing Hand,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8993,Handypersons,899311,Handyperson,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8994,Motor Vehicle Parts and Accessories Fitters,899411,Motor Vehicle Parts and Accessories Fitter (General),4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8994,Motor Vehicle Parts and Accessories Fitters,899412,Autoglazier,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8994,Motor Vehicle Parts and Accessories Fitters,899413,Exhaust and Muffler Repairer,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8994,Motor Vehicle Parts and Accessories Fitters,899414,Radiator Repairer,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8994,Motor Vehicle Parts and Accessories Fitters,899415,Tyre Fitter,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8995,Printing Assistants and Table Workers,899511,Printer's Assistant,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8995,Printing Assistants and Table Workers,899512,Printing Table Worker,4
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8996,Recycling and Rubbish Collectors,899611,Recycling or Rubbish Collector,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8997,Vending Machine Attendants,899711,Vending Machine Attendant,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899911,Bicycle Mechanic,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899912,Car Park Attendant,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899913,Crossing Supervisor,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899914,Electrical or Telecommunications Trades Assistant,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899915,Leaflet or Newspaper Deliverer,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899916,Mechanic's Assistant,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899917,Railways Assistant,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899918,Sign Erector,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899921,Ticket Collector or Usher,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899922,Trolley Collector,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899923,Road Traffic Controller,5
+8,LABOURERS,89,Other Labourers,899,Miscellaneous Labourers,8999,Other Miscellaneous Labourers,899999,Labourers nec,5

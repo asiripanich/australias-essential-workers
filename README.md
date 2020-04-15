@@ -1499,3 +1499,1129 @@ Finance Managers
 </tbody>
 
 </table>
+
+# Process tables
+
+## ANZSIC
+
+Merge ANZSIC tables together.
+`data/processed-data/cleaned_anzsic_2006.csv`
+
+<table>
+
+<caption>
+
+ANZSIC 2006 table
+
+</caption>
+
+<thead>
+
+<tr>
+
+<th style="text-align:left;">
+
+anzsic\_division
+
+</th>
+
+<th style="text-align:left;">
+
+anzsic\_code
+
+</th>
+
+<th style="text-align:left;">
+
+anzsic\_class\_title
+
+</th>
+
+<th style="text-align:left;">
+
+anzsic\_division\_title
+
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0111
+
+</td>
+
+<td style="text-align:left;">
+
+Nursery Production (Under Cover)
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0112
+
+</td>
+
+<td style="text-align:left;">
+
+Nursery Production (Outdoors)
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0113
+
+</td>
+
+<td style="text-align:left;">
+
+Turf Growing
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0114
+
+</td>
+
+<td style="text-align:left;">
+
+Floriculture Production (Under Cover)
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0115
+
+</td>
+
+<td style="text-align:left;">
+
+Floriculture Production (Outdoors)
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0121
+
+</td>
+
+<td style="text-align:left;">
+
+Mushroom Growing
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0122
+
+</td>
+
+<td style="text-align:left;">
+
+Vegetable Growing (Under Cover)
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0123
+
+</td>
+
+<td style="text-align:left;">
+
+Vegetable Growing (Outdoors)
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0131
+
+</td>
+
+<td style="text-align:left;">
+
+Grape Growing
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+A
+
+</td>
+
+<td style="text-align:left;">
+
+A0132
+
+</td>
+
+<td style="text-align:left;">
+
+Kiwifruit Growing
+
+</td>
+
+<td style="text-align:left;">
+
+Agriculture, Forestry and Fishing
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## ANZSOC
+
+Merge ANZSOC tables together. See in
+`data/processed-data/cleaned_anzsoc_2013.csv`
+
+<table>
+
+<caption>
+
+ANZSOC 2013 table
+
+</caption>
+
+<thead>
+
+<tr>
+
+<th style="text-align:left;">
+
+major\_code
+
+</th>
+
+<th style="text-align:left;">
+
+major\_group
+
+</th>
+
+<th style="text-align:left;">
+
+submajor\_code
+
+</th>
+
+<th style="text-align:left;">
+
+submajor\_group
+
+</th>
+
+<th style="text-align:left;">
+
+minor\_code
+
+</th>
+
+<th style="text-align:left;">
+
+minor\_group
+
+</th>
+
+<th style="text-align:left;">
+
+unit\_code
+
+</th>
+
+<th style="text-align:left;">
+
+unit\_group
+
+</th>
+
+<th style="text-align:left;">
+
+occupation\_code
+
+</th>
+
+<th style="text-align:left;">
+
+occupation\_group
+
+</th>
+
+<th style="text-align:left;">
+
+skill\_level
+
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+1111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives and Managing Directors
+
+</td>
+
+<td style="text-align:left;">
+
+111111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executive or Managing Director
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+1112
+
+</td>
+
+<td style="text-align:left;">
+
+General Managers
+
+</td>
+
+<td style="text-align:left;">
+
+111211
+
+</td>
+
+<td style="text-align:left;">
+
+Corporate General Manager
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+1112
+
+</td>
+
+<td style="text-align:left;">
+
+General Managers
+
+</td>
+
+<td style="text-align:left;">
+
+111212
+
+</td>
+
+<td style="text-align:left;">
+
+Defence Force Senior Officer
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+1113
+
+</td>
+
+<td style="text-align:left;">
+
+Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111311
+
+</td>
+
+<td style="text-align:left;">
+
+Local Government Legislator
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+1113
+
+</td>
+
+<td style="text-align:left;">
+
+Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111312
+
+</td>
+
+<td style="text-align:left;">
+
+Member of Parliament
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111
+
+</td>
+
+<td style="text-align:left;">
+
+Chief Executives, General Managers and Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+1113
+
+</td>
+
+<td style="text-align:left;">
+
+Legislators
+
+</td>
+
+<td style="text-align:left;">
+
+111399
+
+</td>
+
+<td style="text-align:left;">
+
+Legislators nec
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+12
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+121
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+1211
+
+</td>
+
+<td style="text-align:left;">
+
+Aquaculture Farmers
+
+</td>
+
+<td style="text-align:left;">
+
+121111
+
+</td>
+
+<td style="text-align:left;">
+
+Aquaculture Farmer
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+12
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+121
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+1212
+
+</td>
+
+<td style="text-align:left;">
+
+Crop Farmers
+
+</td>
+
+<td style="text-align:left;">
+
+121211
+
+</td>
+
+<td style="text-align:left;">
+
+Cotton Grower
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+12
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+121
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+1212
+
+</td>
+
+<td style="text-align:left;">
+
+Crop Farmers
+
+</td>
+
+<td style="text-align:left;">
+
+121212
+
+</td>
+
+<td style="text-align:left;">
+
+Flower Grower
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+<td style="text-align:left;">
+
+MANAGERS
+
+</td>
+
+<td style="text-align:left;">
+
+12
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+121
+
+</td>
+
+<td style="text-align:left;">
+
+Farmers and Farm Managers
+
+</td>
+
+<td style="text-align:left;">
+
+1212
+
+</td>
+
+<td style="text-align:left;">
+
+Crop Farmers
+
+</td>
+
+<td style="text-align:left;">
+
+121213
+
+</td>
+
+<td style="text-align:left;">
+
+Fruit or Nut Grower
+
+</td>
+
+<td style="text-align:left;">
+
+1
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
