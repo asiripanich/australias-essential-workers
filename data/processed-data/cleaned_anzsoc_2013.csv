@@ -110,9 +110,9 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2112,Music Professionals,211299,Music Professionals nec,1,FALSE
 2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2113,Photographers,211311,Photographer,2,FALSE
 2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211411,Painter (Visual Arts),1,FALSE
-2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211412,Potter or Ceramic Artist,"1 Aus,2 NZ",FALSE
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211412,Potter or Ceramic Artist,1,FALSE
 2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211413,Sculptor,1,FALSE
-2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211499,Visual Arts and Crafts Professionals nec,"1 Aus,2 NZ",FALSE
+2,PROFESSIONALS,21,Arts and Media Professionals,211,Arts Professionals,2114,Visual Arts and Crafts Professionals,211499,Visual Arts and Crafts Professionals nec,1,FALSE
 2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212111,Artistic Director,1,TRUE
 2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212112,Media Producer (excluding Video),1,TRUE
 2,PROFESSIONALS,21,Arts and Media Professionals,212,Media Professionals,2121,"Artistic Directors, and Media Producers and Presenters",212113,Radio Presenter,1,TRUE
@@ -146,12 +146,12 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222112,Finance Broker,2,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222113,Insurance Broker,2,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2221,Financial Brokers,222199,Financial Brokers nec,2,FALSE
-2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222211,Financial Market Dealer,"1 Aus,2 NZ",FALSE
-2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222212,Futures Trader,"1 Aus,2 NZ",FALSE
-2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222213,Stockbroking Dealer,"1 Aus,2 NZ",FALSE
-2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222299,Financial Dealers nec,"1 Aus,2 NZ",FALSE
-2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2223,Financial Investment Advisers and Managers,222311,Financial Investment Adviser,"1 Aus,2 NZ",FALSE
-2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2223,Financial Investment Advisers and Managers,222312,Financial Investment Manager,"1 Aus,2 NZ",FALSE
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222211,Financial Market Dealer,1,FALSE
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222212,Futures Trader,1,FALSE
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222213,Stockbroking Dealer,1,FALSE
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2222,Financial Dealers,222299,Financial Dealers nec,1,FALSE
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2223,Financial Investment Advisers and Managers,222311,Financial Investment Adviser,1,FALSE
+2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",222,"Financial Brokers and Dealers, and Investment Advisers",2223,Financial Investment Advisers and Managers,222312,Financial Investment Manager,1,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2231,Human Resource Professionals,223111,Human Resource Adviser,1,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2231,Human Resource Professionals,223112,Recruitment Consultant,1,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",223,Human Resource and Training Professionals,2231,Human Resource Professionals,223113,Workplace Relations Adviser,1,FALSE
@@ -187,17 +187,17 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2254,Technical Sales Representatives,225411,Sales Representative (Industrial Products),1,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2254,Technical Sales Representatives,225412,Sales Representative (Medical and Pharmaceutical Products),1,FALSE
 2,PROFESSIONALS,22,"Business, Human Resource and Marketing Professionals",225,"Sales, Marketing and Public Relations Professionals",2254,Technical Sales Representatives,225499,Technical Sales Representatives nec,1,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231111,Aeroplane Pilot,1,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231112,Air Traffic Controller,1,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231113,Flying Instructor,1,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231114,Helicopter Pilot,1,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231199,Air Transport Professionals nec,1,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231211,Master Fisher,2,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231212,Ship's Engineer,2,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231213,Ship's Master,2,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231214,Ship's Officer,2,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231215,Marine Surveyor,2,FALSE
-2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231299,Marine Transport Professionals nec,2,FALSE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231111,Aeroplane Pilot,1,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231112,Air Traffic Controller,1,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231113,Flying Instructor,1,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231114,Helicopter Pilot,1,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2311,Air Transport Professionals,231199,Air Transport Professionals nec,1,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231211,Master Fisher,2,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231212,Ship's Engineer,2,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231213,Ship's Master,2,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231214,Ship's Officer,2,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231215,Marine Surveyor,2,TRUE
+2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",231,Air and Marine Transport Professionals,2312,Marine Transport Professionals,231299,Marine Transport Professionals nec,2,TRUE
 2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2321,Architects and Landscape Architects,232111,Architect,1,FALSE
 2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2321,Architects and Landscape Architects,232112,Landscape Architect,1,FALSE
 2,PROFESSIONALS,23,"Design, Engineering, Science and Transport Professionals",232,"Architects, Designers, Planners and Surveyors",2322,Surveyors and Spatial Scientists,232211,code retired (ANZSCO Revision 1),,FALSE
@@ -537,7 +537,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3511,Bakers and Pastrycooks,351112,Pastrycook,3,TRUE
 3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3512,Butchers and Smallgoods Makers,351211,Butcher or Smallgoods Maker,3,TRUE
 3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3513,Chefs,351311,Chef,2,TRUE
-3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3514,Cooks,351411,Cook,"3 Aus,4 NZ",TRUE
+3,TECHNICIANS AND TRADES WORKERS,35,Food Trades Workers,351,Food Trades Workers,3514,Cooks,351411,Cook,3,TRUE
 3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361111,Dog Handler or Trainer,3,FALSE
 3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361112,Horse Trainer,3,FALSE
 3,TECHNICIANS AND TRADES WORKERS,36,Skilled Animal and Horticultural Workers,361,"Animal Attendants and Trainers, and Shearers",3611,Animal Attendants and Trainers,361113,Pet Groomer,4,FALSE
@@ -596,14 +596,14 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399914,Optical Mechanic,3,FALSE
 3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399915,Photographer's Assistant,4,FALSE
 3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399916,Plastics Technician,3,FALSE
-3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399917,Wool Classer,"3 Aus,2 NZ",FALSE
+3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399917,Wool Classer,3,FALSE
 3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399918,Fire Protection Equipment Technician,3,FALSE
 3,TECHNICIANS AND TRADES WORKERS,39,Other Technicians and Trades Workers,399,Miscellaneous Technicians and Trades Workers,3999,Other Miscellaneous Technicians and Trades Workers,399999,Technicians and Trades Workers nec,3,FALSE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4111,Ambulance Officers and Paramedics,411111,Ambulance Officer,2,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4111,Ambulance Officers and Paramedics,411112,Intensive Care Ambulance Paramedic (Aus) \ Ambulance Paramedic (NZ),1,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411211,Dental Hygienist,1,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411212,Dental Prosthetist,2,TRUE
-4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411213,Dental Technician,"2 Aus,1 NZ",TRUE
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411213,Dental Technician,2,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4112,"Dental Hygienists, Technicians and Therapists",411214,Dental Therapist,1,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4113,Diversional Therapists,411311,Diversional Therapist,3,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4114,Enrolled and Mothercraft Nurses,411411,Enrolled Nurse,2,TRUE
@@ -618,7 +618,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411715,Residential Care Officer,2,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,41,Health and Welfare Support Workers,411,Health and Welfare Support Workers,4117,Welfare Support Workers,411716,Youth Worker,2,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421111,Child Care Worker,3,TRUE
-4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421112,Family Day Care Worker,"4 Aus,3 NZ",TRUE
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421112,Family Day Care Worker,4,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421113,Nanny,4,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,421,Child Carers,4211,Child Carers,421114,Out of School Hours Care Worker,3,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422111,Aboriginal and Torres Strait Islander Education Worker,4,FALSE
@@ -626,7 +626,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422113,Kaiawhina Kohanga Reo (Maori Language Nest Assistant),4,FALSE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422114,Kaiawhina Kura Kaupapa Maori (Maori-medium School Assistant),4,FALSE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422115,Preschool Aide,4,FALSE
-4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422116,Teachers' Aide,"4 Aus,3 NZ",FALSE
+4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,422,Education Aides,4221,Education Aides,422116,Teachers' Aide,4,FALSE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4231,Aged and Disabled Carers,423111,Aged or Disabled Carer,4,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4232,Dental Assistants,423211,Dental Assistant,4,TRUE
 4,COMMUNITY AND PERSONAL SERVICE WORKERS,42,Carers and Aides,423,Personal Carers and Assistants,4233,Nursing Support and Personal Care Workers,423311,Hospital Orderly,4,TRUE
@@ -789,7 +789,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 5,CLERICAL AND ADMINISTRATIVE WORKERS,59,Other Clerical and Administrative Workers,599,Miscellaneous Clerical and Administrative Workers,5999,Other Miscellaneous Clerical and Administrative Workers,599999,Clerical and Administrative Workers nec,4,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6111,"Auctioneers, and Stock and Station Agents",611111,Auctioneer,3,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6111,"Auctioneers, and Stock and Station Agents",611112,Stock and Station Agent,3,FALSE
-6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6112,Insurance Agents,611211,Insurance Agent,"3 Aus,2 NZ",FALSE
+6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6112,Insurance Agents,611211,Insurance Agent,3,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611311,Sales Representative (Building and Plumbing Supplies),4,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611312,Sales Representative (Business Services),4,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,611,Insurance Agents and Sales Representatives,6113,Sales Representatives,611313,Sales Representative (Motor Vehicle Parts and Accessories),4,FALSE
@@ -798,7 +798,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612111,Business Broker,3,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612112,Property Manager,3,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612113,Real Estate Agency Principal \ Real Estate Agency Licensee,2,FALSE
-6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612114,Real Estate Agent,"3 Aus,2 NZ",FALSE
+6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612114,Real Estate Agent,3,FALSE
 6,SALES WORKERS,61,Sales Representatives and Agents,612,Real Estate Sales Agents,6121,Real Estate Sales Agents,612115,Real Estate Representative,3,FALSE
 6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6211,Sales Assistants (General),621111,Sales Assistant (General),5,FALSE
 6,SALES WORKERS,62,Sales Assistants and Salespersons,621,Sales Assistants and Salespersons,6212,ICT Sales Assistants,621211,ICT Sales Assistant,5,FALSE
@@ -829,10 +829,10 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711113,Glass Production Machine Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711114,Stone Processing Machine Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",711199,"Clay, Concrete, Glass and Stone Processing Machine Operators nec",4,FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7112,Industrial Spraypainters,711211,Industrial Spraypainter,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711311,Paper Products Machine Operator,"4 Aus,3 NZ",FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7112,Industrial Spraypainters,711211,Industrial Spraypainter,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711311,Paper Products Machine Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711312,code retired (ANZSCO Revision 1),,FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711313,Sawmilling Operator,"4 Aus,3 NZ",FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711313,Sawmilling Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7113,Paper and Wood Processing Machine Operators,711314,Other Wood Processing Machine Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7114,Photographic Developers and Printers,711411,Photographic Developer and Printer,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711511,Plastic Cablemaking Machine Operator,4,FALSE
@@ -842,20 +842,20 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711515,Reinforced Plastic and Composite Production Worker,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711516,Rubber Production Machine Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7115,Plastics and Rubber Production Machine Operators,711599,Plastics and Rubber Production Machine Operators nec,4,FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7116,Sewing Machinists,711611,Sewing Machinist,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711711,Footwear Production Machine Operator,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711712,Hide and Skin Processing Machine Operator,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711713,Knitting Machine Operator,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711714,Textile Dyeing and Finishing Machine Operator,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711715,Weaving Machine Operator,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711716,Yarn Carding and Spinning Machine Operator,"4 Aus,3 NZ",FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711799,Textile and Footwear Production Machine Operators nec,"4 Aus,3 NZ",FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7116,Sewing Machinists,711611,Sewing Machinist,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711711,Footwear Production Machine Operator,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711712,Hide and Skin Processing Machine Operator,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711713,Knitting Machine Operator,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711714,Textile Dyeing and Finishing Machine Operator,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711715,Weaving Machine Operator,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711716,Yarn Carding and Spinning Machine Operator,4,FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7117,Textile and Footwear Production Machine Operators,711799,Textile and Footwear Production Machine Operators nec,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711911,Chemical Production Machine Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711912,Motion Picture Projectionist,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711913,Sand Blaster,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711914,Sterilisation Technician,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,711,Machine Operators,7119,Other Machine Operators,711999,Machine Operators nec,4,FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7121,"Crane, Hoist and Lift Operators",712111,"Crane, Hoist or Lift Operator","4 Aus,3 NZ",FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7121,"Crane, Hoist and Lift Operators",712111,"Crane, Hoist or Lift Operator",4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7122,"Drillers, Miners and Shot Firers",712211,Driller,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7122,"Drillers, Miners and Shot Firers",712212,Miner,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7122,"Drillers, Miners and Shot Firers",712213,Shot Firer,4,FALSE
@@ -865,14 +865,14 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712913,Cement Production Plant Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712914,Concrete Batching Plant Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712915,Concrete Pump Operator,4,FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712916,Paper and Pulp Mill Operator,"4 Aus,3 NZ",FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712916,Paper and Pulp Mill Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712917,Railway Signal Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712918,Train Controller,4,FALSE
-7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712921,Waste Water or Water Plant Operator,"4 Aus,3 NZ",FALSE
+7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712921,Waste Water or Water Plant Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712922,Weighbridge Operator,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,71,Machine and Stationary Plant Operators,712,Stationary Plant Operators,7129,Other Stationary Plant Operators,712999,Stationary Plant Operators nec,4,FALSE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7211,"Agricultural, Forestry and Horticultural Plant Operators",721111,Agricultural and Horticultural Mobile Plant Operator,4,TRUE
-7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7211,"Agricultural, Forestry and Horticultural Plant Operators",721112,Logging Plant Operator,"4 Aus,3 NZ",TRUE
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7211,"Agricultural, Forestry and Horticultural Plant Operators",721112,Logging Plant Operator,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721211,Earthmoving Plant Operator (General),4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721212,Backhoe Operator,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7212,Earthmoving Plant Operators,721213,Bulldozer Operator,4,TRUE
@@ -882,7 +882,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7213,Forklift Drivers,721311,Forklift Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721911,Aircraft Baggage Handler and Airline Ground Crew,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721912,Linemarker,4,TRUE
-7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721913,Paving Plant Operator,"4 Aus,3 NZ",TRUE
+7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721913,Paving Plant Operator,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721914,Railway Track Plant Operator,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721915,Road Roller Operator,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,72,Mobile Plant Operators,721,Mobile Plant Operators,7219,Other Mobile Plant Operators,721916,Streetsweeper Operator,4,TRUE
@@ -893,7 +893,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7312,Bus and Coach Drivers,731211,Bus Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7312,Bus and Coach Drivers,731212,Charter and Tour Bus Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7312,Bus and Coach Drivers,731213,Passenger Coach Driver,4,TRUE
-7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7313,Train and Tram Drivers,731311,Train Driver,"4 Aus,3 NZ",TRUE
+7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7313,Train and Tram Drivers,731311,Train Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,731,"Automobile, Bus and Rail Drivers",7313,Train and Tram Drivers,731312,Tram Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,732,Delivery Drivers,7321,Delivery Drivers,732111,Delivery Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733111,Truck Driver (General),4,TRUE
@@ -903,7 +903,7 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 7,MACHINERY OPERATORS AND DRIVERS,73,Road and Rail Drivers,733,Truck Drivers,7331,Truck Drivers,733115,Tow Truck Driver,4,TRUE
 7,MACHINERY OPERATORS AND DRIVERS,74,Storepersons,741,Storepersons,7411,Storepersons,741111,Storeperson,4,TRUE
 8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8111,Car Detailers,811111,Car Detailer,5,TRUE
-8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8112,Commercial Cleaners,811211,Commercial Cleaner,"5 Aus,4 NZ",TRUE
+8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8112,Commercial Cleaners,811211,Commercial Cleaner,5,TRUE
 8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8113,Domestic Cleaners,811311,Domestic Cleaner,5,TRUE
 8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8114,Housekeepers,811411,Commercial Housekeeper,5,TRUE
 8,LABOURERS,81,Cleaners and Laundry Workers,811,Cleaners and Laundry Workers,8114,Housekeepers,811412,Domestic Housekeeper,5,TRUE
@@ -921,9 +921,9 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8213,Fencers,821311,Fencer,4,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8214,Insulation and Home Improvement Installers,821411,Building Insulation Installer,4,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8214,Insulation and Home Improvement Installers,821412,Home Improvement Installer,4,TRUE
-8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8215,Paving and Surfacing Labourers,821511,Paving and Surfacing Labourer,"5 Aus,4 NZ",TRUE
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8215,Paving and Surfacing Labourers,821511,Paving and Surfacing Labourer,5,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8216,Railway Track Workers,821611,Railway Track Worker,4,TRUE
-8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821711,Construction Rigger,"4 Aus,3 NZ",TRUE
+8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821711,Construction Rigger,4,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821712,Scaffolder,4,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821713,Steel Fixer,4,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8217,Structural Steel Construction Workers,821714,Structural Steel Erector,4,TRUE
@@ -932,15 +932,15 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821913,Lagger,5,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821914,Mining Support Worker,5,TRUE
 8,LABOURERS,82,Construction and Mining Labourers,821,Construction and Mining Labourers,8219,Other Construction and Mining Labourers,821915,Surveyor's Assistant,5,TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831111,Baking Factory Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831112,Brewery Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831113,Confectionery Maker,"5 Aus,4 NZ",TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831111,Baking Factory Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831112,Brewery Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831113,Confectionery Maker,5,TRUE
 8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831114,Dairy Products Maker,5,TRUE
 8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831115,Fruit and Vegetable Factory Worker,5,TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831116,Grain Mill Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831117,Sugar Mill Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831118,Winery Cellar Hand,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831199,Food and Drink Factory Workers nec,"5 Aus,4 NZ",TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831116,Grain Mill Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831117,Sugar Mill Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831118,Winery Cellar Hand,5,TRUE
+8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8311,Food and Drink Factory Workers,831199,Food and Drink Factory Workers nec,5,TRUE
 8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8312,"Meat Boners and Slicers, and Slaughterers",831211,Meat Boner and Slicer,4,TRUE
 8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8312,"Meat Boners and Slicers, and Slaughterers",831212,Slaughterer,4,TRUE
 8,LABOURERS,83,Factory Process Workers,831,Food Process Workers,8313,"Meat, Poultry and Seafood Process Workers",831311,Meat Process Worker,5,TRUE
@@ -954,23 +954,23 @@ major_code,major_group,submajor_code,submajor_group,minor_code,minor_group,unit_
 8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8321,Packers,832199,Packers nec,5,TRUE
 8,LABOURERS,83,Factory Process Workers,832,Packers and Product Assemblers,8322,Product Assemblers,832211,Product Assembler,5,TRUE
 8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8391,Metal Engineering Process Workers,839111,Metal Engineering Process Worker,5,TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8392,Plastics and Rubber Factory Workers,839211,Plastics Factory Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8392,Plastics and Rubber Factory Workers,839212,Rubber Factory Worker,"5 Aus,4 NZ",TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8392,Plastics and Rubber Factory Workers,839211,Plastics Factory Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8392,Plastics and Rubber Factory Workers,839212,Rubber Factory Worker,5,TRUE
 8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8393,Product Quality Controllers,839311,Product Examiner,4,TRUE
 8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8393,Product Quality Controllers,839312,Product Grader,4,TRUE
 8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8393,Product Quality Controllers,839313,Product Tester,4,TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839411,Paper and Pulp Mill Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839412,Sawmill or Timber Yard Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839413,Wood and Wood Products Factory Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839911,Cement and Concrete Plant Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839912,Chemical Plant Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839913,Clay Processing Factory Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839914,Fabric and Textile Factory Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839915,Footwear Factory Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839916,Glass Processing Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839917,Hide and Skin Processing Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839918,Recycling Worker,"5 Aus,4 NZ",TRUE
-8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839999,Factory Process Workers nec,"5 Aus,4 NZ",TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839411,Paper and Pulp Mill Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839412,Sawmill or Timber Yard Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8394,Timber and Wood Process Workers,839413,Wood and Wood Products Factory Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839911,Cement and Concrete Plant Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839912,Chemical Plant Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839913,Clay Processing Factory Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839914,Fabric and Textile Factory Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839915,Footwear Factory Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839916,Glass Processing Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839917,Hide and Skin Processing Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839918,Recycling Worker,5,TRUE
+8,LABOURERS,83,Factory Process Workers,839,Miscellaneous Factory Process Workers,8399,Other Factory Process Workers,839999,Factory Process Workers nec,5,TRUE
 8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8411,Aquaculture Workers,841111,Aquaculture Worker,5,TRUE
 8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841211,Fruit or Nut Farm Worker,5,TRUE
 8,LABOURERS,84,"Farm, Forestry and Garden Workers",841,"Farm, Forestry and Garden Workers",8412,Crop Farm Workers,841212,Fruit or Nut Picker,5,TRUE

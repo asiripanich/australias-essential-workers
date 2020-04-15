@@ -227,7 +227,8 @@ anzsoc_codes <-
   merge(anzsoc_submajor, by = "submajor_code") %>% 
   merge(anzsoc_minor, by = "minor_code") %>%
   merge(anzsoc_unit, by = "unit_code") %>%
-  setcolorder(c("major_code", "major_group", "submajor_code", "submajor_group", "minor_code", "minor_group", "unit_code", "unit_group"))
+  setcolorder(c("major_code", "major_group", "submajor_code", "submajor_group", "minor_code", "minor_group", "unit_code", "unit_group")) %>%
+  .[, skill_level := gsub(" Aus,.+", "", skill_level)]
 
 kable(head(anzsoc_codes, 10), caption = "ANZSOC 2013 table")
 ```
@@ -264,6 +265,7 @@ essential_minor <-
     "Farmers and Farm Managers",
     "Prison and Security Officers",
     "Financial and Insurance Clerks",
+    "Air and Marine Transport Professionals",
     "Education, Health and Welfare Services Managers",
     "ICT and Telecommunications Technicians",
     "Agricultural, Medical and Science Technicians",
@@ -280,7 +282,7 @@ essential_minor <-
     "Health and Welfare Support Workers",
     "Education, Health and Welfare Services Managers",
     "Agricultural, Medical and Science Technicians",
-    "School Teachers")
+    "School Teachers") %>% unique()
 
 # essential_submajor <-
 #   c("Hospitality, Retail and Service Managers",
@@ -297,7 +299,9 @@ anzsoc_codes %>%
 ```{r anzsoc-plot}
 ggplot(anzsoc_codes, aes(y = submajor_group, fill = is_essential)) +
   geom_bar() +
-  theme_minimal()
+  theme_minimal() +
+  labs(x = "Number of occupations")
+```
 ```
 
 ```{r}

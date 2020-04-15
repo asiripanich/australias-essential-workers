@@ -1300,3 +1300,5 @@ Fruit or Nut Grower
 ## Identify essential workers
 
 <img src="README_files/figure-gfm/anzsoc-plot-1.png" width="100%" />
+
+<img src="README_files/figure-gfm/unnamed-chunk-6-1.png" width="100%" />
