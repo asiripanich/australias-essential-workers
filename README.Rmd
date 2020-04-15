@@ -8,7 +8,10 @@ output: github_document
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>", 
-  echo = FALSE, message = FALSE, warning = FALSE
+  out.width = "100%",
+  echo = FALSE, 
+  message = FALSE, 
+  warning = FALSE
 )
 ```
 
