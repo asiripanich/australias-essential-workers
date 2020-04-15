@@ -8,7 +8,6 @@ output: github_document
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>", 
-  out.width = "100%",
   echo = FALSE, 
   message = FALSE, 
   warning = FALSE
@@ -41,7 +40,8 @@ The original data sources of the spreadsheets in 'data' folder are as stated bel
 library(data.table)
 library(readxl)
 library(magrittr)
-library(gt)
+# library(gt)
+library(kableExtra)
 
 anzsic_codes <- 
   readxl::read_xlsx(path = "data/raw-data/ANZSIC.xlsx", sheet = "codes") %>%
@@ -50,16 +50,23 @@ anzsic_divisions <-
   readxl::read_xlsx(path = "data/raw-data/ANZSIC.xlsx", sheet = "divisions") %>%
   janitor::clean_names()
 
-gt(head(anzsic_divisions, 10)) %>%
-  tab_header(
-    title = "ANZSIC 2006 divisions"
-  )
+# gt(head(anzsic_divisions, 10)) %>%
+#   tab_header(
+#     title = "ANZSIC 2006 divisions"
+#   )
 
-gt(head(anzsic_codes, 10)) %>%
-  tab_header(
-    title = "ANZSIC 2006 codes", 
-    subtitle = "first 10 rows only"
-  )
+kable(anzsic_divisions, 
+      caption = "ANZSIC 2006 divisions")
+  
+# gt(head(anzsic_codes, 10)) %>%
+#   tab_header(
+#     title = "ANZSIC 2006 codes",
+#     subtitle = "first 10 rows only"
+#   ) 
+  
+kable(head(anzsic_codes, 10), 
+    caption = "ANZSIC 2006 codes, first 10 rows only")
+  # scroll_box(width = "500px", height = "200px")
 ```
 
 # ANZSOC
@@ -76,10 +83,13 @@ anzsoc_major <-
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("major_code", "major_group"))
 
-gt(anzsoc_major) %>%
-  tab_header(
-    title = "ANZSOC 2013 - Major group"
-  )
+kable(anzsoc_major, 
+    caption = "ANZSOC 2013 - Major group")
+
+# gt(anzsoc_major) %>%
+#   tab_header(
+#     title = "ANZSOC 2013 - Major group"
+#   )
 
 anzsoc_submajor <-
   anzsoc %>%
@@ -87,11 +97,14 @@ anzsoc_submajor <-
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("submajor_code", "submajor_group"))
 
-gt(head(anzsoc_submajor, 10)) %>%
-  tab_header(
-    title = "ANZSOC 2013 - Submajor group",
-    subtitle = "first 10 rows only"
-  )
+kable(head(anzsoc_submajor, 10), 
+    caption = "ANZSOC 2013 - Sub-major group, first 10 rows only")
+
+# gt(head(anzsoc_submajor, 10)) %>%
+#   tab_header(
+#     title = "ANZSOC 2013 - Submajor group",
+#     subtitle = "first 10 rows only"
+#   )
 
 anzsoc_minor <-
   anzsoc %>%
@@ -99,11 +112,14 @@ anzsoc_minor <-
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("minor_code", "minor_group"))
 
-gt(head(anzsoc_minor, 10)) %>%
-  tab_header(
-    title = "ANZSOC 2013 - Minor group",
-    subtitle = "first 10 rows only"
-  )
+kable(head(anzsoc_minor, 10), 
+    caption = "ANZSOC 2013 - Minor group, first 10 rows only")
+
+# gt(head(anzsoc_minor, 10)) %>%
+#   tab_header(
+#     title = "ANZSOC 2013 - Minor group",
+#     subtitle = "first 10 rows only"
+#   )
 
 anzsoc_unit <-
   anzsoc %>%
@@ -111,11 +127,14 @@ anzsoc_unit <-
   janitor::remove_empty(., which = "cols") %>%
   setnames(c("unit_code", "unit_group"))
 
-gt(head(anzsoc_unit, 10)) %>%
-  tab_header(
-    title = "ANZSOC 2013 - Unit group",
-    subtitle = "first 10 rows only"
-  )
+kable(head(anzsoc_unit, 10), 
+    caption = "ANZSOC 2013 - Unit group, first 10 rows only")
+
+# gt(head(anzsoc_unit, 10)) %>%
+#   tab_header(
+#     title = "ANZSOC 2013 - Unit group",
+#     subtitle = "first 10 rows only"
+#   )
 
 anzsoc_occupation <-
   anzsoc %>%
@@ -123,11 +142,14 @@ anzsoc_occupation <-
   janitor::remove_empty(., which = "cols") %>% 
   setnames(c("occupation_code", "occupation_group", "skill_level"))
 
-gt(head(anzsoc_occupation, 10)) %>%
-  tab_header(
-    title = "ANZSOC 2013 - Occupation",
-    subtitle = "first 10 rows only"
-  )
+kable(head(anzsoc_unit, 10), 
+    caption = "ANZSOC 2013 - Occupation, first 10 rows only")
+
+# gt(head(anzsoc_occupation, 10)) %>%
+#   tab_header(
+#     title = "ANZSOC 2013 - Occupation",
+#     subtitle = "first 10 rows only"
+#   )
 
 ```
 
