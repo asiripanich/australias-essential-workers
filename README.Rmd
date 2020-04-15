@@ -1,0 +1,124 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# australias-essential-workers
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of this repository is to identify essential workers by their ANZSIC and ANZSCO codes.
+
+# Data sources
+
+The original data sources of the spreadsheets in 'data' folder are as stated below.
+
+- ANZSIC: https://www.fwc.gov.au/awards-and-agreements/minimum-wages-conditions/annual-wage-reviews/previous-wage-reviews/annual-wa-0
+- ANZSCO: https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1220.02013,%20Version%201.3?OpenDocument
+
+# References
+
+
+# Summary
+
+```{r}
+library(data.table)
+library(readxl)
+library(gt)
+
+anzsic_codes <- 
+  readxl::read_xlsx(path = "data/raw-data/ANZSIC.xlsx", sheet = "codes") %>%
+  janitor::clean_names()
+anzsic_divisions <- 
+  readxl::read_xlsx(path = "data/raw-data/ANZSIC.xlsx", sheet = "divisions") %>%
+  janitor::clean_names()
+
+gt(head(anzsic_divisions, 10)) %>%
+  tab_header(
+    title = "ANZSIC 2006 divisions"
+  )
+
+gt(head(anzsic_codes, 10)) %>%
+  tab_header(
+    title = "ANZSIC 2006 codes", 
+    subtitle = "first 10 rows only"
+  )
+```
+
+```{r}
+anzsoc <-
+  readxl::read_xlsx(path = "data/raw-data/ANZSCO.xlsx", sheet = "Table 5", skip = 5, col_names = FALSE) %>%
+  janitor::clean_names() %>%
+  setDT(.)
+  # setnames(c("major_code","major_group", "submajor_group", "minor_group", "unit_group", "occupation", "skill_level"))
+
+anzsoc_major <-
+  anzsoc %>%
+  .[!is.na(x1) & !is.na(x2)] %>%
+  janitor::remove_empty(., which = "cols") %>%
+  setnames(c("major_code", "major_group"))
+
+gt(anzsoc_major) %>%
+  tab_header(
+    title = "ANZSOC 2013 - Major group"
+  )
+
+anzsoc_submajor <-
+  anzsoc %>%
+  .[!is.na(x2) & !is.na(x3)] %>%
+  janitor::remove_empty(., which = "cols") %>%
+  setnames(c("submajor_code", "submajor_group"))
+
+gt(head(anzsoc_submajor, 10)) %>%
+  tab_header(
+    title = "ANZSOC 2013 - Submajor group",
+    subtitle = "first 10 rows only"
+  )
+
+anzsoc_minor <-
+  anzsoc %>%
+  .[!is.na(x3) & !is.na(x4)] %>% 
+  janitor::remove_empty(., which = "cols") %>%
+  setnames(c("minor_code", "minor_group"))
+
+gt(head(anzsoc_minor, 10)) %>%
+  tab_header(
+    title = "ANZSOC 2013 - Minor group",
+    subtitle = "first 10 rows only"
+  )
+
+anzsoc_unit <-
+  anzsoc %>%
+  .[!is.na(x4) & !is.na(x5)] %>%
+  janitor::remove_empty(., which = "cols") %>%
+  setnames(c("unit_code", "unit_group"))
+
+gt(head(anzsoc_unit, 10)) %>%
+  tab_header(
+    title = "ANZSOC 2013 - Unit group",
+    subtitle = "first 10 rows only"
+  )
+
+anzsoc_occupation <-
+  anzsoc %>%
+  .[!is.na(x5) & !is.na(x6)] %>% 
+  janitor::remove_empty(., which = "cols") %>% 
+  setnames(c("occupation_code", "occupation_group", "skill_level"))
+
+gt(head(anzsoc_occupation, 10)) %>%
+  tab_header(
+    title = "ANZSOC 2013 - Occupation",
+    subtitle = "first 10 rows only"
+  )
+
+```
+
