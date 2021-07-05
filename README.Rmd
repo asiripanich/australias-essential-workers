@@ -40,6 +40,10 @@ Sources of information I used to identify essential workers.
 - https://manofmany.com/lifestyle/advice/what-are-non-essential-services-australia
 - https://coronavirus.nt.gov.au/__data/assets/pdf_file/0006/809853/approved-remote-essential-worker-application.pdf
 
+## Additional list 
+
+- https://www.ama.com.au/sites/default/files/LCA_and_AMA_Essential_Services_Factsheet.pdf
+
 # Process tables
 
 <!-- ```{r, echo = FALSE} -->
